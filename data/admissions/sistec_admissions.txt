@@ -1,0 +1,46 @@
+# SISTec Bhopal - Admissions, Eligibility, Fees & Scholarships
+
+## Admission Modes & Process
+Admissions to B.Tech, M.Tech, MBA, and Pharmacy at SISTec Bhopal are conducted through:
+1. **MP DTE Online Counseling**: Centralized counseling conducted by the Directorate of Technical Education (DTE), Government of Madhya Pradesh based on JEE Main scores (for Engineering) or qualifying examination marks.
+2. **College Level Counseling (CLC)**: Institution-level rounds organized as per MP DTE guidelines for vacant and remaining seats.
+3. **Lateral Entry (B.Tech 2nd Year)**: For engineering diploma holders or B.Sc. graduates through MP DTE lateral entry counseling.
+
+## Eligibility Criteria
+- **B.Tech (1st Year)**:
+  - Passed 10+2 (Senior Secondary) examination from MP Board, CBSE, ICSE, or any recognized State/National Board.
+  - Compulsory Subjects: Physics and Mathematics, along with one subject from Chemistry / Biotechnology / Biology / Computer Science / Technical Vocational subject.
+  - Minimum Marks: At least 50% aggregate marks for General Category candidates; 45% aggregate marks for reserved categories (SC/ST/OBC belonging to Madhya Pradesh).
+- **B.Tech Lateral Entry (2nd Year)**:
+  - 3-year diploma in relevant branch of engineering with minimum 45% marks (40% for reserved categories) OR B.Sc. degree with Mathematics with minimum 45% marks.
+- **M.Tech**:
+  - B.E. / B.Tech degree in the relevant discipline with minimum 50% marks (45% for SC/ST/OBC MP candidates). Valid GATE score preferred.
+- **B.Pharm**:
+  - Passed 10+2 with Physics and Chemistry as compulsory subjects, plus Mathematics or Biology, with minimum 45% marks (40% for reserved categories).
+- **MBA**:
+  - Recognized Bachelor's degree (any discipline) of minimum 3 years duration with minimum 50% marks (45% for SC/ST/OBC MP candidates). CMAT / national entrance scores considered.
+
+## Fee Structure Guidelines
+- **B.Tech Tuition Fees**: Approximately ₹60,000 to ₹75,000 per year (subject to official approval by AFRC - Admission and Fee Regulatory Committee, MP).
+- **Caution Money**: One-time refundable security deposit taken at the time of admission.
+- **Examination Fees**: As prescribed per semester directly by RGPV / University examination portal.
+- **Bus Fee**: Separate transport fee if opted, depending on pickup route across Bhopal city.
+- **Hostel Fee**: Detailed in hostel section (approx. ₹45,000 - ₹85,000/year depending on room occupancy).
+
+## Scholarships & Financial Assistance
+1. **APJ Abdul Kalam SISTec Freeship**:
+   - Merit scholarship awarding tuition fee waivers to meritorious students securing top percentiles in qualifying entrance examinations or 12th board exams.
+2. **M. Visvesvaraya SISTec Meritorious Freeship**:
+   - Awarded to outstanding engineering aspirants showing exemplary academic records.
+3. **Sagar Ratna Scholarships**:
+   - Institutional merit-cum-means awards instituted by the Sagar Group of Institutions for exceptional students.
+4. **MP Government Post-Matric Scholarships**:
+   - SC / ST / OBC category students domiciled in Madhya Pradesh can avail 100% or significant tuition fee reimbursement via the MP Scholarship 2.0 portal, subject to family annual income limits as specified by MP government norms.
+5. **Mukhyamantri Medhavi Vidyarthi Yojana (MMVY)**:
+   - For MP domicile students securing 70% or more in MP Board or 85% or more in CBSE/ICSE 12th board exams, subject to government family income limits.
+
+## Admission Contact & Helpline
+- **Central Admission Helpline Phone**: +91 9109975760 / +91 9109975763
+- **Email**: admissions@sistec.ac.in
+- **In-Person Counseling Desk**: Available at Gandhi Nagar and Ratibad campus admission cells from Monday to Saturday (9:00 AM to 5:00 PM).
+

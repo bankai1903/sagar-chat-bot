@@ -1,0 +1,56 @@
+# SISTec Bhopal - Training, Corporate Relations & Placements (T&P)
+
+## Training & Placement Cell Overview
+The Training & Placement (T&P) Cell at Sagar Institute of Science and Technology (SISTec) operates with a dedicated mission of making students corporate-ready from the second year itself through rigorous technical, aptitude, coding, and soft-skill development programs.
+
+## Placement Key Highlights & Statistics
+- **Placement Rate**: Consistently achieves an average of ~96% placement record across eligible students during major placement drives.
+- **Job Offers**: Over 1,150+ job offers generated across campuses annually.
+- **Highest Salary Package**: Up to ₹21 LPA - ₹22 LPA offered by premium tech firms (e.g. Cisco, Infosys Power Programmer, etc.).
+- **Average Salary Package**: Ranges between ₹4.5 LPA to ₹4.8 LPA across engineering disciplines.
+- **Participating Companies**: 150+ national and multinational corporate partners visit for on-campus and pool-campus hiring every year.
+
+## Top Recruiters
+1. **IT Services & Tech Giants**:
+   - Tata Consultancy Services (TCS) (Digital & Ninja profiles)
+   - Infosys (Specialist Programmer & Systems Engineer)
+   - Wipro Technologies (Elite & Turbo)
+   - Cognizant (GenC & GenC Elevate)
+   - Accenture
+   - Capgemini
+   - HCL Technologies
+   - IBM India
+   - Cisco Systems
+   - Amazon (AWS / Support roles)
+   - Hexaware Technologies
+   - Persistent Systems
+   - Zensar Technologies
+
+2. **Core Engineering, Manufacturing & Infrastructure**:
+   - UltraTech Cement
+   - Polycab India
+   - Steel Strips Wheels Ltd (SSWL)
+   - Renault India
+   - Cummins India
+   - Asahi India Glass (AIS)
+   - Crompton Greaves
+   - Daikin Airconditioning
+
+3. **Consulting, E-Commerce & Financial Services**:
+   - Deloitte USI
+   - Ernst & Young (EY)
+   - Flipkart
+   - Goldman Sachs (Operations & Tech)
+   - ICICI Bank & HDFC Bank (for MBA)
+
+## Student Development & Pre-Placement Training
+- **Campus to Corporate (C2C) Modules**: Structured 360-degree training encompassing quantitative aptitude, logical reasoning, verbal ability, and group discussion etiquette.
+- **Coding & Technical Bootcamps**: Intensive hands-on training in Data Structures & Algorithms (DSA), Full-Stack Web Development, Python, Java, Cloud Computing, and AI/ML.
+- **Mock Interviews**: One-on-one technical and HR mock interviews conducted by corporate HR veterans and senior alumni.
+- **Summer Internships**: Mandatory 4 to 8-week internships facilitated across prominent industries and research institutions between 4th and 7th semesters.
+
+## T&P Cell Eligibility Guidelines for Campus Drives
+- Students typically require an aggregate CGPA of 6.0 or 6.5+ without active backlogs to be eligible for tier-1 IT and core campus drives.
+- Minimum 75% attendance in mandatory training modules and coding assessments is required to receive placement assistance.
+- "One Student One Job" standard policy applies, with special dream job / super-dream options allowed if the subsequent offer package is substantially higher (usually 1.5x to 2x).
+

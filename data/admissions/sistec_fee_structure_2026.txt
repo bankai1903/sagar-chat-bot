@@ -1,0 +1,53 @@
+# SISTec Bhopal - Official 2026 Fee Structure & Seat Intake Matrix
+
+## B.Tech Program - Gandhi Nagar Campus (GN) (Total Intake: 690)
+| Branch / Specialization | Approved Intake | Fee for First 50% Intake (₹/year) | Fee for Second 50% Intake (₹/year) |
+|---|---|---|---|
+| Computer Science & Engineering (CS) | 240 | ₹1,05,000 | ₹1,10,000 |
+| CSE - Artificial Intelligence & Data Science (CSE-AIDS) | 120 | ₹1,10,000 | ₹1,20,000 |
+| CSE - Cyber Security (CSE-CS) | 60 | ₹78,000 | ₹82,000 |
+| Computer Science & Information Technology (CS-IT) | 60 | ₹78,000 | ₹82,000 |
+| Electronics & Communication Engineering (EC) | 60 | ₹65,000 | ₹70,000 |
+| Mechanical Engineering (ME) | 60 | ₹60,000 | ₹60,000 |
+| Civil Engineering (CE) | 60 | ₹60,000 | ₹60,000 |
+| Electrical & Electronics Engineering (EX) | 30 | ₹60,000 | ₹60,000 |
+
+## B.Tech Program - Ratibad Campus (RB) (Total Intake: 840)
+| Branch / Specialization | Approved Intake | Fee for First 50% Intake (₹/year) | Fee for Second 50% Intake (₹/year) |
+|---|---|---|---|
+| Computer Science & Engineering (CS) | 300 | ₹69,000 (for >65% in 12th) | ₹79,000 (for <65% in 12th) |
+| CSE - Artificial Intelligence & Machine Learning (AI & ML) | 120 | ₹85,000 | ₹90,000 |
+| CSE - Internet of Things (CS & IOT) | 60 | ₹65,000 | ₹68,000 |
+| Mechanical Engineering (ME) | 120 | ₹55,000 | ₹55,000 |
+| Civil Engineering (CE) | 60 | ₹55,000 | ₹55,000 |
+| Electrical Engineering (EE) | 60 | ₹55,000 | ₹55,000 |
+| Electronics & Communication Engineering (EC) | 120 | ₹55,000 | ₹55,000 |
+
+## Pharmacy Programs (SIPTec)
+- **B-Pharm Gandhi Nagar (GN)**: Approved Intake: 100 | Annual Fee: ₹90,000
+- **B-Pharm Ratibad (RB)**: Approved Intake: 100 | Annual Fee: ₹80,000
+- **M-Pharm**: Approved Intake: 30 (at GN campus)
+
+## Management Programs (MBA & BBA)
+- **MBA**: Approved Intake: 180 (at GN) | Annual Fee: ₹75,000
+- **BBA - Gandhi Nagar (BBA-GN)**: Approved Intake: 120 | Annual Fee: ₹55,000
+- **BBA - Ratibad (BBA-RB)**: Approved Intake: 120 | Annual Fee: ₹45,000
+
+## M.Tech Programs (GN & RB Campuses)
+- **General M.Tech Fee**: Flat ₹30,000 per year across disciplines at Gandhi Nagar and Ratibad campuses.
+- **Exceptions**: Only CTM (Construction Technology & Management) and SE (Structural Engineering) are at ₹50,000 per year.
+- **Intake**: Gandhi Nagar: 108 seats | Ratibad: 54 seats | Total: 162 seats
+
+## Hostel Fee (Annual)
+- **Gandhi Nagar Campus (GN)**: Flat ₹1,00,000 per year (includes lodging and mess)
+- **Ratibad Campus (RB)**: Flat ₹1,00,000 per year (includes lodging and mess)
+
+## Overall Institutional Intake Summary (2026)
+- **B-Tech**: GN: 690 | RB: 840 | Total: 1,530
+- **M-Tech**: GN: 108 | RB: 54 | Total: 162
+- **B-Pharm**: GN: 100 | RB: 100 | Total: 200
+- **M-Pharm**: GN: 30 | RB: 0 | Total: 30
+- **MBA**: GN: 180 | RB: 0 | Total: 180
+- **BBA**: GN: 120 | RB: 120 | Total: 240
+- **Total Campus Strength/Intake**: Gandhi Nagar (GN): 1,228 | Ratibad (RB): 1,114 | **Grand Total Intake: 2,342**
+

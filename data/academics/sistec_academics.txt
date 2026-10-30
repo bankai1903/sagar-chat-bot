@@ -1,0 +1,54 @@
+# SISTec Bhopal - Academics, Programs & Examination
+
+## Overview & Affiliations
+- **Institution**: Sagar Institute of Science and Technology (SISTec), Bhopal.
+- **Affiliated University**: Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal for Engineering, Pharmacy, and MBA programs; Barkatullah University (BU) for selected undergraduate/business courses.
+- **Approvals & Accreditations**: Approved by All India Council for Technical Education (AICTE), New Delhi and Pharmacy Council of India (PCI). Accredited by NAAC and NBA for eligible programs.
+
+## Undergraduate Programs (B.Tech)
+Offered across SISTec Gandhi Nagar and SISTec Ratibad campuses:
+1. **Computer Science & Engineering (CSE)**
+2. **CSE - Artificial Intelligence & Data Science (AI & DS)**
+3. **CSE - Artificial Intelligence & Machine Learning (AI & ML)**
+4. **CSE - Cyber Security**
+5. **CSE - Internet of Things (IoT)**
+6. **Computer Science & Information Technology (CSIT)**
+7. **Electronics & Communication Engineering (ECE)**
+8. **Electrical Engineering (EE)**
+9. **Electrical & Electronics Engineering (EEE)**
+10. **Mechanical Engineering (ME)**
+11. **Civil Engineering (CE)**
+
+- **Duration**: 4 Years (8 Semesters)
+- **Degree Awarded**: Bachelor of Technology (B.Tech) affiliated to RGPV Bhopal.
+- **Curriculum**: Follows RGPV Choice Based Credit System (CBCS) syllabus with mandatory industrial internships, minor and major projects, and continuous assessment.
+
+## Postgraduate Engineering (M.Tech)
+- **Duration**: 2 Years (4 Semesters)
+- **Specializations**:
+  - Computer Science & Engineering
+  - VLSI Design
+  - Digital Communication
+  - Power System Engineering
+  - Structural Engineering
+  - Construction Technology
+  - Thermal Power Engineering
+  - Machine Design
+
+## Pharmacy Programs (SIPTec - Sagar Institute of Pharmacy and Technology)
+- **B.Pharm (Bachelor of Pharmacy)**: 4-Year degree program approved by PCI and affiliated to RGPV. Focuses on pharmaceutical chemistry, pharmacology, pharmacognosy, pharmaceutics, and drug regulatory affairs.
+- **M.Pharm (Master of Pharmacy)**: 2-Year postgraduate program with specializations in:
+  - Pharmaceutics
+  - Pharmaceutical Chemistry
+
+## Management Programs (SISTec Business School)
+- **MBA (Master of Business Administration)**: 2-Year full-time degree affiliated to RGPV / Barkatullah University.
+  - Specializations: Marketing, Finance, Human Resource Management (HRM), Banking & Financial Services, Retail, Business Analytics.
+- **BBA (Bachelor of Business Administration)**: 3-Year undergraduate foundation course in management.
+
+## Academic Calendar & Examination Rules
+- **Semester System**: Two semesters per academic year (Odd semester: July to December; Even semester: January to June).
+- **Attendance Requirement**: Minimum 75% attendance in theory and lab sessions is mandatory as per RGPV university norms to be eligible for university examinations.
+- **Evaluation**: Continuous Internal Assessment (Mid-semester tests, quizzes, assignments, lab evaluations) carries 30-40% weightage; End-Semester University Exams conducted by RGPV carry 60-70% weightage.
+- **Grading System**: 10-point SGPA (Semester Grade Point Average) and CGPA (Cumulative Grade Point Average) scale.
+
