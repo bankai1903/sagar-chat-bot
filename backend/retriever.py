@@ -24,6 +24,7 @@ def retrieve_domain_context(query: str, domain_key: str, n_results: int = 3) -> 
         distances = results["distances"][0] if "distances" in results and results["distances"] else [0.0] * len(docs)
 
         for doc, meta, dist in zip(docs, metadatas, distances):
+            meta = meta or {}
             chunks.append({
                 "text": doc,
                 "domain": domain_key,

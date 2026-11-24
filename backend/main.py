@@ -22,7 +22,9 @@ async def lifespan(app: FastAPI):
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     for info in DOMAINS.values():
         (DATA_DIR / info["folder"]).mkdir(parents=True, exist_ok=True)
-    index_all_domains()
+    total_existing = sum(get_or_create_collection(d).count() for d in DOMAINS)
+    if total_existing == 0:
+        index_all_domains()
     yield
 
 app = FastAPI(
