@@ -1,0 +1,38 @@
+# SISTec Bhopal - Official Admission FAQs & Detailed Process
+
+## Frequently Asked Questions (FAQs) - Admissions
+
+### Q1. What are the eligibility criteria for B.Tech admission?
+- Candidate must have passed 10+2 from MP Board, CBSE, ICSE, or any recognized State/National Board with Physics and Mathematics as compulsory subjects along with Chemistry, Biotechnology, Biology, or Computer Science.
+- Minimum 50% aggregate marks for General Category; 45% for MP domicile reserved categories (SC/ST/OBC).
+
+### Q2. Are 12th pass-out students from NIOS or State Open Boards eligible?
+- **Yes.** Students from National Institute of Open Schooling (NIOS), Bihar Open Board (BBOSE), and other recognized state open boards are fully eligible for B.Tech and Pharmacy admissions subject to standard percentage cutoffs.
+
+### Q3. How are admissions conducted?
+1. **MP DTE Online Centralized Counseling**: Conducted by Directorate of Technical Education, Government of MP based on JEE Main rank or 12th board merit.
+2. **College Level Counseling (CLC)**: Offline/in-person counseling rounds conducted at college campuses for leftover and vacant seats as per MP DTE notification schedules.
+
+### Q4. What documents are required at the time of admission?
+1. 10th and 12th original mark sheets (plus 3 photocopies)
+2. Transfer Certificate (TC) and Character Certificate
+3. Migration Certificate
+4. JEE Main / Entrance Scorecard (if applicable)
+5. Domicile / Resident Certificate (for MP quota)
+6. Caste Certificate (SC/ST/OBC) and Income Certificate (for scholarships)
+7. Aadhaar Card copy of student and parents
+8. Recent passport-size photographs (5 copies)
+
+### Q5. What is the fee payment schedule and method?
+- **Schedule**: Tuition fees are payable semester-wise (two installments per year):
+  - 1st Installment (Odd Semester): Typically by **20th June**
+  - 2nd Installment (Even Semester): Typically by **20th November**
+- **Method**: Fees are deposited securely through the SISTec ERP portal or direct bank transfer into the college's official bank account.
+
+### Q6. Is education loan and government scheme support available?
+- **Yes.** SISTec provides formal admission and fee structure bonafide certificates to facilitate bank education loans.
+- **Bihar Student Credit Card (MNSSBY)**: Fully accepted for eligible students from Bihar pursuing B.Tech, MBA, or Pharmacy programs.
+- **Madhya Pradesh MMVY & Post-Matric Scholarships**: Fully facilitated through the MP State Scholarship portal.
+
+### Q7. Is physical presence compulsory during admission reporting?
+- **Yes.** Physical reporting with original document verification is mandatory after allotment of seats by MP DTE.

@@ -18,19 +18,18 @@ import {
   Sparkles,
   CheckCircle2,
   AlertCircle,
-  ExternalLink,
   ShieldCheck,
   Compass
 } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 
 const DOMAIN_OPTIONS = [
-  { key: 'all', label: 'Auto Router', icon: Compass, color: 'from-blue-500 to-indigo-600' },
-  { key: 'academics', label: 'Academics', icon: GraduationCap, color: 'from-emerald-500 to-teal-600' },
-  { key: 'admissions', label: 'Admissions & Fees', icon: Coins, color: 'from-amber-500 to-orange-600' },
-  { key: 'hostels', label: 'Hostels & Campus', icon: Building2, color: 'from-purple-500 to-pink-600' },
-  { key: 'placements', label: 'Placements (T&P)', icon: Briefcase, color: 'from-blue-600 to-cyan-600' },
-  { key: 'administration', label: 'Administration', icon: Megaphone, color: 'from-rose-500 to-red-600' },
+  { key: 'all', label: 'Auto Router', icon: Compass },
+  { key: 'academics', label: 'Academics', icon: GraduationCap },
+  { key: 'admissions', label: 'Admissions & Fees', icon: Coins },
+  { key: 'hostels', label: 'Hostels & Campus', icon: Building2 },
+  { key: 'placements', label: 'Placements (T&P)', icon: Briefcase },
+  { key: 'administration', label: 'Administration', icon: Megaphone },
 ];
 
 const SUGGESTED_QUERIES = [
@@ -63,9 +62,6 @@ export default function App() {
   const [uploadStatus, setUploadStatus] = useState(null);
   const [isUploading, setIsUploading] = useState(false);
 
-  // System stats
-  const [domainStats, setDomainStats] = useState([]);
-
   const messagesEndRef = useRef(null);
 
   useEffect(() => {
@@ -78,20 +74,12 @@ export default function App() {
 
   const fetchStatsAndDocs = async () => {
     try {
-      const [domRes, docRes] = await Promise.all([
-        fetch('/api/domains'),
-        fetch('/api/documents')
-      ]);
-      if (domRes.ok) {
-        const stats = await domRes.json();
-        setDomainStats(stats);
-      }
-      if (docRes.ok) {
-        const docs = await docRes.json();
-        setDocuments(docs);
+      const res = await fetch('/api/documents');
+      if (res.ok) {
+        setDocuments(await res.json());
       }
     } catch (err) {
-      console.error("Failed to fetch initial stats:", err);
+      console.error("Failed to fetch documents:", err);
     }
   };
 

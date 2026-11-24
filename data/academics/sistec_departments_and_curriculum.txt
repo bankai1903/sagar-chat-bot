@@ -1,0 +1,1827 @@
+# COMPUTER SCIENCE & ENGINEERING
+URL: https://www.sistec.ac.in/computer-science-engineering
+
+Department of Computer Science & Engineering
+Seats Availability
+| Program
+| Intake (SISTec)
+| Intake (SISTec-R)
+| Intake (SISTec-E)
+| Total Number of Seats
+| B.Tech.
+| 240
+| 60
+| 540
+| M.Tech.
+| 18
+| -
+| 36
+Technical Trainings Roadmap
+## 1 st
+## Odd Semester Training Module
+Refresher Course Programming with C upto Loops
+## 1 st
+## Winter Break Training Module
+C Programming
+## 2 nd
+## Even Semester Module + Subject
+Programming Using C++ (BCE)
+## 3 rd
+## Summer Break Training Module
+HTML/CSS/JS
+## 3 rd
+## Odd Semester Training Module
+Core Java
+## 4 th
+## Winter Break Training Module
+Core Java + Project
+## 4 th
+## Even Semester Training Module
+Advanced Java Programming
+## 5 th
+## Summer Break Training Module
+Programming Using Python
+## 5 th
+## Odd Semester Training Module
+Programming with Adv. Python
+## 6 th
+## Winter Break Training Module
+Machile Learning | Mobile Application Development
+## 6 th
+## Even Semester Module + Subject
+Placement Oriented Training ( C/C++/DSA/DBMS)
+## 7 th
+## Summer Break Training Module
+Placement Oriented Training ( C/C++/DSA/DBMS/Java)
+## 7 th
+## Odd Semester Training Module
+Company Specific Trainings
+## 8 th
+## Winter Break Training Module
+Company Specific Trainings
+Laboratories
+IOT Lab
+C/C++
+DBMS/.Net
+DSA/ADA
+Java
+Operating System and Project Lab
+Cloud Computing and Skill Development Lab
+Data Analytics and Machine Learning Lab
+Programming, Network and Project Lab
+Achievements
+Video Lecture Series on the official RGPV YouTube Channel
+Team Velocity won cash prize in Lakecity Hack
+Video Lecture Series on the official RGPV YouTube Channel
+Navdunia Jyotirmaya Award 2024
+Research & Innovation
+High Performance Computer Networking, Routing, Switching and Security: Modern Network Infrastructure
+IoT-Enabled Intelligent Air Quality Monitoring Framework Using Raspberry Pi
+Design and Development of Samadhan Hackathon Website
+Smart Car Accident Detection System
+Placement Result
+Academic Toppers
+SIST ec -GN
+SIST ec -RB
+1st Semester
+5th Semester
+6th Semester
+7th Semester
+8th Semester
+1st Semester
+2nd Semester
+3rd Semester
+4th Semester
+5th Semester
+6th Semester
+8th Semester
+Department Videos
+SISTec-GN
+SISTec-RB
+Events
+SISTec Innovation Hackathon 4.0
+Google Developer Group Goodies Distribution & Interactive Session
+SISTec Innovation Hackathon 3.0
+AI Innovation Hackathon - Samadhan 2.0
+Seminar on The Power of Intellectual Property – Know Your Rights
+AI Builders Lab Bootcamp
+NPTEL Awareness Workshop & Felicitation of NPTEL Achievers
+SISTec Innovation Hackathon 2.0
+## B.Tech in Computer Science &
+Engineering
+Computer Science and Engineering (CSE) is an integrated academic program combining the fields of
+computer engineering and computer science, focusing on the digital electronics domain with added
+courses in computer architecture, processor design, operating systems, high-performance
+computing,
+parallel processing, computer networks, and embedded systems.
+The CSE program at SISTec focuses on practical exposure along with technology. Computer Science
+&
+Engineering also includes core subjects of computer science such as the theory of computation,
+design & analysis of algorithms, data structures, and database systems. Hands-on practices on
+RGPV
+subjects like Operating System, DBMS, Computer Network, Software Engineering, Cloud Computing,
+and
+Soft Computing are part of the industry-oriented teaching modules that students work on at Sagar
+Group of Institutions.
+The course program works on a 4x4 customized study module for better learning where four theory,
+four practical classes are conducted as opposed to standard two theory, two practical classes.
+As
+part of its focus on industry requirements, the department imparts special sessions on Python,
+JAVA, Web Designing, and Android App Development with live major-minor project making under the
+able guidance of trained faculties. Seven active labs on DSA/ADA Labs, DBMS/DOT NET Lab,
+Software
+Lab, Machine Learning Lab, Java Programming Lab, Language Lab, Basic Computer Programming/Matlab
+Lab provide all the required training based on students’ passion.
+Amongst all the engineering branches, Computer Science is the most popular choice among
+students.
+This branch of engineering is perceived to be popular due to its research scopes and is known to
+be
+challenging while offering good career opportunities and remuneration. Big Basket, Infosys,
+Accenture, SAP Labs, TCS, Wipro, Cognizant, Praemineo, and Hexaware Technologies are some of the
+popular recruiters visiting Sagar Group of Institutions for campus drives.
+Computer Science and Engineering graduates can make a career in various areas like web
+applications, computer graphics, video games, enterprise computing, embedded systems, network
+administration, mobile applications, computer vision, scientific modeling, computer security,
+database systems, animation, wireless network, artificial intelligence, computational skills,
+computer manufacturing, computer programming, computational biology, supercomputing to name a
+few.
+Almost all industries have job profiles for computer engineers hence the increasing demand for
+them.
+Apart from core subjects such as Object-Oriented Programming, Data Structures, Computer
+Architecture, Analysis and Design of Algorithms, Operating Systems, Compiler Design, and
+Software
+Engineering, the course curriculum imbibes an interdisciplinary approach. Subjects such as
+Microprocessors, Digital Circuits, and Systems have great practical utility and demand in the
+industry. Students can also opt for inter-disciplinary subjects as electives. The department
+also
+offers an M.Tech curriculum in the Computer Science stream as its post-graduate initiative.
+## M.Tech in Computer Science &
+Engineering
+Technology is omnipresent in our lives and with a boom in the technology sector within these
+past few decades, it is proving to be a lucrative career opportunity for students in the 21st
+Century especially those who are at the juncture to pass out of school and are considering
+various aspects for their future career option. Computer Science Engineering is the most popular
+course for engineering aspirants. Even during the counselling of the top engineering colleges,
+CSE seats are most demanded when compared with different branches.
+Sagar Institute Bhopal offers M.Tech. program in Computer Science & Engineering. This program is
+designed to provide in-depth and advanced study of various aspects of Computer Science and
+Engineering like Soft Computing, Network Security, Mobile Ad-Hoc Networking, Data Mining, and
+Data Warehousing. In addition, there are specialized courses like High-Performance Computing,
+Big Data, and Geographical Information System which provide the necessary analytical and
+technical competence among engineers in this area. A Masters Degree in CSE can not only be
+utilized for research purposes but also in garnering industry experience.
+The department has well-qualified, highly motivated, and fully committed faculty to impart
+quality education at both undergraduate and postgraduate levels. Most of the teaching staff is
+either Ph.D. or pursuing the work for their Ph.D. The department is well equipped with computer
+labs with the latest computing systems, technology, and round a clock Internet facility. The
+program includes seminars and a thesis that helps students develop basic concepts and
+intellectual competence.
+/footer template so it renders -->
+
+================================================================================
+
+# ARTIFICIAL INTELLIGENCE & DATA SCIENCE
+URL: https://www.sistec.ac.in/artificial-intelligence-data-science
+
+Department of CSE with Artificial Intelligence and Data Science
+Seats Availability
+| Program
+| Intake (SISTec)
+| Intake (SISTec-R)
+| Intake (SISTec-E)
+| Total Number of Seats
+| B.Tech.
+| 120
+| -
+| 120
+| M.Tech.
+| -
+Technical Trainings Roadmap
+## 1 st
+## Odd Semester Training Module
+Refresher Program
+## 1 st
+## Winter Break Training Module
+Advanced C Programming
+## 2 nd
+## Even Semester Module + Subject
+C++ Programming
+## 3 rd
+## Summer Break Training Module
+Python Core
+## 3 rd
+## Odd Semester Training Module
+Advanced Python, Web Development (Front End), OOP with C++
+## 4 th
+## Winter Break Training Module
+Full Stack Development in Python (Django)
+## 4 th
+## Even Semester Training Module
+Advanced Excel, R programming & Power BI
+## 5 th
+## Summer Break Training Module
+Comprehensive Flutter Training: Creating Real-World Apps (Flutter)
+## 5 th
+## Odd Semester Training Module
+Machine Learning
+## 6 th
+## Winter Break Training Module
+Deep Learning, Deep Learning with Image Processing
+## 6 th
+## Even Semester Module + Subject
+Deep Learning with NLP, Big Data/Robotics
+## 7 th
+## Summer Break Training Module
+Placement Training
+## 7 th
+## Odd Semester Training Module
+Company Specific Trainings
+## 8 th
+## Winter Break Training Module
+Company Specific Trainings
+Laboratories
+IOT Lab
+Operating System and Project Lab
+Cloud Computing and Skill Development Lab
+Data Analytics and Machine Learning Lab
+Programming, Network and Project Lab
+Research & Innovation
+AI-based Advanced Threat Detection and Response Device
+Placement Result
+Academic Toppers
+2nd Semester
+7th Semester
+5th Semester
+4th Semester
+5th Semester
+6th Semester
+Department Videos
+SISTec-GN
+Events
+Expert Session on Technology Commercialization, Licensing and Transfer Practices & Strategy
+Club Reformation Ceremony of the IEEE Student Branch & CIS Student Chapter
+One-Week Workshop on Android Application Development using Flutter
+Kaggle Kodders & Kala Sarthi Club Inauguration 2025
+## B.Tech in Artificial
+Intelligence and Data Science
+Artificial Intelligence (AI) is the latest technological advancement in the field of automation
+and
+it is the process of simulating advanced intelligence / human intelligence in machines to think
+and
+mimic like humans. As the name suggests artificial intelligence is recreated to suit a user’s
+demand.
+Data Science on the other hand is the interdisciplinary field that uses certain scientific
+methods,
+processes, and algorithms to extract knowledge and insights from structured and unstructured
+data,
+and apply knowledge and actionable insights from data across a broad range of application
+domains.
+Artificial Intelligence and Data Science go hand-in-hand in a way that will prepare the students
+with the skills to perform data analysis and based on that knowledge create AI-powered programs
+and
+applications. AI and Data Science in recent years have become a trending topic and one of the
+most
+sought-after fields with high-paying, dynamic, and thriving careers in technology.
+B.Tech in Artificial Intelligence and Data Science is a 4-year undergraduate engineering degree
+program. The students are taught the core technologies of artificial intelligence, data mining,
+and
+data modeling. In addition to this, the students will gain cross-disciplinary skills in
+statistics,
+logical reasoning, mathematical reasoning, knowledge discovery, and visualization skills.
+In order to fully understand the concepts of B.Tech in Artificial Intelligence and Data Science
+certain important topics will be covered such as Augmented Reality & Virtual Reality, Deep
+Learning, Introduction to Data Science, Data Visualization, Natural Language Processing,
+Programming for Problem Solving, Python Programming, Data Structures and Algorithms, Database
+Management Systems, Object-Oriented Programming, and many more.
+After completing this program, students can venture into this field at various profiles of
+Business
+Analyst, Data Analyst, Intelligence Analyst, Data Manager, Information Security Analyst, Risk
+Analyst, etc. The biggest technological players of the industry are always looking for competent
+engineers and companies such as Adani, Accenture Analytics, Adobe, Airbus, Amazon, BYJUs,
+Capgemini, Cognizant, Dassault Systemes, HCL Technologies, Hexaware, MuSigma, Paypal, SAP, Tata
+Consultancy Services, etc are recruiting actively and many of these players have previously
+visited
+Sagar Colleges Bhopal for active recruitment for various profiles.
+/footer template so it renders -->
+
+================================================================================
+
+# ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+URL: https://www.sistec.ac.in/artificial-intelligence-machine-learning
+
+Department of CSE with Artificial Intelligence and Machine Learning
+Seats Availability
+| Program
+| Intake (SISTec)
+| Intake (SISTec-R)
+| Intake (SISTec-E)
+| Total Number of Seats
+| B.Tech.
+| -
+| 120
+| -
+| 120
+| M.Tech.
+| -
+Technical Trainings Roadmap
+## 1 st
+## Odd Semester Training Module
+Refresher Course Programming with C upto Loops
+## 2 nd
+## Winter Break Training Module
+C Programming
+## 2 nd
+## Even Semester Module + Subject
+Programming Using C++ (BCE)
+## 3 rd
+## Summer Break Training Module
+Core Python
+## 3 rd
+## Odd Semester Training Module
+Data Structure Using Python
+## 4 th
+## Winter Break Training Module
+Programming in Core Java
+## 4 th
+## Even Semester Training Module
+Full Stack AI Engineering
+## 5 th
+## Summer Break Training Module
+Data Engineering-1
+## 5 th
+## Odd Semester Training Module
+Data Engineering-2
+## 6 th
+## Winter Break Training Module
+Generative AI
+## 6 th
+## Even Semester Module + Subject
+Image Processing using Open CV
+## 7 th
+## Summer Break Training Module
+Placement Oriented Training
+## 7 th
+## Odd Semester Training Module
+Company Specific Trainings
+## 8 th
+## Winter Break Training Module
+Company Specific Trainings
+Laboratories
+Operating System and Project Lab
+Cloud Computing and Skill Development Lab
+Data Analytics and Machine Learning Lab
+Programming, Network and Project Lab
+C/C++
+DBMS/.Net
+DSA/ADA
+IOT
+Java
+Python/Machine Learning
+Achievements
+1st Prize in Navonmesh 2025
+Placement Result
+Academic Toppers
+1st Semester
+2nd Semester
+3rd Semester
+4th Semester
+5th Semester
+6th Semester
+8th Semester
+Department Videos
+SISTec-RB
+## B.Tech in Artificial
+Intelligence and Machine Learning
+Artificial Intelligence (AI) is the latest technological advancement in the field of automation
+and
+it is the process of simulating advanced intelligence / human intelligence in machines to think
+and
+mimic humans. As the name suggests artificial intelligence is recreated to suit a user’s demand.
+Machine Learning is a part of Artificial Intelligence where through computer algorithms machines
+are taught to learn and evolve their working automatically through user experience and data.
+B.Tech in Artificial Intelligence and Machine Learning (AI-ML) is a 4-year undergraduate
+engineering degree program. The students of AI-ML are taught to write code and program the
+machines
+through which they can advance to think and act like human beings. This coding and programming
+is
+the essence or we can say the soul of the machines, working as guiding instruction for them. The
+said codes and programs which are somewhat like the mother tongue to the machines will help them
+in
+performing tasks with minimal human intervention.
+In order to write these codes and programs, the students will be taught certain programming
+languages, understood by the machines, like Prolog, Lisp, JAVA, and Python. Essentially, this
+B.Tech undergraduate program is centered around the programming of machines through computer
+languages. Hence in this program, the students are required to learn and practice these specific
+languages, used to customize the functionalities of machines.
+After completing the B.Tech in Artificial Intelligence and Machine Learning program, students
+can
+venture into this field at various profiles of Big Data Engineer, Business Intelligence
+Developer,
+Machine Learning Engineer, AI Data Analyst, Product Manager, AI Engineer, Robotics Engineer,
+etc.
+The requirement of students competent in Artificial Intelligence and Machine Learning is
+skyrocketing with the advent of the internet, new technologies, and a new age of automation. The
+biggest companies in the global market revolve around programming and top players like Amazon,
+Accenture, SAP, Adobe, Persistent Systems, WhiteHat Jr, Mahindra, Deloitte, Tata Communications,
+Cognizant, Genpact, Capgemini, Wipro, etc may hire individuals who are passed out form this
+undergraduate course. Many of these players have already visited the Sagar Group of Institutions
+for active recruitment.
+/footer template so it renders -->
+
+================================================================================
+
+# COMPUTER SCIENCE & ENGINEERING - IOT
+URL: https://www.sistec.ac.in/computer-science-engineering-internet-of-things
+
+Department of CSE with Internet of Things
+Seats Availability
+| Program
+| Intake (SISTec)
+| Intake (SISTec-R)
+| Intake (SISTec-E)
+| Total Number of Seats
+| B.Tech.
+| -
+| 60
+| M.Tech.
+| -
+Technical Trainings Roadmap
+## 1 st
+## Odd Semester Training Module
+Refresher Course Programming with C upto Loops
+## 1 st
+## Winter Break Training Module
+C Programming
+## 2 nd
+## Even Semester Module + Subject
+Programming Using C++ (BCE)
+## 3 rd
+## Summer Break Training Module
+Programming with Python
+## 3 rd
+## Odd Semester Training Module
+Data Structure Using Python
+## 4 th
+## Winter Break Training Module
+Training on Rasberry Pi & Arduino
+## 4 th
+## Even Semester Training Module
+Programming in Core Java
+## 5 th
+## Summer Break Training Module
+IoT Using Cloud
+## 5 th
+## Odd Semester Training Module
+Android App. Development Using Flutter
+## 6 th
+## Winter Break Training Module
+Data Engineering Using PySpark
+## 6 th
+## Even Semester Training Module
+Placement Oriented Training
+## 7 th
+## Summer Break Training Module
+Placement Oriented Training
+## 7 th
+## Odd Semester Training Module
+Company Specific Trainings
+## 7 th
+## Odd Semester Training Module
+Company Specific Trainings
+## 8 th
+## Winter Break Training Module
+Company Specific Trainings
+Laboratories
+Operating System and Project Lab
+Cloud Computing and Skill Development Lab
+Data Analytics and Machine Learning Lab
+Programming, Network and Project Lab
+C/C++ Lab
+DBMS/.Net Lab
+DSA/ADA Lab
+IOT Lab
+Java
+Python/Machine Learning Lab
+Placement Result
+Academic Toppers
+1st Semester
+2nd Semester
+3rd Semester
+4th Semester
+5th Semester
+6th Semester
+8th Semester
+Department Videos
+SISTec-RB
+## B.Tech in Computer Science &
+Engineering with Internet of Things
+The Internet of Things (IoT) can be described as a network of physical objects (things),
+embedded
+with certain sensors, software, and other technologies with the purpose to connect and exchange
+data with other devices and systems over the Internet. This technology mostly can be seen in
+smart
+homes or home automation where various devices and appliances are connected to a central network
+and can be controlled via devices such as smartphones and smart speakers. It is a full system of
+multiple digital machines transformed into interconnected computing devices.
+B.Tech in Computer Science & Engineering with Internet of Things is a 4-year undergraduate
+engineering degree program. Students opting for this program will study all the essential core
+Computer Science & Engineering courses and in addition, will study electives related to the
+Internet of Things. Upon completion of the program, students shall have a thorough knowledge of
+computer science and a firm grip on wireless communication, computer networks, IoT devices,
+systems, and networking.
+After completing this program, students can venture into this field with profiles of IoT
+Engineer,
+IoT App Developer, IoT Solution Architect, IoT Devices System Administrator, and IoT Scientist
+to
+name a few.
+/footer template so it renders -->
+
+================================================================================
+
+# ELECTRONICS & COMMUNICATION ENGINEERING
+URL: https://www.sistec.ac.in/electronics-communication-engineering
+
+Department of Electronics & Communication Engineering
+Seats Availability
+| Program
+| Intake (SISTec)
+| Intake (SISTec-R)
+| Intake (SISTec-E)
+| Total Number of Seats
+| B.Tech.
+| 60
+| 180
+| M.Tech.
+| 36
+| -
+| 36
+Technical Trainings Roadmap
+## 1 st
+## Odd Semester Training Module
+Refresher Course Programming with C upto Loops
+## 1 st
+## Winter Break Training Module
+C Programming
+## 2 nd
+## Even Semester Module + Subject
+Programming Using C++ (BCE)
+## 3 rd
+## Summer Break Training Module
+Electro Inspection
+## 3 rd
+## Odd Semester Training Module
+Analysis & Design of Analog & Digital Circuits
+## 4 th
+## Winter Break Training Module
+Data Structure using C Programming (CSE Dept.)
+## 4 th
+## Even Semester Training Module
+MATLAB & VHDL
+## 5 th
+## Summer Break Training Module
+Programming Using Python (CSE Dept.)
+## 5 th
+## Odd Semester Training Module
+Embedded Systems
+## 6 th
+## Winter Break Training Module
+Web Development using HTML/CSS/JS/PHP (CSE Dept.)
+## 6 th
+## Even Semester Module + Subject
+IoT & Robotics
+## 7 th
+## Summer Break Training Module
+Placement Oriented Training
+## 7 th
+## Odd Semester Training Module
+Company Specific Trainings
+## 8 th
+## Winter Break Training Module
+Company Specific Trainings
+Achievements
+Video Lecture Series on the official RGPV YouTube Channel
+NBA Accreditation for Dept. of CSE and ECE
+Navdunia Jyotirmaya Award
+Research & Innovation
+Illegal Dumping Detection System using ESP32 Cam Module
+Array and Wearable Antennas - Design Optimization and Applications
+Futuristic Trends in Renewable & Sustainable Energy
+Engineering Interview Insights
+Placement Result
+Academic Toppers
+SIST ec -GN
+SIST ec -RB
+2nd Semester
+4th Semester
+5th Semester
+6th Semester
+8th Semester
+1st Semester
+2nd Semester
+3rd Semester
+4th Semester
+5th Semester
+6th Semester
+8th Semester
+Department Videos
+SISTec-GN
+SISTec-RB
+Events
+Tech Expo 2026 at SISTec-Ratibad
+Ignite Innovation - ECE Project Expo 2026
+VLSI Masters Championship 2026
+Electro Blitz 2025
+AI-Powered IoT - Workshop on TinyML and Smart Devices
+Inauguration of Center of Excellence in IoT and Measurement Science
+MSME Idea Hackathon 4.0
+Expert Talk on Cyber Security & New Initiatives taken by BSNL
+## B.Tech in Electronics &
+Communication Engineering
+Electronics and Communications Engineering (ECE) is the engineering stream involved in the
+research, design, development, and testing of electronic equipment used in various electric
+systems. This stream of engineering mainly deals with analog transmissions, basic electronics,
+microprocessors, digital and analog communication, integrated circuits, microwave engineering,
+satellite communications, antennae, and wave progressions.
+The ECE department at SISTec offers B.Tech and M.Tech course programs in Electronics &
+Communication Engineering with a focus on the latest trends and technology training so that our
+budding engineers can prove themselves outside in the corporate world. The department works with
+an
+end focus on reducing industry and institute gaps, thus special attention is given to subjects
+like
+Electronic Devices / Microprocessor / VLSI / TV and Mobile Communications.
+PCB Designing, Embedded, VLSI, JAVA, Web Page Designing, IoT, Robotics Design, Industrial VLSI
+Design, and Arduino modules are certain extra training given to students apart from the regular
+curriculum. The department also has an e-yantra Robotics Lab sponsored by MHRD through the
+National
+Mission of Education - ICT in collaboration with IIT Bombay. Students have also prepared
+projects
+in the laboratories under the guidance of faculties. Smart Lecture Monitoring System using
+Arduino,
+Online Book Tracking System, Message Display using Bluetooth, Talking Gloves, and Smart Parking
+System are a few of the advanced projects made.
+The department has experienced and dedicated faculties with a strong commitment to engineering
+education maintaining its streak to be on a growing path. Faculties have published their
+research
+work in reputed journals/conferences. Because of the Digital India initiative by the Indian
+Government and the subsequent enhancement of electronic chip technology, the department of ECE
+is
+committed to providing in-depth theoretical knowledge and skilled practical training in these
+emerging fields of Electronics & Communication Engineering. The department’s main focus is on
+the
+overall practical exposure to the students on various aspects of Electronics and Communication
+Engineering. Frequent industrial visits and project-based assignments are some of the
+departmental
+incessant activities.
+## M.Tech in Digital
+Communication
+M.Tech. in Digital Communication is a program that focuses on the development, use, critical
+evaluation, and regulation of new electronic communication technologies using computer
+applications; and that prepares individuals to function as developers and managers of digital
+communications media. It includes instructions in computer and telecommunications technologies
+and processes; design and development of digital communications; marketing and distribution;
+digital communications regulation, law, and policy; the study of human interaction with, and use
+of, digital media; and emerging trends and issues.
+The M.Tech course of Digital Communication aims at providing in-depth knowledge to students of
+Electronics and Telecommunication background in various subjects of present-day interest like
+Advanced Digital Communication. The program aims to provide students with a wide variety of
+opportunities in Research and Development (R&D) and industry experience.
+Modern DSP, Advanced Embedded System, Antenna Theory and Design, Digital Electronics, Error
+control and coding, Advanced Computer Architecture, along with a course on Linear Algebra and
+elective courses like CMOS VLSI Design, Wireless & Mobile Network, Advances in VLSI design,
+Real-Time Operating System are some of the options to select for students according to subjects
+of their interest.
+## M.Tech in Very Large-Scale
+Integration (VLSI) Design
+Very Large-Scale Integration Design or VLSI Design is based on current industry standards that
+help attendees to secure placements in their dream jobs. VLSI Design course involves "Learning
+by Doing" using state-of-the-art infrastructure for performing hands-on exercises and real-world
+simulations. This extensive hands-on experience in VLSI Designing training ensures that you
+absorb the knowledge and skills that you will need to apply at work after your placement in an
+MNC.
+The M.Tech in VLSI is a 2-years Masters's Degree Programme for students interested in the
+current and expanding field of VLSI circuit design, to equip students with detailed knowledge of
+the latest technologies and the skills required to apply this knowledge in the design of VLSI
+systems. This program is designed to prepare students for leading-edge positions in the industry
+in the areas of VLSI. The program covers engineering aspects in designing and developing
+IC-based systems.
+The program curriculum is aimed at VLSI System Design: Hardware description Languages, System
+Architectures, Physical designs, Verification techniques, Simulation & Synthesis, Low power
+design techniques, Mixed-mode design methodologies, and Embedded System Design: Advanced
+Embedded Microcontrollers, Real-Time Embedded Systems, Advanced Embedded System Design, and
+System on Chip.
+/footer template so it renders -->
+
+================================================================================
+
+# ELECTRICAL & ELECTRONICS ENGINEERING
+URL: https://www.sistec.ac.in/electrical-electronics-engineering
+
+Department of Electrical & Electronics Engineering
+Seats Availability
+| Program
+| Intake (SISTec)
+| Intake (SISTec-R)
+| Intake (SISTec-E)
+| Total Number of Seats
+| B.Tech.
+| 30
+| -
+| 30
+| M.Tech.
+| -
+Technical Trainings Roadmap
+## 1 st
+## Odd Semester Training Module
+Computer Skill Training
+## 2 nd
+## Winter Break Training Module
+C Programming
+## 3 rd
+## Summer Break Training Module
+Playing with Electrical Components
+## 3 rd
+## Odd Semester Training Module
+Electrical Workshop with MATLAB
+## 4 th
+## Winter Break Training Module
+Training at CRISP on PLC & SCADA
+## 4 th
+## Even Semester Training Module
+Energy Distribution Technology and Machine Maintenance
+## 5 th
+## Summer Break Training Module
+Hands on session on ‘IoT’ and its applications
+## 5 th
+## Odd Semester Training Module
+Trends in IoT and Drone Technology
+## 6 th
+## Winter Break Training Module
+Data Structure with C/C++
+## 6 th
+## Even Semester Training Module
+Electric Vehicle Technology & Solar Erection, Commissioning & Maintenance
+## 7 th
+## Summer Break Training Module
+Placement Oriented Training
+## 7 th
+## Odd Semester Training Module
+Placement Oriented Training
+## 8 th
+## Winter Break Training Module
+Placement Oriented Training
+## 8 th
+## Even Semester Training Module
+Placement Oriented Training
+Laboratories
+Project Lab
+Power System Lab
+Power Electronics Lab
+Network Analysis Lab
+Machine Lab
+Electrical Instrumentation Lab
+Electrical Drives Lab
+Control System Lab
+Computer Lab
+Basic Electrical and Electronics Lab
+Achievements
+NBA Accreditation for Dept. of ME and EX
+First Position at Innovation Festival 2023
+Aacharya Chanakya Samman
+Research & Innovation
+AI Account Management System
+Ethical AI & Information Security
+AI-Based Cybersecurity & Digital Financial Literacy System
+Wireless Power Bank with Integrated AI-Powered Charging Control
+Placement Result
+Academic Toppers
+1st Semester
+7th Semester
+5th Semester
+2nd Semester
+3rd Semester
+4th Semester
+5th Semester
+2nd Semester
+8th Semester
+Department Videos
+SISTec-GN
+Events
+Workshop on Design Thinking–Driven Fundamentals of Drone Technology and Innovative Quadcopter System Design
+Workshop On Aviation And Drones
+Future Flight Drone Design Workshop
+One-Week Faculty Development Program under (ATAL) Academy
+Research Collaboration Meet 2K23
+SPS Teachers Training Program
+Reformation of IEEE Student Branch
+Workshop on Application of Power Electronics in Electrical Engineering
+## B.Tech in Electrical &
+Electronics Engineering
+The power-packed Electrical and Electronics Engineering department at Sagar Institute Bhopal
+inspires the budding electrical engineers with the potent idea of constructing Generating
+Stations,
+Transmission Lines, and Distribution Systems and designing, testing, and supervising the
+manufacture of Electrical and Electronic pieces of equipment used in electrical utilities,
+buildings, automobiles, air-crafts, radar, navigation system, and broadcast and communication
+systems.
+The course helps budding engineers diversify into various fields like multimedia programmer,
+technical sales engineer, and project manager. The Electrical and Electronics Engineering
+program
+at Sagar Institute aims to become a front-runner in bringing out globally competent electrical
+and
+electronics engineers, innovators, researchers, and entrepreneurs and thereby contribute value
+to
+the knowledge-based economy and society. The branch offers opportunities in core sectors both
+public and private such as NTPC Limited, Bharat Heavy Electricals Limited (BHEL), Oil and
+Natural
+Gas Corporation (ONGC), Steel Authority of India (SAIL), Coal India Ltd, CG Power & Industrial
+Solutions, HEG Ltd., Larsen & Toubro (L&T), Enercon, Ircon, Eicher and many more.
+The department offers quality undergraduate (B.Tech) and postgraduate (M.Tech) programs in
+Electrical and Electronics Engineering with state-of-the-art resources that contribute to
+achieving
+excellence in teaching-learning, research, and development activities. The figurative gap
+between
+industry and academia is bridged by framing curricula and syllabi based on industrial and
+societal
+needs, thus core subjects like Electrical Machines / Power System / Switchgear Protection /
+Power
+Electronics / Extra High Voltage Engineering / Electrical drives are given more weightage by
+providing extra theory & practical lectures.
+The department provides suitable forums to enhance the creative talents of students and faculty
+members with expert sessions conducted during semesters on recent electrical emerging trends by
+highly experienced industry professionals. The EX department aims to enable students to develop
+skills to solve complex technological problems of current times and also provide a framework for
+promoting collaborative and multidisciplinary activities.
+/footer template so it renders -->
+
+================================================================================
+
+# ELECTRICAL ENGINEERING
+URL: https://www.sistec.ac.in/electrical-engineering
+
+Department of Electrical Engineering
+Seats Availability
+| Program
+| Intake (SISTec)
+| Intake (SISTec-R)
+| Intake (SISTec-E)
+| Total Number of Seats
+| B.Tech.
+| -
+| 60
+| M.Tech.
+| -
+| 18
+Technical Trainings Roadmap
+## 1 st
+## Odd Semester Training Module
+Computer Skill Training
+## 2 nd
+## Winter Break Training Module
+C Programming
+## 3 rd
+## Summer Break Training Module
+Playing with Electrical Components
+## 3 rd
+## Odd Semester Training Module
+Electrical Workshop with MATLAB
+## 4 th
+## Winter Break Training Module
+Training at CRISP on PLC & SCADA
+## 4 th
+## Even Semester Training Module
+Energy Distribution Technology and Machine Maintenance
+## 5 th
+## Summer Break Training Module
+Hands on session on ‘IoT’ and its applications
+## 5 th
+## Odd Semester Training Module
+Trends in IoT and Drone Technology
+## 6 th
+## Winter Break Training Module
+Data Structure with C/C++
+## 6 th
+## Even Semester Training Module
+Electric Vehicle Technology & Solar Erection, Commissioning & Maintenance
+## 7 th
+## Summer Break Training Module
+Placement Oriented Training
+## 7 th
+## Odd Semester Training Module
+Placement Oriented Training
+## 8 th
+## Winter Break Training Module
+Placement Oriented Training
+## 8 th
+## Even Semester Training Module
+Placement Oriented Training
+Laboratories
+Electrical Machine Design Lab
+Electrical Drive Lab
+Electrical Machine Lab
+Electrical Workshop Lab
+Measurement and Instrumentation Lab
+Network Analysis Lab
+Power Electronics Lab
+Power System Lab
+Project Lab
+Signal & System Lab
+Simulation Lab
+Achievements
+Video Lecture Series on the official RGPV YouTube Channel
+Research & Innovation
+Agricultural Drone for Targeted Crop Spraying Using Machine Vision and GPS Guidance
+AI-Integrated Pollution Detection System with Predictive Analytics
+Water Efficient Hybrid Cooler
+Solar Based E-Bicycle
+Placement Result
+Academic Toppers
+1st Semester
+2nd Semester
+3rd Semester
+4th Semester
+5th Semester
+6th Semester
+8th Semester
+Department Videos
+SISTec-RB
+Events
+IEEE Day Celebration 2026
+URJA Robotics Workshop 2025
+IEEE Day Celebration and Project Expo 2024
+Saur Urja Diwas Celebration 2024
+Expert Lecture on Recent Trends in SMPS Circuit Design for LED
+Lecture on Innovative Trends in Electrical Design
+Spark Your Creativity Illuminate with LED
+Workshop on Data Analytics
+## B.Tech in Electrical
+Engineering
+Electrical Engineering is primarily the study and application of electricity, electronics, and
+electromagnetism for the development and maintenance of electrical and electronic equipment such
+as
+navigation systems, broadcast and communication systems, keeping in mind the safety, quality,
+economic feasibility, and sustainability of these products and systems.
+The Electrical Engineering Department at SISTec-E Ratibad Campus offers graduate and
+post-graduate
+programs: BTech and MTech. The branch of Electrical Engineering is one of the core sectors being
+the foundations of our economy and industrial sector. Applications of Electrical Engineering
+range
+from all diversified sectors involving automation and instrumentation.
+The department’s work culture and practices focus on practical exposure along with technology,
+hand-on sessions on subjects like Power systems, Control systems, Network Analysis, etc are part
+of
+the usual curriculum. The department aims to enable students to work independently on
+engineering
+and design projects with the ability to rethink existing concepts and develop new ones. Control
+Systems, Electrical Instrumentation, Semiconductor Devices and Circuits, Network Analysis,
+Microprocessor, and Power Electronics are certain labs that live in action. Solar Powered Air
+Cooler, Solar Digital Watch, Bluetooth Based Home Automation, and Solar Refrigerators are
+certain
+to live projects made by students under faculty guidance. The department maintains a link with
+the
+industry by organizing industrial visits for practical exposure. Matatila Power Station,
+Crompton
+Greaves, United Spirits Limited, Madhya Pradesh Electricity Board (MPEB), Sagar Manufacturers
+Pvt.
+Ltd. (SMPL), Sagar Nutriments Pvt. Ltd. (SNPL), Satpura Thermal Power Station, and Central Power
+Research Institute (CPRI) are to name a few.
+Electrical Engineering is one of the largest and most diverse technological and engineering
+disciplines and is rapidly growing not only within core areas such as power generation,
+transmission, and distribution but also finds extensive use in wireless communications and
+mobile
+technologies. Aside from being one of the major driving forces behind cutting-edge technology in
+areas such as power engineering, control system engineering, power electronics, and drives
+technologies, it has also significantly impacted several other fields such as nanotechnology and
+biotechnology, to name a few. Electrical Engineering students use science, engineering,
+technology,
+analytical reasoning, and creative and critical thinking skills to solve problems and design,
+construct and maintain electrical and electronics products.
+## M.Tech in Power System
+This course is an introductory subject in the field of Electric Power Systems and Electrical
+to Mechanical energy conversion all part of the Electrical Engineering domain. Electric power
+has become increasingly important as a way of transmitting and transforming energy in
+industrial, military and transportation uses. Electric power systems are also at the heart of
+alternative energy systems, including wind and solar electric, geothermal and small-scale
+hydroelectric generation systems.
+SISTec-E offers an M.Tech program in Power System at both theoretical and practical aspects.
+The program helps students understand the operation of microprocessors and microcontrollers
+which form a crucial part of the evolving power system technology. This program is designed
+to provide root study of various courses like Power Electronics Application to Power System,
+Advance Power System, Protection Relays, Power System Dynamic Analysis & Control, Power
+System Transient, and Power Quality & Conditioning. In addition, there are specialized
+courses like Power System Instrumentation, Power Controller, Special Machines, and Advanced
+Electrical Drives which provide extensive study in chosen areas of research work of
+analytical & technical competence among engineers in this sector.
+/footer template so it renders -->
+
+================================================================================
+
+# MECHANICAL ENGINEERING
+URL: https://www.sistec.ac.in/mechanical-engineering
+
+Department of Mechanical Engineering
+Seats Availability
+| Program
+| Intake (SISTec)
+| Intake (SISTec-R)
+| Intake (SISTec-E)
+| Total Number of Seats
+| B.Tech.
+| 60
+| 180
+| M.Tech.
+| 36
+| -
+| 36
+Technical Trainings Roadmap
+## 1 st
+## Odd Semester Training Module
+Refresher Course Programming with C upto Loops
+## 3 rd
+## Summer Break Training Module
+Calculator operation, Know the Department, Winter Training, Measurement through precision equipment, Unit Conversion, Product Development.
+## 3 rd
+## Odd Semester Training Module
+Manufacturing Process (Casting)
+## 4 th
+## Winter Break Training Module
+AutoCAD
+## 4 th
+## Even Semester Training Module
+Product Development
+## 5 th
+## Summer Break Training Module
+Hydrulics & Pneumatics
+## 5 th
+## Odd Semester Training Module
+Electrical Vehicle
+## 6 th
+## Winter Break Training Module
+Car Mechatronics(CRISP)-FH/Solid Works & Machining-SH
+## 6 th
+## Even Semester Module + Subject
+HVAC
+## 7 th
+## Summer Break Training Module
+CNC Programming (CRISP) / Interships
+## 7 th
+## Odd Semester Training Module
+PROJECT
+## 8 th
+## Winter Break Training Module
+Company Specific Trainings
+## 8 th
+## Even Semester Training Module
+Company Specific Trainings
+Laboratories
+Mechanical Workshop
+Thermal Lab
+SOM Lab
+RAC Lab
+Mechanical Vibration Lab
+Internal Combustion Engine Lab
+Heat Transfer Research lab
+Heat and Mass Transfer Lab
+Fluid Mechanics Lab
+Basic Mechanical Engineering Lab
+Automobile Engineering Lab
+3D Printing Laboratory
+Electric Vehicle Component Testing and Validation Laboratory
+Achievements
+Winners of SRIJAN 2025 State-Level Competition
+Video Lecture Series on the official RGPV YouTube Channel
+Jagran Josh Education Award 2024
+Video Lecture Series on the official RGPV YouTube Channel
+Research & Innovation
+Alternate Automotive Fuels and Emissions: Clean Fuel Technologies, Emission Control Systems, and Sustainable Powertrain Solutions
+Processing and Characterization of Resorbable Composites
+Municipal Waste Cleaning Machine
+Research project sanctioned by the MP Government to Dept. of ME
+Placement Result
+Academic Toppers
+SIST ec -GN
+SIST ec -RB
+1st Semester
+2nd Semester
+4th Semester
+5th Semester
+6th Semester
+8th Semester
+1st Semester
+2nd Semester
+3rd Semester
+4th Semester
+5th Semester
+6th Semester
+8th Semester
+Department Videos
+SISTec-GN
+SISTec-RB
+Events
+NIRMAAN 2026 – 14th Edition of the National Level Tech Skill Expo
+Mini Anveshana 2026
+Expert Session on the Secret of Effective Communication at SISTec Ratibad
+Expert Lecture on Building a Greener Tomorrow Sustainable Steel Production 2026
+Inauguration of IIIE Student Chapter
+Hands-on Training Audi 2.0 I.C. Engine at SISTec Ratibad
+Quad Torc Season 11 and FOMBI 2025
+Nirmaan 2025 - Tech Skill Expo XIII Edition
+## B.Tech in Mechanical
+Engineering
+Mechanical Engineering is the discipline that applies engineering physics, engineering
+mathematics,
+and materials science principles to design, analyze, manufacture, and maintain mechanical
+systems.
+It is one of the oldest and broadest of the engineering disciplines. The Mechanical Department
+at
+Sagar Institute has been functioning since the inception of the institution and comprises
+various
+modern laboratories and workshops in order to cater to the needs of the students undergoing the
+B.Tech program.
+The laboratories of Applied Mechanics, Fluid Mechanics, Thermal Engineering, Material Testing,
+Hydraulic Machine, Machine Dynamics, Production Engineering, Internal Combustion Engine Lab,
+Thermodynamics lab, Heat and Mass Transfer lab, RAC lab, TOMM Lab, DOM Lab, FM Lab, MC & MT Lab,
+Automobile Lab, ED Lab and Machine Design Lab, etc. adorn the pride of the department. The
+workshops and laboratories are well equipped with modern tools and operative charts and with the
+necessary equipment and machinery of the latest generation which gives insight to the students
+for
+future technological support in the field of Mechanical Engineering. Students are trained by
+highly
+skilled laboratory technicians to perform the jobs such as welding, molding, designing, fitting,
+shaping, cleaning, grinding, testing, etc. so as to make them competent to face the challenges
+in
+the job market.
+The department strappingly focus on imparting practical knowledge to the students and
+categorizes a
+national level working model competition titled “Nirmaan” every year. The department also keeps
+itself modernized and rejuvenated through SISTec Mechanical Engineers Association (SMEA) a body
+of
+budding technocrats that works to systematize different technical events at the college level.
+The
+extraordinary mechanical engineering labs and modernized workshops are an integral part of the
+department to upgrade and diversify the technical skills of students.
+## M.Tech in Machine Design
+The Department of Mechanical Engineering at SISTec offers a program in M.Tech. in Machine
+Design
+which deals with principles and techniques for designing machines, mechanisms, power
+generation
+units, automobiles, which are specialized activities of machine designers from an engineer’s
+perspective. A design engineer may have been trained as an engineer (mechanical, electrical,
+controls, etc.), a physicist, a chemist, a tribologist, a material scientist, a computer
+scientist, or even a machinist.
+This program offers an integrated approach to designing a wide range of mechanical systems
+using
+interrelationships between force, stress, and failure analysis in present world design.
+Advanced
+computational and analysis tools are incorporated to enhance the capability of the designer.
+The
+scope of the course ranges from conventional design to design code to highly sophisticated
+and
+advanced Computer-Aided Design (CAD).
+The objective of the program is to produce quality design engineers to cater to the needs of
+the
+relevant industry. A really good one is knowledgeable in all those fields in addition to
+knowing
+much about dimensional metrology. A designer crosses many disciplines and a machine designer
+often requires multi-disciplinary teams in industries. Industry leaders have learned that to
+maintain a competitive advantage in the global marketplace, one must continually improve
+their
+activities.
+## M.Tech in Thermal Power
+Engineering
+M. Tech. in Thermal Power and Engineering aims to enhance the skills of the student by giving
+them training on Thermal Power and Engineering under the domain of Mechanical Engineering. Our
+teaching methods have the basic knowledge that the students carry after passing engineering to
+the level of applied knowledge in engineering design and power sector industries. The faculty
+has wide experience ranging from erection, to commissioning of different projects.
+SISTec offers an M.Tech program in Thermal Engineering designed to provide sound and in-depth
+training in various aspects of design, manufacture, testing, control, and evaluation of Thermal
+Engineering. The course content aims at developing the necessary analytical and technical
+competence among thermal power engineers.
+Hydro, Thermal, Nuclear, and Electrical Power are very important for the development, growth,
+and progress of any country. The growth rate of 9% in the power sector is maintained by the
+Government of India by increasing their capacity of power generation, like by installing thermal
+plants, and hydro plants in different locations of India. With this, the demand for engineers in
+the field of Thermal Power will be much required to create new opportunities. M.Tech. in Thermal
+Power Engineering will offer students in-depth training in various aspects of designing,
+manufacturing, testing, controlling, and evaluating thermal power equipment.
+/footer template so it renders -->
+
+================================================================================
+
+# CIVIL ENGINEERING
+URL: https://www.sistec.ac.in/civil-engineering
+
+Department of Civil Engineering
+Seats Availability
+| Program
+| Intake (SISTec)
+| Intake (SISTec-R)
+| Intake (SISTec-E)
+| Total Number of Seats
+| B.Tech.
+| 60
+| -
+| 120
+| M.Tech.
+| 18
+| -
+| 36
+Technical Trainings Roadmap
+## 1 st
+## Odd Semester Training Module
+Refresher Course Programming with C upto Loops
+## 1 st
+## Winter Break Training Module
+C Programming
+## 3 rd
+## Summer Break Training Module
+Engineering Mechanics and Excel Basic Software Skills
+## 3 rd
+## Odd Semester Training Module
+AutoCAD-2D and Basics of 3D
+## 4 th
+## Winter Break Training Module
+Survey and Material Testing
+## 4 th
+## Even Semester Training Module
+3D Modelling (Sketchup / 3ds Max / Revit)
+## 5 th
+## Summer Break Training Module
+Concrete Mix Design as per IS-10262:2019
+## 5 th
+## Odd Semester Training Module
+Structural Analysis of RC Buildings (STAAD / SAP / ETABS)
+## 6 th
+## Winter Break Training Module
+Quantity Estimation and Costing - I
+## 5 th
+## Odd Semester Training Module
+Programming with Adv. Python
+## 6 th
+## Even Semester Module + Subject
+Structural Design of RC Building (STAAD / SAP / ETABS)
+## 7 th
+## Summer Break Training Module
+Quantity Estimation and Costing - II
+## 7 th
+## Odd Semester Training Module
+POT & QGIS
+## 8 th
+## Winter Break Training Module
+POT & Primavera
+## 8 th
+## Even Semester Training Module
+Mx Road / WaterGEMS
+Laboratories
+Basic Civil Lab
+Building Design Lab
+Engineering Mechanics Lab
+Environment Lab
+Geology Lab
+Geo-Technical Engineering Lab
+Software Lab
+Surveying Lab
+Transportation Lab
+Concrete Technology Lab
+Structural Analysis Lab
+Strength of Material Lab
+Fluid Mechanics Lab
+Achievements
+NBA Accreditation for Dept. of Civil
+Navdunia Jyotirmaya Award 2024
+Navdunia Jyotirmaya Award
+Research & Innovation
+Automatic Digital Impact Testing Apparatus
+Smart BOD
+Placement Result
+Academic Toppers
+SIST ec -GN
+SIST ec -RB
+1st Semester
+2nd Semester
+4th Semester
+6th Semester
+8th Semester
+1st Semester
+2nd Semester
+3rd Semester
+4th Semester
+5th Semester
+6th Semester
+8th Semester
+Department Videos
+SISTec-GN
+SISTec-RB
+Events
+UltraTech workshop on Advanced Construction Materials & Solutions VAC
+Workshop on Sustainable Waterproofing & Tiling Solutions
+Blood Donation Camp 2025
+Engineers Day Conclave 2025 Nation Builders at SISTec
+World Environment Day Celebration at SISTec Ratibad
+Expert talk on "Impact of Urban Morphology on Microclimate of Bhopal
+Ultatech Training Session on Importance of Waterproofing
+Inaugural of UltraTech Centre of Excellence
+## B.Tech in Civil Engineering
+The Civil Engineering stream is a professional engineering discipline that deals with the
+design,
+construction, and maintenance of the physical and naturally built environment, including works
+like
+roads, bridges, canals, dams, and buildings.
+B.Tech in Civil Engineering at Sagar Institute engineering college in Bhopal aims to meet the
+future needs of the construction industry and society by producing professional civil engineers
+competent in analyzing, designing, and managing solutions for practical engineering problems by
+imparting sound fundamentals at the B.Tech level and specialized subjects at M.Tech. level. The
+department has highly skilled and dedicated faculty members, with a rich academic background
+from
+the best educational institutes in the country.
+The teaching-learning process is seamlessly supported by a large number of industry-oriented
+modules such as Structure Analysis, RCC Designing, CAD Drawings are a part of the scheduled
+timetable to ensure enhanced employability of students added with excellent academic support
+facilities (laboratories, library, etc.). Nine active labs in action; Material, Soil, Fluid
+Mechanics, SOM, Geology, Structure, Survey, Building Design and Drawing, Auto CAD lab add to the
+training module for student learning. The most imperative requirement for a student of Civil
+Engineering is to have abundant field exposure and knowledge of on-site workings. To ensure that
+the students have sufficient know-how of the field, the department organizes a large number of
+field trips and industrial visits for its students.
+The department of Civil Engineering with its experienced faculty and dedicated training and
+placement cell continues to maintain and cultivate its strong links with the infrastructural
+industry in terms of placements such as Shree Ji Infrastructures Pvt. Ltd., Dilip Buildcon Pvt.
+Ltd., Seepage Control Pvt. Ltd., Kalash Infrastructures, Vansh Constructions, etc. The
+department
+is further working hard to develop both industrial and academic ties up with the industry
+leaders
+as its long-term initiatives. The department has an additional intrinsic advantage that Agrawal
+Builders, which is one of the biggest residential infrastructure developers and colonizer firms
+in
+Bhopal MP, is our parent company, and thus a confirmed recruiter of our graduate students.
+## M.Tech in Construction
+Technology and Management
+Construction Technology and Management (CTM) refers to the discipline of overall planning,
+coordination, and control of projects. It is a part of the Civil Engineering domain. This course
+is a combination of Civil Engineering and Construction Management.
+Construction Technology Management (CTM) is the overall planning, coordination, and control of a
+project from beginning to completion. This course gives the students scientific principles
+involved in construction, an understanding of the behavior of construction materials, and the
+fundamentals of structural mechanics. The course helps students achieve knowledge in
+decision-making, strategizing, business management, innovation, and technological demands.
+Advanced lessons in management science, project management, and risk analysis help students get
+the requisite expertise in the field.
+One of the prime engineering departments of the Sagar Group of Institutions, the Department of
+Civil Engineering at SISTec-R offers M. Tech. degree program organizing advanced special
+workshops as well as short time refresher courses with participation from academic and serving
+senior-level officers in Central and State Government and Public Sector (PSUs).
+The department actively promotes curriculum development activity by preparing resource material
+for teaching. It organizes seminars/symposia for professional interaction. The department
+contributes to the interdisciplinary academic and research activity of the Institute. The
+department is committed to imparting quality skills and knowledge for preparing students for the
+corporate as well as the construction world.
+## M.Tech in Structural Engineering
+The Master of Technology (M.Tech.) program in Structural Engineering at Sagar Institute of Science and Technology (SISTec) places a strong emphasis on the analysis and design of steel and concrete structures as well as the investigation of structures under dynamic loads. This program necessitates a solid understanding of finite element analysis , the behaviour of structural components and the dynamics of entire structural systems. Students gain proficiency in advanced concepts of structural engineering through comprehensive coursework, practical modelling projects and dissertation research.
+Our curriculum seamlessly integrates principles from Civil Engineering and Structural Engineering, offering students a profound comprehension of structural system behaviour and the application of advanced materials in structural design. The program is designed to foster skills in decision-making, innovation, and the effective use of technology to meet the evolving demands of the industry.
+The Civil Engineering department at SISTec is widely recognized for its commitment to academic excellence. We provide advanced workshops and short-term refresher courses featuring participation from distinguished academic and senior-level officials from Central and State Governments as well as Public Sector Undertakings (PSUs).
+To enrich our curriculum, we actively develop teaching resources and organize seminars and symposia to facilitate professional collaboration and networking opportunities. Through interdisciplinary academic and research initiatives, our objective is to equip students with the essential skills and knowledge required for success in both corporate and construction sectors, empowering them to make significant contributions to the field of structural engineering.
+/footer template so it renders -->
+
+================================================================================
+
+# PHARMACY (SIPTEC)
+URL: https://www.sistec.ac.in/sagar-institute-pharmacy-technology
+
+Sagar Institute of Pharmacy & Technology
+Visit Website
+Sagar Institute of Pharmacy and Technology (SIPTec) came into existence in the year 2008 with a
+vision to impart quality education in the field of Pharmacy. It is now one of the top pharmacy
+colleges in Bhopal MP offering B.Pharma and M.Pharma courses in the discipline of Pharmaceutics
+and Pharmaceutical Chemistry. The pharmacy colleges stand atop the leader board with its
+innovative process of teaching, training & evaluation in sync with the latest trends of the
+pharmaceutical industry.
+SIPTec is committed to the education of students who, upon graduation, can meet the public need
+for safe and effective pharmaceutical care. Students and faculty generate and disseminate
+knowledge, contributing to the education and continual professional growth of pharmacists,
+educators, scientists, and other healthcare professionals.
+The pharmacy college not only focuses on the standard university curriculum but also implements
+programs to develop the skills of students so that they can apply them to real world problems,
+thus fast-tracking their careers. The characteristics of quality instruction, basic & applied
+research and extensive knowledge of pharmacy practices contribute to making SIPTec’s curriculum
+gratifying and fulfilling with great advantage to the students. SIPTec as an initiative of free
+medicinal knowledge has created “Know Your Medicine”, an online platform where users can enquire
+about the medicine they intake and all possible effects associated with it. The platform also
+provides information about the ingredients of the
+medicines with proper dissection of each ingredient. Users can send in images of the said
+medicine also to get accurate information. The online platform is duly managed and coordinated
+by experienced medical practitioners and faculties of SIPTec.
+Affiliated to Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV) and approved by the All India
+Council for Technical Education (AICTE) and Pharmacy Council of India (PCI), SIPTec offers
+pharmacy courses at both undergraduate (B.Pharm) and postgraduate (M.Pharm) level.
+/footer template so it renders -->
+
+================================================================================
+
+# MANAGEMENT STUDIES (MBA)
+URL: https://www.sistec.ac.in/top-mba-college-in-bhopal
+
+MBA @ SIST ec
+SISTec MBA-A Flagship B-School of Sagar Group.
+A Robust Teaching Learning Model to ensure Academic, Pedagogical and Skill Based Development of the students through a Scientific Delivery Mechanism.
+Strong Corporate Connect through industrial Visits, invited Lectures, Seminars, and Workshops for a Real World Exposure to the students.
+100% summer internship Programs (SIPs)/ Pre-Placement Offers (PPOs) /Final Placements for all eligible students.
+Compulsory non-credit skill based courses to address industry-Academia gap.
+Seats Availability
+Program
+| Intake
+| MBA
+| 120
+Placements
+Internships
+Awards
+Life @ SIST ec MBA
+LET THE JOURNEY BEGIN..
+Welcome to a world where desire and opportunity collide, where dreams take flight, and leaders are created. Step into the incredible world of SISTec MBA, where we are redefining what it means to get an MBA. Prepare for an unforgettable encounter that goes beyond the limits of traditional learning.
+We believe that an MBA is more than just a degree; it is a transforming journey that propels you to personal and professional achievement. You will be immersed in an ecosystem that nurtures creativity, sparks intellectual curiosity, and ignites your entrepreneurial spirit the moment you step foot on our lively campus.
+We are aware that information alone won't pave the road to success; encouragement and direction are also necessary. We give our students' growth and welfare the utmost importance because of this. Our committed support services, such as 360 degree in-house training, career counseling, mentoring programmes, and personal development seminars, provide the framework upon which you can erect your aspirations, making sure that you have the network, assets, and tools necessary to succeed in the cutthroat business environment. Our year-round placement efforts provide students with plenty of opportunities for both internships and jobs.
+So, are you prepared to start your MBA journey, which will alter your boundaries, widen your perspectives, and reveal your actual potential? Welcome to SISTec MBA, where we cordially encourage you to participate in a life-altering, transcendental experience. Acquire a global mentality that will set you apart in the linked world of business by embracing diversity, honing your cultural sensitivity, and enhancing your intelligence.Together, let's unleash the leader within you and set off on a voyage of limitless opportunity.
+Management Activity Council
+The Management Activity Council serves as the vibrant heart of student involvement and leadership within SISTec Business School. Comprising enthusiastic and driven individuals, this council spearheads various initiatives, events, and activities aimed at enhancing the overall student experience. From organizing workshops and seminars to fostering networking opportunities with industry professionals, the Management Activity Council plays a pivotal role in shaping a dynamic and engaging environment conducive to personal and professional growth.
+Knowledge Series
+In academia, we think that education goes much beyond texts and lectures. That is why we organize a number of enthralling events, conferences, and seminars that attract global luminaries, industry titans, and agile thinkers to our campus. Immerse yourself in thought-provoking debates, acquire insights from seasoned professionals, and see firsthand how your MBA education is being applied in the real world. Our Knowledge Series is a one-of-a-kind expert session wherein experts are frequently invited from different realms to share their valuable insights of sundry topics.
+As you engage in lively conversations, work with brilliant minds, and get a complete awareness of the business world from many perspectives, the borders between disciplines blur. Students get firsthand experience of being mentored by the top industry mentors and go through the career path of these renowned mentors.
+Infra and Facilities
+Amphitheatre
+AV Halls
+Canteen
+Computer Labs
+Conference Hall
+Gymnasium
+Hostel
+Library
+Mess
+ATM
+Smart Class
+Sports
+Stationary
+Swimming Pool
+Transport
+WiFi
+Department Videos
+SISTec-GN
+Events
+SAFARANAMA 2026 - An MBA Farewell Party
+Expert Session on “The World of Derivatives: Basics to Beneficiaries”
+Budget Manthan 2026 – Post Budget Talk
+Expert Session on Career Opportunities in Commodities and Financial Markets
+Impact Of E-Learning Platforms On Training & Development
+National B-Plan Championship & 3-Day Hands-On Workshop on Business Intelligence
+Sagar Exuberance 4.0
+Workshop on Inspire & Aspire Discover Purpose
+Master of Business Administration
+The Master of Business Administration (MBA or M.B.A.) is a master's degree program in business administration (management). MBA is a terminal and professional degree in the field of management. Business schools or B-Schools in many countries offer programs tailored to full-time, part-time, executive jobs. MBA not only allows students to enter into the corporate world but also, opens up career options in government departments, industries, banks, and many other upcoming specialized business sectors. It also enables students to become an entrepreneur with present government policies supporting entrepreneurship.
+MBA is a professional master’s degree course, which enhances the knowledge of individuals in management theories, practices, and systems which are required in the corporates. MBA is very popular among students as it does not require any specific educational discipline to enter. Students from any stream, be it Commerce, Science or Humanities can enter the business administration program as long as they possess a graduate degree from a recognized university.
+The core courses in an MBA program cover various areas of business administration such as Management Concepts & Practices, Applied Statistics, Business Law, Business Strategy, Entrepreneurship, Managerial Economics, Communication Skills, Accounting, International Business Environment, Organizational Behavior, Human Resource Management, Operations Management, Financial Management, Marketing Management, and Project Management. The program outcome helps a budding manager gain the required skill set of business acumen, problem-solving skills, strong mathematical skills, analytical thinking, and an eye for detail helping them in leading a team of professionals as a manager.
+SISTec School of Management Studies (SISTec MBA), one of the top NAAC Accredited MBA colleges in Bhopal offer a two-year full-time program spread across four semesters in Masters of Business Administration (MBA) approved by All India Council for Technical Education (AICTE), New Delhi with an affiliation to Barkatullah University (BU Bhopal).
+SISTec MBA Course includes concentrated disciplines in a particular area. Five major specializations are available with the concept of dual-specialization where a student can select two out of five as their preferred choice. The specializations available for electives are Financial Management, Marketing Management, Human Resource Management, Retail Management, and Banking & Financial Services Management.
+SISTec MBA's "pedagogy" is designed such that students gain exposure to theory and practice alike. The program includes theoretical lectures, audio-visual lectures, case studies, paid/unpaid internships, learning by events & activities, practical lab-based learning, and project-based learning.
+M.B.A. (Full Time) Course Curriculum
+MBA First Year - Semester I
+[CP-101] Management Concepts & Practices
+[CP-102] Quantitative Methods
+[CP-103] Managerial Economics
+[CP-104] Communication Skills
+[CP-105] International Business Environment
+[CP-106] Accounting for Managers
+MBA First Year - Semester II
+[CP-201] Organizational Behaviour
+[CP-202] Human Resource Management
+[CP-203] Financial Management
+[CP-204] Marketing Management
+[CP-205] Research Methodology
+[CP-206] Project Management
+* Summer Internship (6 Weeks)
+* To be completed between end of 2nd semester and start of 3rd semester
+MBA Second Year - Semester III
+[CP-301] Business Policy & Strategic Analysis
+[CP-302] Management Information System & Decision Support System
+[CP-303] Specialization-I, Paper I
+[CP-304] Specialization-I, Paper II
+[CP-305] Specialization-II, Paper I
+[CP-306] Specialization-II, Paper II
+MBA Second Year - Semester IV
+[CP-401] Comprehensive Viva
+[CP-402] Business Legislation
+[CP-403] Entrepreneurship Development & Management
+[CP-404] Specialization-I, Paper III
+[CP-405] Specialization-I, Paper IV
+[CP-406] Specialization-II, Paper III
+[CP-407] Specialization-II, Paper IV
+Pedagogy
+Managerial Skills
+* Goal Setting Activity
+* Macro- Economic and sector Analysis
+* Industry Analysis
+* Report/ Article writing
+* Case Analysis
+* Business Analysis
+* Minor Research
+* Taxation & GST
+* Managing family Business
+* Corporate Governance
+Analytical Skills
+* Advance Excel
+* Quantitative Aptitude
+* Data Interpretation
+* Logical Reasoning
+* Introduction to SPSS
+* Fundamental & Technical Analysis
+* Customer Relationship Management
+* Digital Marketing
+* Business Analytics
+* Financial Valuation
+* Competency Based HRM
+* HR Analytics
+Soft Skills
+* Resume Building
+* Personal Grooming
+* Business & Office Etiquettes
+* Group Discussion & Personal Interview
+* Presentations
+* Leadership Training
+/footer template so it renders -->
+
+================================================================================
+
+# BACHELOR OF BUSINESS ADMINISTRATION (BBA)
+URL: https://www.sistec.ac.in/bba-at-sistec
+
+BBA @ SIST ec
+Seats Availability
+| Program
+| Intake (SISTec)
+| Intake (SISTec-R)
+| Total Intake
+| BBA
+| 120
+| 120 *
+| 240
+* Applied For Approval
+Bachelor of Business Administration
+The BBA program at SISTec Business School is a blend of examinations, presentations, case studies, and projects, students gain a comprehensive foundation in business principles. Practical exposure is a key focus— internships and live projects are seamlessly integrated into the curriculum to ensure students graduate career-ready.
+If you've just passed your 12th and dream of becoming a successful business professional, the BBA program at SISTec Business School is your perfect starting point. Our 3-year degree (affiliated with Barkatullah University ) goes beyond classroom learning to prepare you for real-world business success.
+Life @ SIST ec BBA
+What makes SIST ec the Best BBA College in Bhopal?
+Soft Skills & Personality Training
+Build confidence, communication, and leadership skills.
+Business News Sessions
+Stay updated with real-world market trends.
+Digital Marketing & Analytics
+Learn top tools for modern business success.
+Career Readiness Check
+Know your strengths and improve for job roles.
+Industry Insights
+Understand how different sectors work.
+Professional Grooming (PDP)
+Polish your etiquette, presence, and team skills.
+National Certifications
+Earn extra credentials to boost your resume.
+Expert Talks & Webinars
+Learn directly from business leaders.
+Case Study Practice
+Solve real business problems with smart thinking.
+Specialization Training
+Get deep knowledge in Marketing, Finance, or HR.
+Presentation Skills
+Become a confident speaker and presenter.
+Advanced Tool Training
+Master Excel, SPSS & business tools.
+Summer Internship
+Gain real work experience before graduating.
+Final Year Project
+Work on real research with industry impact.
+Job Test Prep
+Practice for AMCAT, CoCubes & more.
+Mock Interviews & GDs
+Prepare for placements with real-time practice.
+Public Speaking
+Sharpen your quick thinking & speaking skills.
+Role Plays & Simulations
+Train with real-life business scenarios.
+BBA Curriculum & Teaching Approach at SIST ec
+At SISTec Business School, our BBA curriculum goes far beyond textbooks. It's a practical, career-focused program that prepares students for the real business world with the skills, tools, and mindset needed to succeed in today’s fast-changing industries.
+Curriculum
+Learning
+Training
+Mentorship
+Industry
+## Industry-Aligned Curriculum
+Our BBA courses are updated regularly to match real-world business demands. From foundational business skills to trending tools, the curriculum ensures you stay ahead of market needs and job expectations.
+## Practical & Experiential Learning
+At SISTec, learning happens through:
+* Case studies
+* Live industry projects
+* Simulation games
+* Company visits
+* Corporate internships
+These experiences make our students job-ready from the start.
+## Career-Boosting Skill Training
+Beyond books, students get hands-on training in:
+* Digital Marketing – Learn to grow brands online
+* AI in Business – Understand smart tools shaping the future
+* Soft Skills & Communication – Speak and present with confidence
+* Personality Development – Build your leadership and executive presence
+## Mentorship & Guidance
+Every BBA student is assigned a mentor to support academic, career, and personal growth. It’s like having a coach by your side to help you plan your path and stay motivated.
+## Workshops & Masterclasses
+Attend expert-led sessions with:
+* Entrepreneurs
+* Industry leaders
+* Business coaches
+These events bring the boardroom to your classroom, offering insights you won’t find in textbooks.
+BBA (Full Time) Course Curriculum
+## Semester-I
+* B-101 - English Language
+* B-102 - Fundamentals of Business Management
+* B-103 - Computer Application
+* B-104 - Managerial Economics
+* B-105 - Introduction to Financial Accounting
+## Semester-II
+* B-106 - Business Communication
+* B-107 - Macro Economics
+* B-108 - Principles of Management
+* B-109 - Business Statistics
+* B-110 - Business Environment
+## Semester-III
+* B-111 - Marketing Management
+* B-112 - Introduction to International Business
+* B-113 - Business Organisation
+* B-114 - Personnel Management
+* B-115 - Financial Management
+## Semester-IV
+* B-116 - Business Law
+* B-117 - Management Accounting
+* B-118 - Research Methodology
+* B-119 - Strategic Management & Business Policy
+* B-120 - Quantitative Techniques
+## Semester-V
+* B-121 - Management Information System
+* B-122 - Entrepreneurship
+* B-123 - Supply Chain & Logistics Management
+* B-124 - Specialization 1
+* B-125 - Specialization 2
+## Semester-VI
+* B-126 - Business Ethics
+* B-127 - E-commerce
+* B-128 - Specialization 1
+* B-129 - Specialization 2
+* B-130 - Comprehensive Viva-Voce
+Frequently Asked Questions (FAQs)
+Q. What is the eligibility for the BBA program at SISTec?
+## Answer
+Students who have passed 12th grade from any recognized board (any stream) are eligible to apply for the BBA program at SISTec.
+Q. Which BBA specializations are offered at SISTec?
+## Answer
+SISTec offers three career-focused BBA specializations:
+* Marketing
+* Finance
+* Human Resources (HR)
+These are designed to match current industry needs and student interests.
+Q. Is the BBA degree from SISTec recognized?
+## Answer
+Yes, the BBA program at SISTec Business School is affiliated with Barkatullah University, a recognized state university.
+Q. Does SISTec offer internships during the BBA course?
+## Answer
+Absolutely! SISTec has a Structured Summer Internship Program (SIP) that gives students hands-on industry experience before graduation.
+Q. What kind of placement support does SISTec offer for BBA students?
+## Answer
+SISTec has a strong placement cell that organizes 100+ campus drives annually. Students also receive training in mock interviews, group discussions, and aptitude tests to ensure they are job-ready.
+Q. Are there any extra skill-based certifications with the BBA program?
+## Answer
+Yes, students get access to national-level certification courses in areas like digital marketing, financial modeling, data analytics, and more.
+Q. What is the duration of the BBA course?
+## Answer
+The BBA program is a 3-year full-time course divided into 6 semesters.
+Q. What makes SISTec’s BBA different from others?
+## Answer
+SISTec offers a blend of classroom learning and real-world exposure through internships, live projects, industry talks, advanced tool training, and personalized mentorship—preparing students not just for jobs, but for leadership roles.
+Awards
+Management Activity Council
+The Management Activity Council serves as the vibrant heart of student involvement and leadership within SISTec Business School. Comprising enthusiastic and driven individuals, this council spearheads various initiatives, events, and activities aimed at enhancing the overall student experience. From organizing workshops and seminars to fostering networking opportunities with industry professionals, the Management Activity Council plays a pivotal role in shaping a dynamic and engaging environment conducive to personal and professional growth.
+Knowledge Series
+In academia, we think that education goes much beyond texts and lectures. That is why we organize a number of enthralling events, conferences, and seminars that attract global luminaries, industry titans, and agile thinkers to our campus. Immerse yourself in thought-provoking debates, acquire insights from seasoned professionals, and see firsthand how your BBA education is being applied in the real world. Our Knowledge Series is a one-of-a-kind expert session wherein experts are frequently invited from different realms to share their valuable insights of sundry topics.
+As you engage in lively conversations, work with brilliant minds, and get a complete awareness of the business world from many perspectives, the borders between disciplines blur. Students get firsthand experience of being mentored by the top industry mentors and go through the career path of these renowned mentors.
+Infra and Facilities
+Amphitheatre
+AV Halls
+Canteen
+Computer Labs
+Conference Hall
+Gymnasium
+Hostel
+Library
+Mess
+ATM
+Smart Class
+Sports
+Stationary
+Swimming Pool
+Transport
+WiFi
+Department Videos
+SISTec-GN
+SISTec-RB
+/footer template so it renders -->
+
+================================================================================
+
+# COURSES OVERVIEW
+URL: https://www.sistec.ac.in/courses-sagar-institute-bhopal
+
+## Courses
+Courses Offered at Sagar Institute Bhopal
+Civil Engineering
+Seats
+B.Tech - 120
+M.Tech - 36
+Computer Science & Engineering
+Seats
+B.Tech - 540
+M.Tech - 36
+Computer Science & Information Technology
+Seats
+B.Tech - 60
+CSE with Artificial Intelligence and Data Science
+Seats
+B.Tech - 120
+CSE with Artificial Intelligence and Machine Learning
+Seats
+B.Tech - 120
+CSE with Internet of Things
+Seats
+B.Tech - 60
+CSE with Cyber Security
+Seats
+B.Tech - 60
+Electrical & Electronics Engineering
+Seats
+B.Tech - 30
+Electrical Engineering
+Seats
+B.Tech - 60
+M.Tech - 18
+Electronics & Communication Engineering
+Seats
+B.Tech - 180
+M.Tech - 36
+Mechanical Engineering
+Seats
+B.Tech - 180
+M.Tech - 36
+Computer Science & Engineering
+Intake
+-
+36
+Construction Technology and Management
+Intake
+-
+18
+Digital Communication
+Intake
+-
+18
+Machine Design
+Intake
+-
+18
+Power System
+Intake
+-
+18
+Structural Engineering
+Intake
+-
+18
+Thermal Power & Engineering
+Intake
+-
+18
+Very Large Scale Integration (VLSI) Design
+Intake
+-
+18
+B.Pharma
+Seats
+200
+M.Pharma
+(Pharmaceutics)
+Seats
+15
+M.Pharma
+(Pharmaceutical Chemistry)
+Seats
+15
+Bachelor of Business Administration
+Seats
+240
+Master of Business Administration
+Seats
+120
+/footer template so it renders -->
+
+================================================================================

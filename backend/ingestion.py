@@ -6,7 +6,7 @@ import chromadb
 from chromadb.utils import embedding_functions
 from pypdf import PdfReader
 
-from backend.config import CHROMA_PERSIST_DIR, DATA_DIR, DOMAINS, GEMINI_API_KEY
+from backend.config import CHROMA_PERSIST_DIR, DATA_DIR, DOMAINS
 
 # Initialize persistent Chroma client
 CHROMA_PERSIST_DIR.mkdir(parents=True, exist_ok=True)
@@ -45,7 +45,7 @@ def extract_text_from_file(file_path: Path) -> str:
     else:
         raise ValueError(f"Unsupported file format: {suffix}")
 
-def chunk_text(text: str, chunk_size: int = 700, chunk_overlap: int = 120) -> List[Dict[str, Any]]:
+def chunk_text(text: str, chunk_size: int = 1100, chunk_overlap: int = 150) -> List[Dict[str, Any]]:
     """
     Split text into semantically aware overlapping chunks.
     Preserves heading and section context where possible.
@@ -108,21 +108,15 @@ def index_file(file_path: Path, domain_key: str) -> int:
     except Exception:
         pass
 
-    documents = []
-    metadatas = []
-    ids = []
-
-    for idx, c in enumerate(chunks):
-        chunk_id = f"{domain_key}_{file_path.stem}_{idx}"
-        documents.append(c["text"])
-        metadatas.append({
-            "domain": domain_key,
-            "domain_name": DOMAINS[domain_key]["name"],
-            "source_file": file_path.name,
-            "heading": c["heading"],
-            "chunk_index": idx
-        })
-        ids.append(chunk_id)
+    documents = [c["text"] for c in chunks]
+    metadatas = [{
+        "domain": domain_key,
+        "domain_name": DOMAINS[domain_key]["name"],
+        "source_file": file_path.name,
+        "heading": c["heading"],
+        "chunk_index": idx
+    } for idx, c in enumerate(chunks)]
+    ids = [f"{domain_key}_{file_path.stem}_{idx}" for idx in range(len(chunks))]
 
     collection.add(
         documents=documents,

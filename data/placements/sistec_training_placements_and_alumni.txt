@@ -1,0 +1,987 @@
+# TRAINING AND PLACEMENT ECOSYSTEM
+URL: https://www.sistec.ac.in/training-and-placement
+
+About Training and Placement
+The Training and Placement Department (T&P) at SISTec is dedicated to empowering students to achieve their career aspirations through structured guidance, industry exposure, and continuous support. The T&P fosters a culture of lifelong learning, enabling students to build the skills, confidence, and adaptability required to thrive in an evolving job market. Starting from the first year, the T&P ensures that students are consistently guided through every stage of their career journey—from exploration to placement and beyond.
+## Our Approach
+T&P adopts a holistic and technology-driven approach to career readiness, combining personalised mentorship with advanced tools and practical exposure.
+* Early career orientation beginning in the first year
+* AI-enabled training app, Pod AI, for skill development and performance tracking
+* Dedicated placement-focused events like SISTec Headstart, bridging industry and academia
+* Training events like Number Games, Communication Premier League, and Sagar Setu to improve interview readiness
+* Recruitment drives with leading organisations such as TCS, Infosys, Wipro, Accenture, Cognizant, and Deloitte
+* Continuous placement guidance and career counselling
+* Access to experienced mentors and industry professionals
+* Special initiatives like Sagar Glory to recognise and celebrate student achievements
+## Key Objectives
+* To help students explore career paths and make informed decisions through the right tools and guidance
+* To equip students with industry-relevant skills and competencies
+* To build strong connections with recruiters and create diverse job opportunities
+* To support students throughout their placement journey and provide ongoing career guidance
+Centralized Placement Process for all 6 Institutes
+Latest Infrastructure
+## 5 Auditoriums
+## 6 Conference Halls
+## 22 Labs
+## 40 Interview Rooms
+Industry Certifications
+## Collaboration with CiSCO for CCNA/Cloud & Python programming
+## AWS Cloud Certified
+## Dedicated Lab for Salesforce Training
+## AI Integrated Training & Placements App
+Certifications
+Awards and Recognition
+## National Employability Award 2026
+## Instructor Leadership Award 2026
+## Leading Institution for Quality Placements 2025
+## National Employability Award 2025
+## National Employability Award 2024
+## National Employability Award 2023
+## Best Placement Award - Central India 2020
+## Most Innovative College Award - North Zone 2018
+17 March, 2026
+Dream Offers
+Placement Events
+Salesforce Student Immersion Program 2026
+Sagar Glory 2026 Hon’ble Governor Graces Grand Placement Celebration
+AI-Opener Awards 2026 Revolutionizing Placements with Pod.ai
+AI Foundation & Application: Industry Insight by TCS Expert
+SISTec Business School hosted Headstart: The Industry-Academia Forum
+SAGARIKA 2026 – Code The Change
+SIPTec Headstart - An Industry-Academia Forum
+Sagar Manthan 2026 - Certified Placement Readiness Program
+SISTec Headstart 5.0
+TEDx SISTec Bhopal 2025 — IDEA TO IMPACT
+Industry Talk with Mr. Jasmeet Singh Sethi, AVP at SHL
+Headstart 4.0 - The Industry-Academia Forum
+SISTec Headstart 2023
+TCS Orientation Program
+Pre Placement Talk for students Onboarding Batch 2024
+Sagar Manthan 2022 at SISTec
+Sagar Manthan 2022 at SISTec Ratibad
+SISTec Headstart — The Industry-Academia Forum 2.0
+Session on Microsoft Learn Student Ambassadors
+Expert Talks on Career Opportunities in IT Industry
+TCS Pre-Placement Orientation Program
+SISTec Glory 2022
+Recruiters' Speak
+Mr. Sunny Billava Head – nexALM CoE, HCLTech
+Jashuva P Salesforce Lead at ABSYZ
+Mr. Hemant Koshti Director, Marketing, HCLTech
+Mr. Parag Trivedi Salesforce
+Mr. Asim Nilose (CEO, IBSL)
+Mr. Himanshu Paliwal (AVP, Citi Bank)
+View More
+Students' Speak
+Ms. Lata Tekam CSE Batch 2025 | Placement Byte
+Ms. Himanshi ECE Batch 2025 | Placement Byte
+Mr. Irfan ME Batch 2025 | Placement Byte
+Ms. Ashu Patel CSE Batch 2025 | Placement Byte
+Mr. Aman Pachlaniya ME Batch 2025 | Placement Byte
+Ms. Gunja Kumari ME Batch 2025 | Placement Byte
+View More
+Placement Team
+## Mrs. Prachi Shrivastava
+## Associate Professor and Group Head
+(Corporate Relations)
+## Mr. Sharad Mohan Shrivastava
+## Sr. Manager Corporate Relations
+## Mr. Mayank Nema
+## Sr. Manager Corporate Relations
+## Dr. Amit Dubey
+## Corporate Relations Manager
+## Mr. Abhishek Jharbade
+## Corporate Relations Manager
+## Mr. Deepak Dangi
+## Assistant Professor and Corporate Relations Associate
+## Mr. Ankush Parihar
+## Corporate Relations Executive
+Training Team
+## Mr. Badal Bose
+## Head - Corporate Training
+## Mr. Anish Saxena
+## Corporate Trainer (Aptitude)
+## Mr. Vikrant Singh Bhadouriya
+## Corporate Trainer (Aptitude)
+## Mr. Ashish Kumar Tiwari
+## Corporate Trainer (Numerical Aptitude & Logical Reasoning)
+## Ms. Onaiza Ahmed
+## Communication Skill Trainer
+## Dr. Shaheen Saulat
+## Trainer (Communication Skills)
+## Ms. Roli Shrivastava
+## Corporate Trainer (Aptitude)
+## Ms. Anmol Jain
+## Communication Skills Trainer
+## Mr. Manish Verma
+## Corporate Trainer - Aptitude
+## Ms. Manjira Sinha
+## Corporate Trainer (Communication Skills)
+## Ms. Shiwani Tiwari
+## Corporate Trainer (Communication Skills)
+## Mr. Ankit Sharma
+## Corporate Trainer (Aptitude)
+## Ms. Chhabi Shukla
+## Trainer (Communication Skills)
+## Mr. Anil Narwariya
+## Trainer (Aptitude)
+## Ms. Anushka Shrivastava
+## Trainer (Communication Skills)
+## Mr. Love Dubey
+## Trainer (Aptitude)
+## Ms. Neeta Atre
+## Trainer (Communication Skills)
+/footer template so it renders -->
+
+================================================================================
+
+# ALUMNI ASSOCIATION NETWORK
+URL: https://www.sistec.ac.in/alumni-association
+
+Alumni Meet
+SISTec Alumni Meet 2024
+Date: 28-12-2024
+Sagar Group of Institutions-SISTec successfully hosted Confluentia 2024, a vibrant reunion that brought together alumni from engineering, pharmacy, and management streams to celebrate "Memories and Moments." The event kicked off at the Vikram Auditorium with a nostalgic video collage of past meets, followed by high-energy sports and games that rekindled the competitive spirit of hostel days. The atmosphere was further enriched by the presence of alumni from the Gandhi Nagar campus and esteemed ex-faculty members, creating a profound sense of community. Current students welcomed their seniors with captivating musical performances and dynamic dance mash-ups, while alumni and former professors shared invaluable insights and guidance, bridging the gap between cherished traditions and future aspirations.
+A poignant segment of the afternoon was dedicated to honoring our distinguished ex-faculty and outstanding alumni with mementos and gifts, recognizing the lasting impact they have made on the institution. The celebration reached its crescendo with a soulful musical performance by The Roots Band, featuring lead singer and Civil Engineering alumnus Mr. Anirudh Saxena (Batch 2014).
+SISTec Alumni Meet 2023
+Date: 23-12-2023
+Sagar Group of Institutions - SISTec Colleges conducted Alumni Meet - Confluentia 2023 with great zeal and enthusiasm. The event was full of nostalgia and expressions of thoughts. It was a great experience to share screens with Alumni from all 5 colleges coming up together as a single unit with a great bond. Confluentia 2023 witnessed the presence of over 150+ engineering, pharmacy, and management students re-uniting to cheer the glorious moments of their past and remember their good old days. Indulging selfie points at various popular locations with signature boards along with a musical and dance welcome performance by the current batch, got the students together.
+The alumni shared their experiences and acknowledged learning experiences at SISTec as the foundation of their success. A few alumni also shared details about their startups which they conceptualized during SISTec Startup Meet. Clicking selfies at every corner of campus and making videos filling their mobiles with no space were the takeaways as lifetime recollections by the students. They enjoyed grooving to the beats of music followed by a very delightful and scrumptious lunch. Proud Alumni jackets were presented along with badges as mementos by the institution.
+SISTec Alumni Meet 2022
+Date: 24-12-2022
+SISTec Alumni Meet Confluentia 2022 was held today with great zeal and enthusiasm, with students traveling from across India to attend it. Confluentia 2022 witnessed the presence of over 120+ engineering, pharmacy, and management students re-uniting to cheer the glorious moments of their past and remember their good old days. Indulging selfie points at various popular locations with signature boards along with a musical and dance welcome performance by the current batch, got the students together. The alumni students got together to recreate the assembly and participated in recreational games tug-of-war, find-me-out, badminton, table tennis, etc., and connected once again with their pals to add various flavors to their friendship.
+The alumni shared their experiences and acknowledged learning experiences at SISTec as the foundation of their success. A few alumni also shared details about their startups which they conceptualized during SISTec Startup Meet. Clicking selfies at every corner of campus and making videos filling their mobiles with no space were the takeaways as lifetime recollections by the students. They enjoyed grooving to the beats of music followed by a very delightful and scrumptious lunch. Proud Alumni T-Shirt were presented along with badges as mementos by the institution with the formation of Alumni committee 2023.
+SISTec Alumni Meet 2021
+Date: 31-07-2021
+Sagar Group of Institutions' - SISTec Colleges conducted Alumni Meet - Confluentia 2021 with
+great
+zeal and enthusiasm. The event was full of nostalgia and expressions of thoughts. It was a great
+experience to share screens with Alumni from all 5 colleges coming up together as a single unit
+with a great bond.
+The Alumni recollected and remembered the unforgettable journey of their college years and the
+learnings they received. Students connected from Canada, Australia & Germany with all enthusiasm
+and emotions.
+The event concluded by giving out Distinguished Alumni Award to 12 Alumni and further a
+Plantation
+Drive will be organized for all the Alumni present at the respective campuses with their names
+and
+batches.
+SISTec Alumni Meet 2019
+Date: 29-12-2019
+Happiness is reliving the glorious moments of the past and with that thought, SISTec organized
+Alumni Meet 2k19 with ex-students from all branches of Engineering, Pharmacy, and Management
+reuniting with each other and remembering the good old days. The campus was decked to the moon
+to welcome the Alumni back to their Alma Mater. The event was held in the college auditorium
+where alumni from way back 2012 batch to the most recent 2019 batch arrived. The event kicked
+off with the ceremonial lamp lighting followed by welcoming words from Principal SISTec Dr.
+Keshavendra Chaudhary. Vice Principal Dr. Swati Saxena in her address gave a brief about SISTec
+and Sagar Group.
+Some of the alumni shared their experiences from their college days and how the institute was a
+foundation for all their success. Mr. Sujoy Chakravarti from the 2017 Batch came all the way
+from Australia where he is pursuing his master's. Alumni of the 2012 batch shared their moments
+from their Mechanical Engg days and how they were the pioneers from the institute for the BAJA
+SAE India event. Few of the alumni also shared details about their startups which they
+conceptualized during SISTec Startup Meet.
+/footer template so it renders -->
+
+================================================================================
+
+# CAREERS AND OPPORTUNITIES
+URL: https://www.sistec.ac.in/careers
+
+CAREERS AT SIST ec
+Name (Special characters are not allowed)
+Department
+--Select Department--
+Computer Science & Engineering
+Computer Science and Information
+Technology
+Mechanical Engineering
+Civil Engineering
+Electronics & Communication Engineering
+Electrical & Electronics Engineering
+Electrical Engineering
+Pharmacy
+MBA
+BBA
+Administration
+Basic Science
+Training & Placement
+Technical
+CSE-Artificial Intelligence and
+Data Science
+CSE-Artificial Intelligence and
+Machine Learning
+CSE-Cyber Security
+CSE - Internet of Things
+Designation
+--Select Designation--
+Professor
+Associate Professor
+Assistant Professor
+Admin Manager
+Full Stack Developer
+Front End Developer
+Back End Developer
+Front Office Executive
+Back Office Executive
+Counsellor
+Executive Assistant
+IT Executive
+Office Assistant
+HR Executive
+Assistant Manager(Admin)
+Content Writer
+Communication Skill Trainer
+Corporate Verbal Trainer
+Aptitude Trainer
+Campus
+--Select Campus--
+SISTec-GN
+SISTec-RB
+Mobile Number (Special characters are not
+allowed)
+Upload Resume (PDF Only - Select file under 5mb)
+Enter the code shown
+↻
+Sagar Group of Institutions (SGI) does not seek money during the recruitment process. Click here to see our clarification in public interest.
+Graphics Designer
+Administration
+Gandhi Nagar, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation and Post Graduation
+Experience
+-
+0-2 years (freshers with a strong portfolio are welcome)
+Opportunities
+-
+1
+Key Skill
+-
+## Design creatives for social media, print, and digital platforms such as posters, brochures, flyers, banners, standees, and hoardings
+## Create admission campaign materials, event creatives, and campus branding assets
+## Design presentations, newsletters, certificates, and other institutional documents
+## Edit and create short promotional videos and reels (a plus)
+## Maintain brand consistency across all marketing material
+## Coordinate with the marketing and administrative teams and deliver within deadlines
+## Incorporate feedback and revise designs as needed
+Professor / Associate Professor – Pharmaceutical Chemistry
+Pharmacy
+Gandhi Nagar, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+M. Pharma (Ph.D)
+Experience
+-
+5 Years or Above
+Opportunities
+-
+1
+Key Skill
+-
+* Deliver lectures and practical sessions in Pharmaceutical Chemistry.
+* Develop teaching materials and support curriculum planning.
+* Conduct research and publish papers in reputed journals.
+* Guide students in academic projects and research activities.
+* Supervise laboratory activities and ensure safety compliance.
+* Participate in academic administration, examinations, accreditation, and departmental activities.
+* Mentor faculty members and contribute to institutional development.
+Assistant Professor/Associate Professor/Professor - Pharmacognosy
+Pharmacy
+Gandhi Nagar, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+M.Pharm
+Experience
+-
+2-5 Years
+Opportunities
+-
+1
+Key Skill
+-
+* Subject Matter Expertise
+* Teaching and Mentoring
+* Research and Publication
+* Communication and Interpersonal Skills
+* Collaboration and Teamwork
+* Academic Software and Digital Tools
+Associate Professor/Assistant Professor
+Basic Science
+Gandhi Nagar, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+M.Sc. in Chemistry / Applied Chemistry or equivalent; NET/SET/Ph.D.
+Experience
+-
+3-5 years
+Opportunities
+-
+1
+Key Skill
+-
+* Teach Engineering Chemistry / Applied Chemistry to first-year B.Tech students.
+* Conduct and supervise Chemistry laboratory practicals.
+* Prepare lesson plans, course materials, assignments, quizzes, and assessments.
+* Explain fundamental concepts of chemistry with relevant engineering and industry applications.
+* Evaluate students through internal assessments, practicals, assignments, and examinations.
+* Maintain laboratory records, practical manuals, and academic documentation.
+* Mentor and guide students in academic and project-related activities.
+* Participate in departmental meetings, academic planning, workshops, seminars, and institutional activities.
+* Contribute to curriculum development and innovative teaching-learning practices.
+* Maintain student attendance and academic performance records.
+* Follow institutional academic policies and applicable regulatory guidelines.
+* Contribute to research, publications, conferences, and other professional development activities.
+Assistant Manager / Lead – Corporate Relations
+Training & Placement
+Gandhi Nagar, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation and Post Graduation
+Experience
+-
+2-4
+Opportunities
+-
+1
+Key Skill
+-
+Location: Work From Home (Bangalore/Hyderabad Base)
+Experience & Eligibility
+* 2–4 years of experience in Corporate Relations, Training & Placement, IT Recruitment, or Talent Acquisition.
+* Strong corporate network across IT/Tech companies, startups, and MNCs in South India.
+* Excellent communication, presentation, and relationship-building skills.
+* Mandatory 2 days/month visit to SISTec Bhopal Campus.
+Key Responsibilities
+* Build and maintain corporate hiring partnerships.
+* Organize virtual and on-campus placement drives.
+* Connect industry requirements with student training and placement initiatives.
+* Track market trends and provide regular placement progress reports.
+Sports Executive cum Girls Hostel Warden
+Administration
+Gandhi Nagar, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation and Post Graduation
+Experience
+-
+2-5 Years
+Opportunities
+-
+1
+Key Skill
+-
+Sports Executive
+* Plan, organize, and supervise sports activities, tournaments, and annual sports events.
+* Promote student participation in indoor and outdoor sports.
+* Maintain sports facilities, grounds, equipment, and inventory.
+* Coach and mentor students for inter-college, university, state, and national competitions.
+* Coordinate with sports associations and governing bodies.
+* Ensure safety standards during sports activities.
+* Prepare sports calendars, budgets, reports, and event documentation.
+* Encourage fitness and wellness initiatives across the campus.
+Girls Hostel Warden
+* Manage the day-to-day administration of the girls' hostel.
+* Ensure discipline, safety, security, and overall well-being of hostel residents.
+* Monitor attendance, hostel records, and occupancy.
+* Address student grievances and provide guidance and counseling.
+* Coordinate with parents, faculty, and administration regarding student welfare.
+* Supervise housekeeping, maintenance, sanitation, and mess services.
+* Ensure compliance with hostel rules, emergency procedures, and safety protocols.
+* Organize recreational, cultural, and awareness programs for hostel residents.
+* Maintain confidentiality and handle emergencies promptly.
+## Qualifications
+* Bachelor's or Master's degree in Physical Education (B.P.Ed./M.P.Ed.) or a relevant discipline.
+* Experience in sports administration and hostel management is preferred.
+Assistant Professor/Associate Professor
+CSE - Artificial Intelligence and Data Science
+Gandhi Nagar, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation and Post Graduation
+Experience
+-
+2-5 Years
+Opportunities
+-
+2
+Key Skill
+-
+Roles & Responsibilities
+* Deliver undergraduate and/or postgraduate courses in Artificial Intelligence, Data Science, Machine Learning, Deep Learning, Data Analytics, and related subjects.
+* Prepare lesson plans, course materials, assignments, and assessment methodologies as per university guidelines.
+* Conduct practical sessions, laboratory work, and project guidance for students.
+* Mentor students in academic, technical, research, and career development activities.
+* Encourage innovation, research publications, patents, and participation in technical competitions.
+* Guide students in industry-oriented projects, internships, and emerging technology applications.
+* Contribute to curriculum development and continuous improvement of teaching-learning processes.
+* Organize workshops, seminars, FDPs, guest lectures, and technical events.
+* Participate in accreditation, academic administration, admissions, and institutional development activities.
+* Maintain academic records and ensure compliance with university and regulatory requirements.
+Required Qualifications
+* B.E./B.Tech and M.E./M.Tech in Computer Science Engineering, Artificial Intelligence, Data Science, Information Technology, or related disciplines.
+* Ph.D. in a relevant field is preferred as per AICTE/RGPV/UGC norms.
+* Strong academic background with good communication and presentation skills.
+Technical Skills
+Knowledge of one or more of the following areas:
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Data Science & Analytics
+* Python Programming
+* Data Visualization
+* Big Data Technologies
+* Natural Language Processing (NLP)
+* Computer Vision
+* Generative AI
+* Cloud Computing
+* Database Management Systems
+Preferred Skills
+* Research publications in reputed journals/conferences.
+* Experience in handling AI/ML projects and research activities.
+* Industry certifications in AI, Data Science, Cloud, or related technologies.
+* Ability to establish industry-academia collaborations.
+Executive Assistant to Director
+Administration
+Gandhi Nagar, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation/Post Graduation
+Experience
+-
+4-5 Years
+Opportunities
+-
+1
+Key Skill
+-
+* Advanced proficiency in Microsoft Office (Outlook, Excel, PowerPoint) and project management tools.
+* Strategic Calendar Management: Beyond just booking meetings, an EA protects the Director's time by prioritizing high-impact engagements and resolving scheduling conflicts across multiple time zones.
+* Communication Gatekeeping: Managing the Director's inbox, screening calls, and drafting professional correspondence to stakeholders, board members, and internal teams.
+* Meeting & Event Logistics: Preparing agendas, briefing papers, and recording minutes. They often oversee larger corporate events like Town Halls or off-site retreats.
+* Travel Coordination: Designing complex, seamless travel itineraries, including flights, accommodation, visas, and expense management upon return.
+* Project & Financial Support: Managing timelines for special projects, tracking department budgets, and compiling reports (such as KPIs or goals) for leadership review.
+Assistant Professor/Associate Professor/Professor - CSE
+Computer Science & Engineering
+Gandhi Nagar, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+B.Tech and M.Tech from reputed Institutes. PhD candidates are also preferred.
+Experience
+-
+Minimum 4-5 years
+Opportunities
+-
+5
+Key Skill
+-
+Prominent Academician with excellent technical skills, Artificial Intelligence/Machine Learning, IoT, Programming (C/C++/JAVA/.Net/Python), Software Engineering
+Graphic Designer
+Administration
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation and Post Graduation
+Experience
+-
+0-2 years (freshers with a strong portfolio are welcome)
+Opportunities
+-
+1
+Key Skill
+-
+## Design creatives for social media, print, and digital platforms such as posters, brochures, flyers, banners, standees, and hoardings
+## Create admission campaign materials, event creatives, and campus branding assets
+## Design presentations, newsletters, certificates, and other institutional documents
+## Edit and create short promotional videos and reels (a plus)
+## Maintain brand consistency across all marketing materials
+## Coordinate with the marketing and administrative teams and deliver within deadlines
+## Incorporate feedback and revise designs as needed
+Assistant/Associate Professor - English
+Basic Science
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+BA & MA in English Specialization
+Experience
+-
+2+ years
+Opportunities
+-
+1
+Key Skill
+-
+* Effective teaching skills
+* Strong knowledge of organic and inorganic chemistry
+* Proven research capabilities
+* Expertise in curriculum development
+* Excellent communication and interpersonal skills
+Trainer - Communication Skills
+Training & Placement
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation and Post Graduation
+Experience
+-
+2-5 Years
+Opportunities
+-
+1
+Key Skill
+-
+* Conduct sessions on spoken English, grammar, and business communication
+* Improve students’ presentation and interpersonal skills
+* Organize group discussions, role plays, and mock interviews
+* Provide feedback and track student progress
+* Support placement training activities
+Trainer - Aptitude
+Training & Placement
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation and Post Graduation
+Experience
+-
+2-5 Years
+Opportunities
+-
+2
+Key Skill
+-
+* Conduct training sessions on aptitude topics (Quant, Reasoning, Data Interpretation)
+* Prepare practice tests, worksheets, and mock tests
+* Train students for placement exams and competitive tests
+* Analyze student performance and provide feedback
+* Develop shortcuts, techniques, and problem-solving strategies
+Assistant Professor/Associate Professor/Professor
+CSE - Artificial Intelligence and Machine Learning
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation and Post Graduation
+Experience
+-
+2-5 Years
+Opportunities
+-
+3
+Key Skill
+-
+* Teach subjects related to IoT, Embedded Systems, Sensors, Networks, and Core CSE subjects
+* Conduct lectures, labs, practical sessions, and project guidance
+* Design IoT-based experiments, mini-projects, and assignments
+* Support students in innovation, hackathons, and technical competitions
+* Evaluate internal assessments, exams, and project work
+* Encourage research and industry-oriented learning in IoT and emerging technologies
+Librarian
+Administration
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+B.Lib.I.Sc. (Mandatory), M.Lib.I.Sc. (Preferred)
+Experience
+-
+1–2 years of experience in an Academic Library
+Opportunities
+-
+1
+Key Skill
+-
+Proficiency in Library Management Software
+Familiarity with MS Office (Excel/Word).
+Strong organisational skills
+Service-oriented mindset
+Ability to maintain a quiet, productive study environment.
+Professor / Associate Professor / Assistant Professor / Lecturer / Lab Technician
+Pharmacy
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation and Post Graduation
+Experience
+-
+2-5 Years
+Opportunities
+-
+2
+Key Skill
+-
+## For Professor / Associate Professor / Assistant Professor / Lecturer
+* Deliver effective classroom teaching and practical sessions as per PCI and university norms.
+* Prepare lesson plans, academic content, assignments, and assessment materials.
+* Mentor and guide students in academics, research projects, and career development.
+* Contribute to curriculum development, departmental activities, seminars, workshops, and conferences.
+* Promote research activities, publications, patents, and funded projects.
+* Maintain academic records and ensure quality standards in teaching-learning processes.
+* Participate actively in institutional development, accreditation, and administrative responsibilities.
+## For Lab Technician
+* Assist faculty members during laboratory practical sessions.
+* Maintain laboratory equipment, chemicals, and instruments.
+* Ensure proper functioning and safety standards within laboratories.
+* Support inventory management and preparation of lab records.
+* Provide technical assistance for experiments and demonstrations.
+Sports Officer
+Administration
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation and Post-Graduation
+Experience
+-
+2-5 years
+Opportunities
+-
+1
+Key Skill
+-
+* Identify students and form college sports teams for various games.
+* Arrange coaching sessions, mentoring, and fitness camps.
+* Track athletes’ performance and guide them for improvement.
+* Maintain sports grounds, gymnasiums, courts, and fitness equipment.
+* Organize Annual Sports Day, tournaments, leagues, and other sports events.
+* Prepare and circulate notices, schedules, registrations, and result updates.
+* Coordinate logistics, officials, scoring, certificates, and awards.
+* Maintain attendance, training reports, team records, and performance data.
+* Prepare proposals, reports, and budgets related to sports activities.
+* Liaise with institutional bodies, sports associations, and regulatory authorities
+IT Executive
+Administration
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Graduation
+Experience
+-
+1+ years
+Opportunities
+-
+1
+Key Skill
+-
+* Infrastructure & Security
+* Data Management
+* Technical Knowledge
+* Communication
+* Problem-Solving
+* Adaptability
+Account Assistant /Accountant
+Administration
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+B. Com & M. Com
+Experience
+-
+2years or more in accounting field (In education sector will be preferable)
+Opportunities
+-
+1
+Key Skill
+-
+* Accounting Software Proficiency
+* Bookkeeping & Financial Statements
+* Microsoft Office (Word, Excel, PowerPoint)
+* Attention to Detail
+* Communication
+* Time Management
+* Problem-Solving
+* Adaptability
+Assistant/Associate Professor - Pharmacy
+Pharmacy
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+B. Pharma & M. Pharma (PhD Mandatory)
+Experience
+-
+2 years or more in teaching
+Opportunities
+-
+2
+Key Skill
+-
+* Subject Matter Expertise
+* Teaching and Mentoring
+* Research and Publication
+* Communication and Interpersonal Skills
+* Collaboration and Teamwork
+* Academic Software and Digital Tools
+Admission Counselor (Female Candidate for Bhopal Location)
+Administration
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Diploma/12th/Graduate/Post Graduate
+Experience
+-
+2+ years
+Opportunities
+-
+2
+Key Skill
+-
+* Data Collection
+* Presentation in schools and educational institutes
+* Networking with the Principals and heads of educational institutes
+* Cold calling on potential leads
+Lab Technician - Mechanical
+Mechanical Engineering
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Diploma/IT in Mechanical
+Experience
+-
+Minimum 5 years
+Opportunities
+-
+1
+Key Skill
+-
+* Hands-on Experience: Machine Lab, SOM Lab, and IC Engine Lab provided practical training and experimentation.
+* Workshop Skills: In-depth hands-on training in Welding, Casting, and Carpentry.
+* Practical Application: Applying theoretical knowledge to real-world problems through lab work and workshop practice.
+Lab Technician - Civil
+Civil Engineering
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Diploma in Civil
+Experience
+-
+Minimum 2 years
+Opportunities
+-
+1
+Key Skill
+-
+Should be able to perform Building Material Testing, Surveying and Engineering Mechanics Experiments
+Assistant/Associate Professor - Electrical
+Electrical Engineering
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+B.Tech & M.Tech in Electrical Engg.
+Experience
+-
+2 years or more in teaching
+Opportunities
+-
+1
+Key Skill
+-
+* Subject Matter Expertise
+* Teaching and Mentoring
+* Research and Publication
+* Communication and Interpersonal Skills
+* Collaboration and Teamwork
+* Academic Software and Digital Tools
+Assistant/Associate Professor - Civil
+Civil Engineering
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+B.Tech & M.Tech in Civil Engg.
+Experience
+-
+2 years or more in teaching
+Opportunities
+-
+1
+Key Skill
+-
+* Subject Matter Expertise
+* Teaching and Mentoring
+* Research and Publication
+* Communication and Interpersonal Skills
+* Collaboration and Teamwork
+* Academic Software and Digital Tools
+Aptitude Trainer
+Training & Placement
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Any Graduate or Higher PG Degree
+Experience
+-
+Minimum 1 year in training
+Opportunities
+-
+1
+Key Skill
+-
+* Strong foundation in quantitative aptitude
+* Proficiency in logical reasoning
+* Verbal ability
+* Effective presentation skills
+* Ability to create engaging learning experiences
+* Assessment and feedback
+Assistant/Associate Professor - Mechanical
+Mechanical Engineering
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+B.Tech & M.Tech in Mechanical Engg.
+Experience
+-
+2 years or more in teaching
+Opportunities
+-
+1
+Key Skill
+-
+* Subject Matter Expertise
+* Teaching and Mentoring
+* Research and Publication
+* Communication and Interpersonal Skills
+* Collaboration and Teamwork
+* Academic Software and Digital Tools
+Assistant/Associate Professor - Maths/Physics/Chemistry
+Basic Science
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+B.Sc. & M.Sc. in Maths/Physics/Chemistry (any specialization)
+Experience
+-
+2+ years
+Opportunities
+-
+1
+Key Skill
+-
+* Effective teaching skills
+* Strong knowledge of organic and inorganic chemistry
+* Proven research capabilities
+* Expertise in curriculum development
+* Excellent communication and interpersonal skills
+Assistant Professor/Professor - Marketing
+BBA
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Ph.D. in Marketing or a related field (MBA with teaching experience may be considered
+Experience
+-
+0 to 7 years
+Opportunities
+-
+1
+Key Skill
+-
+* Strong knowledge of marketing trends, analytics, and digital tools
+* Excellent communication and research skills
+* Strong research background with publications in reputed journals
+* Industry experience is an added advantage.
+Assistant Professor/Professor - Finance
+BBA
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Ph.D. in Finance or a related field (MBA with teaching experience may be considered
+Experience
+-
+1+ years
+Opportunities
+-
+1
+Key Skill
+-
+* Strong knowledge of finance theories and practical applications
+* Proficiency in statistics, financial modelling, valuation, and data analytics tools
+* Strong research background with publications in reputed journals
+* Excellent communication and presentation skills
+* Industry experience is an added advantage.
+Assistant Professor/Professor – Human Resources
+BBA
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+Ph.D. in HR or a related field (MBA with teaching experience may be considered
+Experience
+-
+0 to 7 years
+Opportunities
+-
+1
+Key Skill
+-
+* Strong knowledge of HR policies, analytics, and labour laws
+* Excellent communication and research skills
+* Strong research background with publications in reputed journals
+* Industry experience is an added advantage
+Professor / Associate Professor
+Computer Science & Engineering
+Ratibad, Bhopal (M.P.)
+## Job Description
+Qualification
+-
+B.E./B.Tech.(CSE), M.E./M.Tech.(CSE) Mandatory
+Experience
+-
+0 to 20 years (Freshers can apply)
+Opportunities
+-
+9
+Key Skill
+-
+C, C++
+Java (Core & Advanced)
+Python
+ReactJS
+NodeJS
+AngularJS
+PHP
+Flutter.
+Software Engineering
+Security & Privacy
+Data Structures
+Analysis & Design of Algorithms
+Computer Networks
+Artificial Intelligence
+Theory of Computation
+Operating System
+## SISTec Careers : Application Form
+Job Post
+Job Title
+Campus
+Name
+Contact Number
+Company / Designation
+Attach Your Resume (PDF Only)
+/footer template so it renders -->
+
+================================================================================

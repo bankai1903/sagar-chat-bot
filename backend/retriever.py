@@ -35,7 +35,7 @@ def retrieve_domain_context(query: str, domain_key: str, n_results: int = 3) -> 
 
     return chunks
 
-def multi_domain_retrieve(query: str, target_domains: List[str], top_per_domain: int = 3) -> Tuple[str, List[Dict[str, Any]]]:
+def multi_domain_retrieve(query: str, target_domains: List[str], top_per_domain: int = 5) -> Tuple[str, List[Dict[str, Any]]]:
     """
     Retrieve and aggregate relevant context across multiple routed domains.
     Returns:
@@ -48,8 +48,9 @@ def multi_domain_retrieve(query: str, target_domains: List[str], top_per_domain:
     if not target_domains or target_domains == ["general"] or target_domains == ["out_of_scope"]:
         return "", []
 
+    per_domain = top_per_domain if len(target_domains) <= 2 else 3
     for domain_key in target_domains:
-        chunks = retrieve_domain_context(query, domain_key, n_results=top_per_domain)
+        chunks = retrieve_domain_context(query, domain_key, n_results=per_domain)
         all_chunks.extend(chunks)
 
     if not all_chunks:
@@ -57,6 +58,8 @@ def multi_domain_retrieve(query: str, target_domains: List[str], top_per_domain:
 
     # Sort chunks by relevance distance (lower distance = higher semantic similarity)
     all_chunks.sort(key=lambda x: x.get("distance", 1.0))
+    # Cap total chunks to 8 for rich, non-diluted LLM grounding
+    all_chunks = all_chunks[:8]
 
     # Format text for LLM injection
     formatted_blocks = []

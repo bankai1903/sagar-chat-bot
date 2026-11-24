@@ -9,7 +9,6 @@ load_dotenv(BASE_DIR / ".env")
 # Gemini & Model Settings
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 LLM_MODEL = os.getenv("LLM_MODEL", "gemini-flash-lite-latest")
-EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "models/text-embedding-004")
 
 _gemini_client = None
 def get_gemini_client():
@@ -28,8 +27,8 @@ DOMAINS = {
     "academics": {
         "name": "Academics & Examination",
         "folder": "academics",
-        "description": "Courses, B.Tech/M.Tech/MBA/Pharmacy branches, syllabus, RGPV affiliation, academic calendar, exam rules, attendance guidelines.",
-        "keywords": ["syllabus", "course", "courses", "btech", "b.tech", "mtech", "m.tech", "mba", "pharmacy", "bpharm", "mpharm", "rgpv", "exam", "exams", "examination", "attendance", "credits", "branch", "branches", "department", "semester", "curriculum", "subject", "subjects", "degree"]
+        "description": "Courses, B.Tech/M.Tech/MBA/Pharmacy branches, syllabus, RGPV affiliation, academic calendar, exam rules, attendance guidelines, labs, semester modules.",
+        "keywords": ["syllabus", "course", "courses", "btech", "b.tech", "mtech", "m.tech", "mba", "pharmacy", "bpharm", "mpharm", "rgpv", "exam", "exams", "examination", "attendance", "credits", "branch", "branches", "department", "semester", "curriculum", "subject", "subjects", "degree", "lab", "labs", "laboratory", "laboratories", "computer science", "cse", "modules"]
     },
     "admissions": {
         "name": "Admissions & Fees",
@@ -40,19 +39,19 @@ DOMAINS = {
     "hostels": {
         "name": "Hostels & Campus Facilities",
         "folder": "hostels",
-        "description": "Hostel accommodation, occupancy types, mess menu & food, curfew timings, bus routes & transport, sports grounds, library, medical aid.",
-        "keywords": ["hostel", "hostels", "mess", "food", "dining", "bus", "buses", "transport", "room", "rooms", "curfew", "warden", "library", "sports", "gym", "gymnasium", "medical", "hospital", "doctor", "campus facility", "amenities", "wifi", "internet"]
+        "description": "Hostel accommodation, occupancy types, mess menu & food, curfew timings, bus routes & transport, sports grounds, library, medical aid, student clubs, SAC, IEEE, CSI, SAE, fests, hackathons.",
+        "keywords": ["hostel", "hostels", "mess", "food", "dining", "bus", "buses", "transport", "room", "rooms", "curfew", "warden", "library", "sports", "gym", "gymnasium", "medical", "hospital", "doctor", "campus facility", "amenities", "wifi", "internet", "club", "clubs", "sac", "ieee", "csi", "sae", "student activity council", "fest", "fiesta", "jalsa", "garba", "hackathon", "events", "celebration", "nss", "iic", "cultural"]
     },
     "placements": {
         "name": "Training & Placements (T&P)",
         "folder": "placements",
-        "description": "Placement statistics, packages (highest & average), hiring companies, campus recruitment eligibility, training programs, internships.",
-        "keywords": ["placement", "placements", "package", "packages", "salary", "lpa", "recruiter", "recruiters", "company", "companies", "interview", "interviews", "internship", "internships", "training", "c2c", "jobs", "offers", "highest", "average package", "placed"]
+        "description": "Placement statistics, packages (highest & average), hiring companies, campus recruitment eligibility, training programs, C2C, internships, alumni.",
+        "keywords": ["placement", "placements", "package", "packages", "salary", "lpa", "recruiter", "recruiters", "company", "companies", "recruit", "recruiting", "hire", "hiring", "interview", "interviews", "internship", "internships", "training", "c2c", "jobs", "offers", "highest", "average package", "placed", "campus to corporate"]
     },
     "administration": {
         "name": "Administration & Contacts",
         "folder": "administration",
-        "description": "Campus addresses (Gandhi Nagar & Ratibad), contact numbers, email IDs, grievance cell, anti-ragging committee, leadership, student support.",
-        "keywords": ["address", "contact", "contacts", "phone", "mobile", "number", "email", "helpline", "location", "where is", "reach", "campus", "principal", "director", "chairman", "anti-ragging", "ragging", "grievance", "complaint", "ratibad", "gandhi nagar", "office", "timings"]
+        "description": "Campus addresses (Gandhi Nagar & Ratibad), contact numbers, email IDs, grievance cell, anti-ragging committee, leadership, founders, student support.",
+        "keywords": ["address", "contact", "contacts", "phone", "mobile", "number", "email", "helpline", "location", "where is", "reach", "campus", "principal", "director", "chairman", "leader", "leaders", "founder", "founders", "anti-ragging", "ragging", "grievance", "complaint", "ratibad", "gandhi nagar", "office", "timings"]
     }
 }

@@ -1,0 +1,42 @@
+# SISTec Bhopal - Centres of Excellence (CoE), Research & Industry MoUs
+
+## Centres of Excellence (CoE)
+SISTec houses specialized industry-grade Centres of Excellence to train students beyond conventional academic curriculum:
+
+1. **CoE in Semiconductor Technology**:
+   - Focus: VLSI chip design, microelectronics, and semiconductor fabrication fundamentals.
+   - Industry-Standard Platforms: Fully integrated with EDA (Electronic Design Automation) suites from **Synopsys** and **Cadence**—the exact industry tools powering global semiconductor design.
+   - Host of the Madhya Pradesh Semiconductor Summit.
+
+2. **SISTec-Eicher Centre of Excellence in Farm Machinery (Ratibad Campus)**:
+   - Industry Partner: TMTL (Tractors and Motors Ltd.) - EICHER Tractors.
+   - Purpose: Direct industry-institute partnership providing hands-on training on advanced agricultural tractors, precision farm implements, hydraulic systems, and automotive mechanics.
+
+3. **CoE in Artificial Intelligence & Cloud Computing**:
+   - Focus: Deep learning, neural networks, natural language processing, containerization, and cloud deployment architectures (AWS, Google Cloud, Microsoft Azure).
+   - Practical work on high-performance GPU workstations.
+
+4. **CoE in Data Analytics**:
+   - Focus: Big Data frameworks, business intelligence (BI), predictive modeling, Tableau, PowerBI, and Python for statistical modeling.
+
+5. **CoE in Internet of Things (IoT)**:
+   - Focus: Embedded systems, sensor networks, microcontrollers (Arduino, ESP32, Raspberry Pi), edge computing, and smart home/industrial automation.
+
+6. **UltraTech Centre of Excellence**:
+   - Industry Partner: UltraTech Cement.
+   - Focus: Advanced concrete technology, non-destructive civil testing, structural testing, and sustainable construction techniques.
+
+7. **Advance Automotive Engineering CoE**:
+   - Focus: Electric vehicles (EV), battery management systems (BMS), vehicle dynamics, and powertrain diagnostics.
+
+## Research & Innovation Projects
+Faculty and students actively build patented and applied engineering innovations:
+- **Agricultural Drone for Targeted Crop Spraying**: Drone equipped with GPS guidance and machine vision cameras for automated precision pesticide and fertilizer delivery.
+- **AI Account Management & Financial Literacy System**: Machine learning system for secure automated accounting and digital fraud awareness.
+- **Solar Powered Tubular Fresh Water Still**: Renewable water purification system extracting potable water using solar thermal energy.
+- **Pharmaceutical Drug Solubility Device (SIPTec)**: Patented mechanical device for enhancing solubility of poorly soluble active pharmaceutical ingredients (APIs).
+- **Ethical AI & Cybersecurity Defense Lab**: Research into automated threat detection and vulnerability assessments.
+
+## Industry MoUs & Corporate Collaborations
+SISTec maintains active Memorandums of Understanding (MoUs) with leading corporations for internships, certified curricula, and lab setups:
+- Red Hat Academy, AWS Academy, Cisco Networking Academy, Microsoft Learn, Salesforce Trailhead Ecosystem, Eicher Tractors (TMTL), UltraTech Cement, and Texas Instruments.

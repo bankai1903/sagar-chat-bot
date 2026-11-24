@@ -1,0 +1,29 @@
+# SISTec Bhopal - Campus Life, Clubs, Events & Annual Fests
+
+## Student Life & Campus Culture
+Life at SISTec combines rigorous academic pursuit with vibrant co-curricular, technical, and cultural activities managed by students and faculty:
+
+## Student Activity Council (SAC)
+The Student Activity Council (SAC) is the apex student governing body responsible for organizing campus initiatives, clubs, sports, and cultural festivals under the guidance of faculty convenors.
+
+## Key Cultural & Technical Fests
+1. **Sagar Fiesta**:
+   - The flagship annual national-level techno-cultural festival of Sagar Group of Institutions.
+   - Features celebrity performances, rock band concerts, fashion shows, dance face-offs, technical hackathons, robotic wars, and gaming arenas.
+2. **Sagar Jalsa & Raasrang**:
+   - High-energy traditional Garba and Dandiya festival celebrated with traditional music, dance competitions, and campus feasts during Navratri.
+3. **SISTec Innovation Hackathon**:
+   - 24 to 36-hour non-stop student hackathon solving real-world challenges in smart agriculture, IoT, AI healthcare, cybersecurity, and clean energy.
+4. **Mini-Anveshana & Nirman**:
+   - Annual science and engineering project exposition where student innovations and working hardware prototypes are evaluated by corporate judges.
+5. **Tejomay Awards**:
+   - Annual prestige awards honoring students and faculty for exceptional academic, research, sports, and social service contributions.
+
+## Student Clubs & Societies
+- **Google Developer Student Club (GDSC)**: Developer meetups, hackathons, and open-source contributions.
+- **IEEE Student Branch**: Technical symposiums, paper presentations, and international webinar series.
+- **CSI (Computer Society of India) Chapter**: Coding bootcamps, web development contests, and algorithmic challenges.
+- **SAE India Collegiate Club**: Designing and fabricating all-terrain vehicles (ATVs) for national BAJA and SUPRA competitions.
+- **Rotaract Club & CSR Society**: Blood donation camps, tree plantation drives, and rural teaching initiatives.
+- **Literary & Debating Society**: Model United Nations (MUN), debates, creative writing, and poetry slams.
+- **Sports Club**: Coordinates inter-college leagues in cricket, football, basketball, badminton, table tennis, and athletics.

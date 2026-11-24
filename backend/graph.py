@@ -25,7 +25,7 @@ def greeting_node(state: MultiRAGState) -> Dict[str, Any]:
     return {"answer": get_greeting(), "citations": []}
 
 def retrieve_node(state: MultiRAGState) -> Dict[str, Any]:
-    context, citations = multi_domain_retrieve(state["query"], state["routing"].get("target_domains", []), top_per_domain=3)
+    context, citations = multi_domain_retrieve(state["query"], state["routing"].get("target_domains", []), top_per_domain=5)
     return {"context": context, "citations": citations}
 
 def grade_documents_node(state: MultiRAGState) -> Dict[str, Any]:
