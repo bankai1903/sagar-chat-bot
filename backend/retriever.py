@@ -20,8 +20,8 @@ def score_chunk_hybrid(query: str, chunk_text: str, heading: str, raw_dist: floa
     Hybrid scoring: combines dense vector distance with sparse lexical keyword matching.
     Gives strong priority to exact matches of proper nouns (faculty names, branches, labs).
     """
-    text_lower = chunk_text.lower()
-    heading_lower = heading.lower()
+    text_lower = (chunk_text or "").lower()
+    heading_lower = (heading or "").lower()
     combined = heading_lower + " " + text_lower
     
     keywords = extract_query_keywords(query)
@@ -66,9 +66,11 @@ def retrieve_domain_context(query: str, domain_key: str, n_results: int = 5) -> 
         distances = results["distances"][0] if "distances" in results and results["distances"] else [0.0] * len(docs)
 
         for doc, meta, dist in zip(docs, metadatas, distances):
+            if not doc:
+                continue
             meta = meta or {}
             raw_d = float(dist) if dist is not None else 0.0
-            heading = meta.get("heading", "General")
+            heading = meta.get("heading", "General") or "General"
             hybrid_d = score_chunk_hybrid(query, doc, heading, raw_d)
             
             chunks.append({
