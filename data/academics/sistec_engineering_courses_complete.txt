@@ -1,0 +1,94 @@
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE ENGINEERING COURSES (B.TECH & M.TECH)
+
+## Source & Navigation Context
+- **Official URL**: https://www.sistec.ac.in/courses-sagar-institute-bhopal?course=engineering
+- **Navigation Location**: Main Website -> "COURSES" -> Sub-menu Item 1: "Engineering"
+- **Campuses**: SISTec Gandhi Nagar & SISTec Ratibad (SISTec-R & SISTec-E)
+- **Affiliation**: Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal
+- **Approvals & Accreditations**: AICTE New Delhi; NAAC Accredited; NBA Accredited for eligible programs
+
+---
+
+## 1. Overview of Engineering Education at SISTec Bhopal
+
+### Academic Overview & Approvals
+Engineering education at the Sagar Group of Institutions (SISTec Bhopal) focuses on industry-oriented curriculum delivery, modern laboratory infrastructure, hands-on skill development, and innovative research. Programs are offered at undergraduate (B.Tech) and postgraduate (M.Tech) levels across 3 premier engineering colleges: SISTec (Gandhi Nagar), SISTec-R (Ratibad), and SISTec-E (Ratibad).
+- Affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal.
+- Approved by the All India Council for Technical Education (AICTE), New Delhi.
+- NBA and NAAC Accredited programs providing national quality assurance.
+- 11 B.Tech engineering branches (1,410 seats) and 8 M.Tech research specializations (162 seats).
+- Industry-backed Centres of Excellence with Eicher Tractors, Netlink, UltraTech, and Texas Instruments.
+
+---
+
+## 2. Undergraduate Engineering Programs (B.Tech - 4 Years) & Seat Matrix
+
+### Computer Science & Emerging Tech B.Tech Branches (960 Seats)
+- **Computer Science & Engineering (CSE)**: 540 Seats (Core programming, algorithms, cloud computing, full-stack, software engineering).
+- **CSE with Artificial Intelligence & Data Science (CSE-AIDS)**: 120 Seats (Big data analytics, statistical modeling, machine learning, predictive analytics).
+- **CSE with Artificial Intelligence & Machine Learning (CSE-AIML)**: 120 Seats (Neural networks, computer vision, deep learning, NLP).
+- **Computer Science & Information Technology (CSIT)**: 60 Seats (Enterprise software, networking, info security, database systems).
+- **CSE with Internet of Things (CSE-IoT)**: 60 Seats (Smart sensors, microcontroller programming, IoT communication protocols).
+- **CSE with Cyber Security (CSE-CS)**: 60 Seats (Network defense, ethical hacking, cryptography, cloud security, digital forensics).
+
+### Core Engineering B.Tech Branches (450 Seats)
+- **Electronics & Communication Engineering (ECE)**: 180 Seats (Digital communication, embedded systems, VLSI design, wireless networks).
+- **Mechanical Engineering (ME)**: 180 Seats (Thermodynamics, CAD/CAM/CAE, CNC manufacturing, robotics, automotive mechanics).
+- **Civil Engineering (CE)**: 120 Seats (Structural analysis, surveying, geotech engineering, environmental engineering, construction).
+- **Electrical Engineering (EE)**: 60 Seats (Power systems, electric machines, control engineering, solar energy integration).
+- **Electrical & Electronics Engineering (EEE)**: 30 Seats (Hybrid power electronics, instrumentation, energy storage, smart grids).
+
+---
+
+## 3. Postgraduate Engineering Programs (M.Tech - 2 Years) & Seat Matrix
+
+### Computing, Electronics & Electrical M.Tech Specializations (90 Seats)
+- **M.Tech in Computer Science & Engineering (CSE)**: 36 Seats (Advanced algorithms, distributed computing, artificial intelligence, cloud architectures).
+- **M.Tech in Digital Communication (ECE)**: 18 Seats (Advanced digital signal processing, optical communication, wireless networks, RF design).
+- **M.Tech in Power System (Electrical Engineering)**: 18 Seats (High-voltage engineering, smart grid technology, power system protection, renewable grid integration).
+- **M.Tech in Very Large Scale Integration (VLSI) Design (ECE)**: 18 Seats (Semiconductor fabrication, ASIC/FPGA design, CMOS analog & digital IC design, EDA tools).
+
+### Mechanical & Civil Engineering M.Tech Specializations (72 Seats)
+- **M.Tech in Construction Technology & Management (CTM - Civil)**: 18 Seats (Advanced construction planning, project management, sustainable materials, infrastructure).
+- **M.Tech in Machine Design (Mechanical Engineering)**: 18 Seats (Finite element analysis / FEA, mechanical vibrations, advanced tribology, CAD/CAM modeling).
+- **M.Tech in Structural Engineering (Civil Engineering)**: 18 Seats (Advanced RCC & steel design, seismic earthquake resistant design, computational mechanics).
+- **M.Tech in Thermal Power & Engineering (Mechanical Engineering)**: 18 Seats (Advanced thermodynamics, heat transfer, CFD modeling, thermal power plant engineering).
+
+---
+
+## 4. Eligibility Criteria & Admission Process for Engineering Courses
+
+### Bachelor of Technology (B.Tech - 4 Years) Eligibility & Process
+- **Qualification**: 10+2 (Higher Secondary) with Physics and Mathematics as compulsory subjects plus Chemistry/Biotechnology/Biology/Technical Vocational subject.
+- **Minimum Marks**: 45% aggregate for General category; 40% aggregate for SC/ST/OBC candidates of Madhya Pradesh.
+- **Admission Path**: Merit in JEE Main scorecard and MP DTE Centralized Online Counseling / College Level Counseling (CLC).
+- **B.Tech Lateral Entry (2nd Year)**: Passed 3-year Engineering Diploma with 45% marks (40% for reserved) or B.Sc. with Mathematics.
+
+### Master of Technology (M.Tech - 2 Years) Eligibility & Process
+- **Qualification**: Bachelor's Degree in Engineering/Technology (B.E./B.Tech) in relevant discipline from AICTE-recognized university.
+- **Minimum Marks**: Minimum 50% marks or equivalent CGPA (45% for SC/ST/OBC candidates of MP).
+- **Admission Path**: Valid GATE scorecard holders given first preference, followed by MP DTE merit counseling.
+
+---
+
+## 5. Technical Skill Roadmap & Pedagogy (Semester I to VIII)
+
+### 360-Degree Skill Enhancement Framework
+- **Semester I - II (Foundation)**: Refresher programming in C/C++, engineering graphics, basic electronics, and quantitative aptitude.
+- **Semester III - IV (Core Tech)**: Object-Oriented Programming (Core Java), Data Structures & Algorithms (DSA), DBMS, and summer industrial internships.
+- **Semester V - VI (Advanced Emerging Tech)**: Advanced Python, Machine Learning, Full-Stack Web Development, IoT & Cloud Computing, and placement-oriented coding drills.
+- **Semester VII - VIII (Corporate Readiness)**: Company-specific technical training, competitive coding mock drives, corporate soft skills, and major industry capstone projects.
+
+---
+
+## 6. Engineering Summary & Official Admissions Helplines
+
+### Official Engineering Course Summary & Contact Details
+- **Institute Name**: Sagar Group of Institutions (SISTec Engineering)
+- **Campuses**: Gandhi Nagar Campus (Airport Road) & Ratibad Campus (Bhadbhada Road), Bhopal
+- **Degrees Offered**: Bachelor of Technology (B.Tech - 11 Branches), Master of Technology (M.Tech - 8 Branches)
+- **University Affiliation**: Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV Bhopal)
+- **Approvals**: AICTE New Delhi; NAAC & NBA Accredited
+- **Admissions Helpline Numbers**: +91 9109975760 / +91 9109975762 / +91 8871999122
+- **Admissions Email**: admissions@sistec.ac.in
+- **Official Website**: https://www.sistec.ac.in/courses-sagar-institute-bhopal?course=engineering
