@@ -1,0 +1,129 @@
+# SAGAR INSTITUTE OF SCIENCE AND TECHNOLOGY (SISTec) - ADVISORY BOARD
+
+## Source & Navigation Context
+- **Official URL**: https://www.sistec.ac.in/advisory-board
+- **Navigation Location**: Main Website -> "ABOUT US" -> Sub-menu Item 4: "Advisory Board"
+- **Governing Body**: Sagar Group of Institutions (SGI) / Shri Agrawal Educational & Welfare Society (Established 2007)
+- **Location**: Bhopal, Madhya Pradesh (Gandhi Nagar Campus & Ratibad Campus)
+
+### Institutional Role of the Advisory Board
+> *"Our advisory board brings together a diverse group of experienced professionals to provide strategic guidance and expertise for the advancement of our institution's goals."*
+- The Advisory Board at SISTec consists of distinguished industry titans, research scientists, cloud architects, technical leads, corporate CXOs, and startup founders from leading global enterprises (Google, Microsoft, Intel, ISRO, TCS, Capgemini, Salesforce, Deloitte, Chalo, Gaia Smart Cities, and SMPL).
+- They provide curriculum feedback, bridge academia-industry alignment, guide emerging technology initiatives (AI/ML, Cloud, VLSI, IoT), and mentor student career trajectories.
+
+---
+
+## 1. Complete Advisory Board Members Directory
+
+### Sanjeev Somasundaram - Director, Talent Acquisition at Google
+- **Official Designation**: Director, Talent Acquisition
+- **Organization / Company**: **Google**
+- **Sector**: Global Big Tech / Internet Services & Software Engineering
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/sanjeev-somasundaram.png`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/google.webp`
+- **Advisory Focus**: Talent acquisition trends, global recruitment standards, technical interviewing skills, and student industry readiness.
+
+### Dr. G. S. Javed - Technical Lead at Intel
+- **Official Designation**: Technical Lead
+- **Organization / Company**: **Intel**
+- **Sector**: Semiconductors, Microelectronics & VLSI Hardware Design
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/g-s-javed.png`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/intel.png`
+- **Advisory Focus**: Semiconductor technologies, VLSI circuit design, hardware engineering, and Centre of Excellence initiatives.
+
+### Gaurav Ghelani - Academic Partner at Tata Consultancy Services (TCS)
+- **Official Designation**: Academic Partner
+- **Organization / Company**: **Tata Consultancy Services (TCS)**
+- **Sector**: Global IT Services, Consulting & Enterprise Software
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/gaurav-ghelani.png`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/tcs.png`
+- **Advisory Focus**: Academia-industry interface, IT curriculum benchmarking, enterprise skill enablement, and corporate campus hiring.
+
+### Anuja Sharma - Senior Scientist at ISRO
+- **Official Designation**: Senior Scientist
+- **Organization / Company**: **Indian Space Research Organisation (ISRO)**
+- **Sector**: Space Technology, Aerospace Engineering & Scientific Research
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/anuja-sharma.png`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/isro.png`
+- **Advisory Focus**: Scientific research methodology, aerospace and satellite applications, innovation incubators, and student space tech projects.
+
+### Anuj Trivedi - Cloud Consultant at Microsoft
+- **Official Designation**: Cloud Consultant
+- **Organization / Company**: **Microsoft**
+- **Sector**: Cloud Computing, Azure Infrastructure & Enterprise Cloud Architecture
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/anuj-trivedi.png`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/microsoft.png`
+- **Advisory Focus**: Cloud infrastructure, DevOps, Azure certifications, distributed computing, and student cloud hackathons.
+
+### Kapil Kumar Agarwal - CEO at Sagar Manufacturers Pvt. Ltd. (SMPL)
+- **Official Designation**: Chief Executive Officer (CEO)
+- **Organization / Company**: **Sagar Manufacturers Pvt. Ltd. (SMPL - Sagar Group)**
+- **Sector**: Industrial Manufacturing, Textile Spinning & Global Exports
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/kapil-kumar-agarwal.png`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/smpl.webp`
+- **Advisory Focus**: Industrial automation, manufacturing excellence, supply chain management, operational scaling, and Star Export House best practices.
+
+### Mukesh Jain - CTO & Executive Vice President at Capgemini
+- **Official Designation**: Chief Technology Officer (CTO) & Executive Vice President
+- **Organization / Company**: **Capgemini**
+- **Sector**: Digital Transformation, AI & Enterprise IT Solutions
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/mukesh-jain.jpg`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/capgemini.png`
+- **Advisory Focus**: Artificial intelligence, IT consulting, executive technical leadership, digital architecture, and corporate innovation.
+
+### Parag Trivedi - Sr. Director User Experience (UX) at Salesforce
+- **Official Designation**: Senior Director, User Experience (UX)
+- **Organization / Company**: **Salesforce**
+- **Sector**: CRM, Enterprise Cloud Platforms & Product UX/UI Design
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/parag-trivedi.jpg`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/salesforce.png`
+- **Advisory Focus**: Human-computer interaction, UX/UI product design, Salesforce ecosystem training, and user-centric software architecture.
+
+### Priya Singh - Co-Founder at Chalo
+- **Official Designation**: Co-Founder
+- **Organization / Company**: **Chalo**
+- **Sector**: Mobility Tech, Smart Public Transportation & Consumer Tech Startups
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/priya-singh.jpg`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/chalo.png`
+- **Advisory Focus**: Startup founding, venture scaling, mobility technology, women in technology, and student entrepreneurial mentorship.
+
+### Dr. Sumit D. Chowdhury - Founder at Gaia Smart Cities
+- **Official Designation**: Founder
+- **Organization / Company**: **Gaia Smart Cities**
+- **Sector**: Internet of Things (IoT), Smart Cities, Telecom & CleanTech
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/sumit-choudhary.jpg`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/gaia.png`
+- **Advisory Focus**: IoT networks, smart city infrastructure, urban automation, telecom engineering, and tech entrepreneurship.
+
+### CMA Sanjeev Kumar Sawal - Associate Partner at Deloitte
+- **Official Designation**: Associate Partner
+- **Organization / Company**: **Deloitte**
+- **Sector**: Financial Advisory, Audit, Risk Consulting & Corporate Governance
+- **Profile Image**: `https://www.sistec.ac.in/assets/web/images/advisory/sanjeev-kumar-sawal.jpeg`
+- **Company Logo**: `https://www.sistec.ac.in/assets/web/images/advisory/deloitte.png`
+- **Advisory Focus**: Financial acumen, corporate risk governance, management consulting, and business strategy for budding engineers and MBA scholars.
+
+---
+
+## 2. Advisory Board Members by Industry Domain
+
+### Technology & Global Enterprise Leaders (Google, Microsoft, Intel, Salesforce)
+- **Sanjeev Somasundaram**: Director, Talent Acquisition at **Google** (Global Big Tech & Talent).
+- **Anuj Trivedi**: Cloud Consultant at **Microsoft** (Cloud Architecture & Azure Infrastructure).
+- **Dr. G. S. Javed**: Technical Lead at **Intel** (Semiconductors & VLSI Hardware Design).
+- **Parag Trivedi**: Sr. Director User Experience at **Salesforce** (CRM Platforms & Product UX/UI).
+
+### Consulting, Science & Space Research (ISRO, TCS, Capgemini, Deloitte)
+- **Anuja Sharma**: Senior Scientist at **ISRO** (Space Technology & Satellite Applications).
+- **Gaurav Ghelani**: Academic Partner at **Tata Consultancy Services (TCS)** (IT & Academic Alliances).
+- **Mukesh Jain**: CTO & Executive VP at **Capgemini** (Digital Transformation & AI Consulting).
+- **CMA Sanjeev Kumar Sawal**: Associate Partner at **Deloitte** (Finance, Audit & Risk Governance).
+
+### Startups, Smart Cities & Manufacturing (Chalo, Gaia, SMPL)
+- **Priya Singh**: Co-Founder at **Chalo** (Mobility Tech Startups & Public Transport Tech).
+- **Dr. Sumit D. Chowdhury**: Founder at **Gaia Smart Cities** (IoT Networks, Telecom & Smart Cities).
+- **Kapil Kumar Agarwal**: CEO at **Sagar Manufacturers Pvt. Ltd. (SMPL - Sagar Group)** (Textile Spinning).
+
+### Official Contact & Inquiries
+- **Advisory Inquiries & Academic Collaborations**: Phone: +91 9109975760 | Email: admissions@sistec.ac.in
+- **Campuses**: Gandhi Nagar Campus & Ratibad Campus, Bhopal, Madhya Pradesh
