@@ -1,0 +1,103 @@
+[SISTEC DEPARTMENTAL TOURS - VIDEO GALLERY ARCHITECTURE]
+The official SISTec Video Gallery (https://www.sistec.ac.in/video-gallery) hosts 15 curated Departmental Video Tours showcasing advanced laboratories, centres of excellence, and live student projects.
+- Campuses Covered: 9 specialized tours for Gandhi Nagar campus (SISTec, SIPTec, SISTec Business School) and 6 specialized tours for Ratibad campus (SISTec-R, SISTec-E).
+- Stakeholder Video Categories: The Video Gallery portal features 5 main sections:
+  1. Departmental Tours (15 Virtual Video Walkthroughs)
+  2. Recruiters' Speak (Corporate feedback from TCS, Infosys, Cognizant)
+  3. Students' Speak (Alumni and current student testimonials)
+  4. Events (Coverage of Sagar Fiesta, Euphoria, NIRMAAN, Hackathons)
+  5. Guests' Speak (Dignitaries, Ministers, and Corporate VPs)
+- Production: Officially produced by Sagar Group of Institutions - SISTec on YouTube.
+
+[SISTEC VIDEO TOURS - GANDHI NAGAR CSE & CYBER SECURITY]
+Virtual lab and department walkthroughs for computing branches at Gandhi Nagar:
+1. Computer Science & Engineering (CSE):
+   - Title: 'Explore SISTec Bhopal's NBA Accredited Computer Science Engineering Program'
+   - URL: https://www.youtube.com/watch?v=zniB_R3zQeI
+   - Tour Highlights: NBA-accredited curriculum, Red Hat Academy labs, 100-computer HPC computing cluster, Cisco networking setups, and coding bootcamps.
+2. Cyber Security:
+   - Title: 'Advance Your Engineering Career | Computer Science Engineering With Cyber Security At SISTec'
+   - URL: https://www.youtube.com/watch?v=jyGfBiQC9eQ
+   - Tour Highlights: Digital forensics workstations, cryptography labs, malware simulation sandboxes, and ethical hacking suites.
+
+[SISTEC VIDEO TOURS - GANDHI NAGAR AI & DS AND CIVIL ENGINEERING]
+Virtual lab walkthroughs for emerging AI and infrastructure branches at Gandhi Nagar:
+1. Artificial Intelligence & Data Science (AI & DS):
+   - Title: 'Unlocking The Future: Artificial Intelligence and Data Science Engineering at SISTec'
+   - URL: https://www.youtube.com/watch?v=vqwfv6fOlYs
+   - Tour Highlights: GPU deep learning workstations, neural network labs, Big Data analytics clusters, and computer vision systems.
+2. Civil Engineering:
+   - Title: 'Top 6 Reasons To Join B.Tech Civil Engineering at SISTec | Future-Ready Civil Engineers Start Here'
+   - URL: https://www.youtube.com/watch?v=fzbupoK0uhw
+   - Tour Highlights: UltraTech CoE, surveying with Total Station & DGPS, geotechnical testing, and concrete technology labs.
+
+[SISTEC VIDEO TOURS - GANDHI NAGAR MECHANICAL, EX & ECE]
+Virtual lab walkthroughs for core engineering departments at Gandhi Nagar:
+1. Mechanical Engineering:
+   - Title: 'A quick look inside the Mechanical Engineering department at SISTec!'
+   - URL: https://www.youtube.com/watch?v=kkazcTioyVs
+   - Tour Highlights: Eicher CoE, CNC machines, thermodynamics bays, and Quad Torc ATV vehicle fabrication bay.
+2. Electrical & Electronics Engineering (EX):
+   - Title: 'SISTec Electrical and Electronics Engineering Tour – Future Tech with Drones, EVs & Solar Power'
+   - URL: https://www.youtube.com/watch?v=FnQS9a7q6_Q
+   - Tour Highlights: Drone assembly, EV powertrains, and rooftop solar microgrid.
+3. Electronics & Communication Engineering (ECE):
+   - Title: 'Why Join SISTec ECE? | Exciting Department Tour, Advanced Labs & 100% Placements'
+   - URL: https://www.youtube.com/watch?v=hEIMozkSeJ8
+   - Tour Highlights: Renault Nissan CoE and VLSI Cadence design labs.
+
+[SISTEC VIDEO TOURS - GANDHI NAGAR PHARMACY & MANAGEMENT]
+Specialized video tours for professional pharmacy and business colleges at Gandhi Nagar:
+1. Pharmacy (SIPTec - Sagar Institute of Pharmacy and Technology):
+   - Title: 'Inside SIPTec- The Top Pharmacy College in Bhopal'
+   - URL: https://www.youtube.com/watch?v=0aia3xY96OM
+   - Channel: Sagar Institute of Pharmacy - SIPTec
+   - Tour Highlights: Central Instrumentation Facility (HPLC, UV-Spectrophotometer), heavy industrial machine room, pharmaceutics labs, pharmacology animal house, and Model Pharmacy.
+2. Management (SISTec Business School - MBA):
+   - Title: 'SISTec Business School – Real-World Learning Starts Here'
+   - URL: https://www.youtube.com/watch?v=zuohXOZql0s
+   - Channel: SISTec Business School
+   - Tour Highlights: Smart audio-visual classrooms, corporate boardrooms, Harvard case study pods, and financial stock trading terminal simulators.
+
+[SISTEC VIDEO TOURS - RATIBAD CSE & MECHANICAL ENGINEERING]
+Virtual laboratory tours for computing and mechanical branches at SISTec Ratibad campus:
+1. Computer Science Engineering (Ratibad):
+   - Title: 'Discover the Future of Tech: CSE with AI, Machine Learning, and IoT at SISTec'
+   - URL: https://www.youtube.com/watch?v=yABTHCpsgA0
+   - Channel: Sagar Group of Institutions - SISTec Ratibad
+   - Tour Highlights: Gaia Smart Cities IoT CoE, AI/ML programming labs, and Cloud Computing terminals.
+2. Mechanical Engineering (Ratibad):
+   - Title: 'Inside SISTec Bhopal: BTech Mechanical Engineering Department Tour'
+   - URL: https://www.youtube.com/watch?v=7e35SFiT6JE
+   - Channel: Sagar Group of Institutions - SISTec Ratibad
+   - Tour Highlights: Heavy mechanical fabrication bays, lathe & milling workshops, and ATV off-road racing test track.
+
+[SISTEC VIDEO TOURS - RATIBAD ECE, ELECTRICAL & CIVIL ENGINEERING]
+Virtual laboratory tours for electronics, electrical, and civil branches at SISTec Ratibad campus:
+1. Electronics & Communication Engineering (Ratibad):
+   - Title: 'Why Join SISTec ECE? | Exciting Department Tour, Advanced Labs & 100% Placements'
+   - URL: https://www.youtube.com/watch?v=4dKwGJvOiss
+   - Highlights: Embedded systems labs, communication kits, and sensor interfacing.
+2. Electrical Engineering (Ratibad):
+   - Title: 'SISTec Electrical Engineering Department Tour | What to expect as a student?'
+   - URL: https://www.youtube.com/watch?v=RbRQ5BGVdss
+   - Highlights: High-voltage machines, switchgear & protection labs, and transformer testing benches.
+3. Civil Engineering (Ratibad):
+   - Title: 'Why study Civil Engineering at SISTec Bhopal?'
+   - URL: https://www.youtube.com/watch?v=bVku2v1ol6o
+   - Highlights: Environmental engineering, structural testing, and road material mechanics.
+
+[SISTEC VIDEO TOURS - RATIBAD BBA & DIGITAL ACCESS ARCHITECTURE]
+Undergraduate management tour and multi-channel video gallery access:
+1. Bachelor of Business Administration (BBA at Ratibad):
+   - Title: 'SISTec BBA Department Tour | Bhopal's Leading Business School'
+   - URL: https://www.youtube.com/watch?v=pwiIRhA4-Eg
+   - Channel: Sagar Group of Institutions - SISTec Ratibad
+   - Highlights: Corporate presentation halls, business simulation gaming, marketing pitch rooms, and mentorship desks.
+2. Cross-Platform Video Availability:
+   - Official Gallery: https://www.sistec.ac.in/video-gallery
+   - YouTube Playlists: Hosted on official channels (@SISTecBhopal, @SIPTecBhopal, @SISTecBusinessSchool).
+   - Mobile App: Integrated in SISTec Mobile App (https://www.sistec.ac.in/donwload-mobile-apps).
+3. Contact for Guided Physical Tours & Inquiries:
+   - Central Helpline: +91 9109975760 / +91 7470415170
+   - Email: admissions@sistec.ac.in | Locations: Gandhi Nagar & Ratibad, Bhopal.
