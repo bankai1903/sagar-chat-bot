@@ -52,8 +52,8 @@ def retrieve_domain_context(query: str, domain_key: str, n_results: int = 5) -> 
     if collection.count() == 0:
         return []
 
-    # Fetch more candidates for lexical re-ranking
-    candidate_n = min(max(n_results * 2, 10), collection.count())
+    # Fetch more candidates for lexical re-ranking (broad pool to prevent false misses)
+    candidate_n = min(max(n_results * 8, 40), collection.count())
     results = collection.query(
         query_texts=[query],
         n_results=candidate_n
