@@ -27,8 +27,8 @@ DOMAINS = {
     "academics": {
         "name": "Academics & Examination",
         "folder": "academics",
-        "description": "Courses, B.Tech/M.Tech/MBA/Pharmacy branches, syllabus, RGPV affiliation, academic calendar, exam rules, attendance guidelines, labs, semester modules, faculty members, professors, HODs.",
-        "keywords": ["syllabus", "course", "courses", "btech", "b.tech", "mtech", "m.tech", "mba", "pharmacy", "bpharm", "mpharm", "rgpv", "exam", "exams", "examination", "attendance", "credits", "branch", "branches", "department", "semester", "curriculum", "subject", "subjects", "degree", "lab", "labs", "laboratory", "laboratories", "computer science", "cse", "modules", "faculty", "faculties", "professor", "professors", "hod", "head of department", "teacher", "teachers", "staff", "dr", "dr."]
+        "description": "Courses, B.Tech/M.Tech/MBA/Pharmacy branches, syllabus, RGPV affiliation, academic calendar, exam rules, attendance guidelines, labs, semester modules, faculty members, professors, HODs, vision, mission, objectives.",
+        "keywords": ["syllabus", "course", "courses", "btech", "b.tech", "mtech", "m.tech", "mba", "pharmacy", "bpharm", "mpharm", "rgpv", "exam", "exams", "examination", "attendance", "credits", "branch", "branches", "department", "semester", "curriculum", "subject", "subjects", "degree", "lab", "labs", "laboratory", "laboratories", "computer science", "cse", "modules", "faculty", "faculties", "professor", "professors", "hod", "head of department", "teacher", "teachers", "staff", "dr", "dr.", "vision", "mission", "objective", "objectives", "why choose", "values", "pillars", "tenets"]
     },
     "admissions": {
         "name": "Admissions & Fees",
@@ -51,7 +51,7 @@ DOMAINS = {
     "administration": {
         "name": "Administration & Contacts",
         "folder": "administration",
-        "description": "Campus addresses (Gandhi Nagar & Ratibad), contact numbers, email IDs, grievance cell, anti-ragging committee, leadership, founders, student support, faculty directory, Sagar Group history, ventures, industries.",
-        "keywords": ["address", "contact", "contacts", "phone", "mobile", "number", "email", "helpline", "location", "where is", "reach", "campus", "principal", "director", "chairman", "leader", "leaders", "founder", "founders", "anti-ragging", "ragging", "grievance", "complaint", "ratibad", "gandhi nagar", "office", "timings", "faculty", "professor", "professors", "hod", "dr", "dr.", "sagar group", "sudhir kumar agrawal", "smpl", "sagar yarn", "sagar manufacturers", "sagar rice", "sagar nutriments", "agrawal builders", "sps", "sagar public school", "smh", "sagar hospital", "abhay sagar foundation", "svn", "sagar vidya niketan", "about us", "conglomerate", "ventures"]
+        "description": "Campus addresses (Gandhi Nagar & Ratibad), contact numbers, email IDs, grievance cell, anti-ragging committee, leadership, founders, student support, faculty directory, Sagar Group history, ventures, industries, vision, mission.",
+        "keywords": ["address", "contact", "contacts", "phone", "mobile", "number", "email", "helpline", "location", "where is", "reach", "campus", "principal", "director", "chairman", "leader", "leaders", "founder", "founders", "anti-ragging", "ragging", "grievance", "complaint", "ratibad", "gandhi nagar", "office", "timings", "faculty", "professor", "professors", "hod", "dr", "dr.", "sagar group", "sudhir kumar agrawal", "smpl", "sagar yarn", "sagar manufacturers", "sagar rice", "sagar nutriments", "agrawal builders", "sps", "sagar public school", "smh", "sagar hospital", "abhay sagar foundation", "svn", "sagar vidya niketan", "about us", "conglomerate", "ventures", "vision", "mission", "objective", "objectives"]
     }
 }
