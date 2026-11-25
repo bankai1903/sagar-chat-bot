@@ -1,0 +1,505 @@
+# SISTEC COMPLETE FACULTY DIRECTORY, PROFESSORS & HEADS OF DEPARTMENTS (HOD)
+URL: https://www.sistec.ac.in/faculties
+
+## SUMMARY OF HEADS OF DEPARTMENTS (HODs) ACROSS ALL CAMPUSES
+Official roster of Heads of Departments (HODs) at Sagar Institute of Science and Technology (SISTec):
+
+- **Dr. Arnav Anuj Kasar**: Head of Department (HOD), Associate Professor, Department of Civil Engineering (CE) (CE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Nargish Gupta**: Head of Department (HOD), Assistant Professor & HOD, Department of Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Vasima Khan**: Head of Department (HOD), Associate Professor, Department of Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Sudeshna Ghosh**: Head of Department (HOD), Associate Professor, Department of Electrical & Electronics Engineering (EX / EEE) (EX), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Rahul Shrivastava**: Head of Department (HOD), Assistant Professor, Department of Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Pranjali Bisht**: Head of Department (HOD), Professor, Department of First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Ravishanker V. Choudri**: Head of Department (HOD), Professor, Department of Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Neha Jain**: Head of Department (HOD), Professor, Department of Management Studies / MBA (MBA), Campus: SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA).
+- **Ms. Khushbu Agarwal**: Head of Department (HOD), Assistant Professor, Department of Bachelor of Business Administration (BBA) (BBA), Campus: SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Swajit Singh Goud**: Head of Department (HOD), Associate Professor, Department of Civil Engineering (CE) (CE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Nikhlesh Pathik**: Head of Department (HOD), Associate Professor, Department of Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Priyanka Bhatele**: Head of Department (HOD), Associate Professor, Department of Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML), Campus: SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Arvind Kumar Jain**: Head of Department (HOD), Assistant Professor, Department of Computer Science & Engineering - Internet of Things (CSE-IOT / IoT) (CSE-IOT), Campus: SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Ashish K. Singhal**: Head of Department (HOD), Associate Professor, Department of Electrical Engineering (EE) (EE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Harvinder Singh Saluja**: Head of Department (HOD), Assistant Professor, Department of Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Nidhi Ojha**: Head of Department (HOD), Assistant Professor, Department of First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Kshitij Yugbodh**: Head of Department (HOD), Associate Professor, Department of Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB).
+
+================================================================================
+
+## FACULTY ROSTER ORGANIZED BY DEPARTMENT AND CAMPUS
+
+### Department of Bachelor of Business Administration (BBA) at SISTec Ratibad Campus (RB)
+**Head of Department (HOD)**: Ms. Khushbu Agarwal (Assistant Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Ms. Khushbu Agarwal** - Assistant Professor, Department: Bachelor of Business Administration (BBA) (BBA), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Avni Vaidya** - Assistant Professor, Department: Bachelor of Business Administration (BBA) (BBA), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+
+### Department of CSE-CS at SISTec Gandhi Nagar Campus (GN)
+- **Dr. Garima Mathur** - Associate Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Gufran Ahmed** - Assistant Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Kirti Sahu** - Assistant Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Mayank Kurchaniya** - Assistant Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Nitin Jain** - Assistant Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. P. Ram Naresh** - Assistant Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Pranoti Kavimandan** - Associate Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Rameez Ali** - Assistant Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Shivani Saxena** - Assistant Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Suraj Kumar Sahu** - Assistant Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Yogesh Kumar Sharma** - Assistant Professor, Department: CSE-CS (CSE-CS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+
+### Department of Civil Engineering (CE) at SISTec Gandhi Nagar Campus (GN)
+**Head of Department (HOD)**: Dr. Arnav Anuj Kasar (Associate Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Arnav Anuj Kasar** - Associate Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Iqbal Hafeez Khan** - Assistant Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Megha Jain** - Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Mohit Sahu** - Assistant Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Pramod Gour** - Assistant Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Rahul Sen** - Assistant Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Sachin Singh Jat** - Assistant Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+
+### Department of Civil Engineering (CE) at SISTec Ratibad Campus (RB)
+**Head of Department (HOD)**: Dr. Swajit Singh Goud (Associate Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Swajit Singh Goud** - Associate Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Akhilesh Sharma** - Assistant Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Ankita Verma** - Assistant Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Bablu Mansuri** - Assistant Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Manish Dubey** - Associate Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Rohit Singh Patel** - Associate Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Sonali Rai** - Assistant Professor, Department: Civil Engineering (CE) (CE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+
+### Department of Computer Science & Engineering (CSE) at SISTec Gandhi Nagar Campus (GN)
+**Head of Department (HOD)**: Mr. Nargish Gupta (Assistant Professor & HOD)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Mr. Nargish Gupta** - Assistant Professor & HOD, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Abdullah Dar** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Amit Dubey** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Amit Swami** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Anshul Sarawagi** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Bhavana Gupta** - Associate Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Bhavna Soni** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Deepti Jain** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Divyansha Jeengar** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Gajendra Gayakwad** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Jai Mungi** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Komal Tahiliani** - Associate Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Kuldeep Chourasia** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Pankaj Patidar** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Parikkshit Malviya** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Poornima Jeriya** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Sandeep Sahu** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Shumali Gupta** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Shweta Singh** - Associate Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+
+### Department of Computer Science & Engineering (CSE) at SISTec Ratibad Campus (RB)
+**Head of Department (HOD)**: Dr. Nikhlesh Pathik (Associate Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Nikhlesh Pathik** - Associate Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Ajit Kumar Shrivastava** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Anita Tandan** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Ankur Saxena** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Anuj Kumar Pal** - Associate Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Anuradha Mangal** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Ashish Kumar Patel** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Bhavana Verma** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Brij Mohan Sharma** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Himanshu Yadav** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Mayuri Soni** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Priyanka Chouhan** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Priyanshu Prakash** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Rohit Bansal** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Sadaf Hussaini** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Saurabh Mandloi** - Associate Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Sheetal Gupta** - Associate Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Vasudha Sharma** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Vineet Kumar Gupta** - Assistant Professor, Department: Computer Science & Engineering (CSE) (CSE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+
+### Department of Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) at SISTec Gandhi Nagar Campus (GN)
+**Head of Department (HOD)**: Dr. Vasima Khan (Associate Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Vasima Khan** - Associate Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Abhishek Ahirwar** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Abhuday Tripathi** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Dheeaj Namdev** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Madhuri Walia** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Mr. Arihant Jain** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Pushpraj Singh** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Ruchi Jain** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Sachin Malviya** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Sajid Khan** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Sonali Zunke** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+
+### Department of Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) at SISTec Ratibad Campus (RB)
+**Head of Department (HOD)**: Dr. Priyanka Bhatele (Associate Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Priyanka Bhatele** - Associate Professor, Department: Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Anurag Chaturvedi** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Kaushal Kishore Sharma** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Nishikant Singh** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Priyanka Saxena** - Assistant Professor, Department: Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Sandip Kumar Singh** - Teaching Associate, Department: Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Vandana Rai** - Associate Professor, Department: Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+
+### Department of Computer Science & Engineering - Internet of Things (CSE-IOT / IoT) at SISTec Ratibad Campus (RB)
+**Head of Department (HOD)**: Mr. Arvind Kumar Jain (Assistant Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Mr. Arvind Kumar Jain** - Assistant Professor, Department: Computer Science & Engineering - Internet of Things (CSE-IOT / IoT) (CSE-IOT), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Abhishek Dubey** - Assistant Professor, Department: Computer Science & Engineering - Internet of Things (CSE-IOT / IoT) (CSE-IOT), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Bittu Raj** - Assistant Professor, Department: Computer Science & Engineering - Internet of Things (CSE-IOT / IoT) (CSE-IOT), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Dharmendra Narayan Jha** - Assistant Professor, Department: Computer Science & Engineering - Internet of Things (CSE-IOT / IoT) (CSE-IOT), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+
+### Department of Electrical & Electronics Engineering (EX / EEE) at SISTec Gandhi Nagar Campus (GN)
+**Head of Department (HOD)**: Dr. Sudeshna Ghosh (Associate Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Sudeshna Ghosh** - Associate Professor, Department: Electrical & Electronics Engineering (EX / EEE) (EX), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Aakansha Jain** - Assistant Professor, Department: Electrical & Electronics Engineering (EX / EEE) (EX), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Ankit Chourasia** - Assistant Professor, Department: Electrical & Electronics Engineering (EX / EEE) (EX), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Kaushal Nayak** - Assistant Professor, Department: Electrical & Electronics Engineering (EX / EEE) (EX), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Pratima Gangwar** - Assistant Professor, Department: Electrical & Electronics Engineering (EX / EEE) (EX), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Shadma Khan** - Assistant Professor, Department: Electrical & Electronics Engineering (EX / EEE) (EX), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+
+### Department of Electrical Engineering (EE) at SISTec Ratibad Campus (RB)
+**Head of Department (HOD)**: Dr. Ashish K. Singhal (Associate Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Ashish K. Singhal** - Associate Professor, Department: Electrical Engineering (EE) (EE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Manish Yadav** - Associate Professor, Department: Electrical Engineering (EE) (EE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Namrata Talegaonkar** - Assistant Professor, Department: Electrical Engineering (EE) (EE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Rashmi Sharma** - Associate Professor, Department: Electrical Engineering (EE) (EE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Subinoy Roy** - Assistant Professor, Department: Electrical Engineering (EE) (EE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Sujata Gupta** - Associate Professor, Department: Electrical Engineering (EE) (EE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+
+### Department of Electronics & Communication Engineering (ECE) at SISTec Gandhi Nagar Campus (GN)
+**Head of Department (HOD)**: Mr. Rahul Shrivastava (Assistant Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Mr. Rahul Shrivastava** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Anoop Tiwari** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Deepa Gianchandani** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Deepti Malviya** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Md. Abdullah** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Meha Shrivastava** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Pramod Kumar Patel** - Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Sachin Kalraiya** - Associate Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Siddharth Singh Parihar** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+
+### Department of Electronics & Communication Engineering (ECE) at SISTec Ratibad Campus (RB)
+**Head of Department (HOD)**: Mr. Harvinder Singh Saluja (Assistant Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Mr. Harvinder Singh Saluja** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Anupriya Shrivastava** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Devendra Mehra** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Hariom Solanki** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Prasant Kumar** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Ritesh Dhiman** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Samrat Ghosh** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Sunil Kumar Raghuwanshi** - Assistant Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Yogesh Shrivastava** - Associate Professor, Department: Electronics & Communication Engineering (ECE) (ECE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+
+### Department of First Year Engineering / Basic Sciences & Humanities (FYE) at SISTec Gandhi Nagar Campus (GN)
+**Head of Department (HOD)**: Dr. Pranjali Bisht (Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Pranjali Bisht** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Abha Pal** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Akshada Kulkarni** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Deepika Mishra** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Deepika Rajput** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Disha Mohane** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Farhan Beg** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Madhu Shrivastava** - Associate Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Munira Bano** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Mythily Mahalingam** - Associate Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Neelesh Shrivastava** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Poonam Rai** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Preeti Khare** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Shiv Kumar Singh** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Sumit Kumar Dekate** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Vasudev Thakre** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Yasha Jha** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+
+### Department of First Year Engineering / Basic Sciences & Humanities (FYE) at SISTec Ratibad Campus (RB)
+**Head of Department (HOD)**: Ms. Nidhi Ojha (Assistant Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Ms. Nidhi Ojha** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Brajraj Singh Chauhan** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Darsha Panwar** - Associate Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Dharmendra Sharma** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Narender Kumar** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Purvansha Jadam** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Rajeev Thakur** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Rushali Somnani** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Sarika Jain** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Sfurti A. Verma** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Shreya Geetey** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Sunny Prajapati** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Veena Singh** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Vibha Shrivastava** - Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Vivek Gautam** - Associate Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Yogita Kushwah** - Assistant Professor, Department: First Year Engineering / Basic Sciences & Humanities (FYE) (FYE), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+
+### Department of Management Studies / MBA at SISTec Gandhi Nagar Campus (GN)
+- **Ms. Diyanshi Matani** - Assistant Professor, Department: Management Studies / MBA (MBA), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Nileshwari Yadav** - Assistant Professor, Department: Management Studies / MBA (MBA), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Palak Jain** - Associate Professor, Department: Management Studies / MBA (MBA), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Yatharth Jain** - Assistant Professor, Department: Management Studies / MBA (MBA), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+
+### Department of Management Studies / MBA at SISTec MBA Gandhi Nagar Campus (GN)
+**Head of Department (HOD)**: Dr. Neha Jain (Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Neha Jain** - Professor, Department: Management Studies / MBA (MBA), Campus: SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA)
+- **Ms. Alisha Hashmi** - Assistant Professor, Department: Management Studies / MBA (MBA), Campus: SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA)
+- **Dr. Ashish Mishra** - Associate Professor, Department: Management Studies / MBA (MBA), Campus: SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA)
+- **Dr. Jyotika James** - Associate Professor, Department: Management Studies / MBA (MBA), Campus: SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA)
+- **Dr. Nipun Agrawal** - Associate Professor, Department: Management Studies / MBA (MBA), Campus: SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA)
+- **Dr. Tina Sachdeva** - Associate Professor, Department: Management Studies / MBA (MBA), Campus: SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA)
+
+### Department of Mechanical Engineering (ME) at SISTec Gandhi Nagar Campus (GN)
+**Head of Department (HOD)**: Dr. Ravishanker V. Choudri (Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Ravishanker V. Choudri** - Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Ashish Parkhe** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Mousam Sharma** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Narendra Ahirwar** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Nirbhay Singh** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Nitin Kumar Sahu** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Nitin Malviya** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Pawan Kumar Yadav** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Ruchin Kacker** - Associate Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Sanjay Chhalotre** - Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Sanjay Kumar Singh** - Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+
+### Department of Mechanical Engineering (ME) at SISTec Ratibad Campus (RB)
+**Head of Department (HOD)**: Dr. Kshitij Yugbodh (Associate Professor)
+
+- **[HEAD OF DEPARTMENT / HOD]** **Dr. Kshitij Yugbodh** - Associate Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Ashish Dixit** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Ashish Kumar Shrivastava** - Associate Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Ashish Sinha** - Associate Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Dr. Ashutosh Singh Raghuwanshi** - Associate Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Bhoopendra Singh** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. C.K. Pardhi** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Ms. Mayuri Chourey** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Pushkar Dwivedi** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Pushpendra Singh** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+- **Mr. Sanjeev Gupta** - Assistant Professor, Department: Mechanical Engineering (ME) (ME), Campus: SISTec Ratibad Campus (RB) (SISTec-RB)
+
+### Department of Pharmacy / Pharmaceutical Sciences (SIPTec) at SIPTec Gandhi Nagar Campus (GN)
+- **Mr. Ankit Diwan** - Associate Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SIPTec Gandhi Nagar Campus (GN) (SIPTec)
+- **Ms. Trapti Shrivastava** - Associate Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SIPTec Gandhi Nagar Campus (GN) (SIPTec)
+
+### Department of Pharmacy / Pharmaceutical Sciences (SIPTec) at SIPTec-RB
+- **Dr. Alka Singh** - Associate Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SIPTec-RB (SIPTec-RB)
+- **Mr. Musharraf Ansari** - Assistant Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SIPTec-RB (SIPTec-RB)
+- **Ms. Muskan Samaiya** - Assistant Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SIPTec-RB (SIPTec-RB)
+- **Ms. Neha Shukla** - Assistant Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SIPTec-RB (SIPTec-RB)
+- **Mr. Zahoor Ahmed** - Assistant Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SIPTec-RB (SIPTec-RB)
+
+### Department of Pharmacy / Pharmaceutical Sciences (SIPTec) at SISTec Gandhi Nagar Campus (GN)
+- **Mr. Adarsh Sharma** - Assistant Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Kalka Verma** - Assistant Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. KLSD Shireesha** - Assistant Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Shiva Goyal** - Lab Assistant, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Shivangi Thakur** - Assistant Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Mr. Shubham Shaligram Bunde** - Assistant Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Dr. Sunil Yagnik** - Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+- **Ms. Teena Patidar** - Assistant Professor, Department: Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy), Campus: SISTec Gandhi Nagar Campus (GN) (SISTec-GN)
+
+
+================================================================================
+
+## ALPHABETICAL DIRECTORY OF ALL 197 SISTEC PROFESSORS & FACULTY MEMBERS
+
+- **Dr. Aakansha Jain**: Assistant Professor in Electrical & Electronics Engineering (EX / EEE) (EX) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Alka Singh**: Associate Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SIPTec-RB (SIPTec-RB).
+- **Dr. Anuj Kumar Pal**: Associate Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Arnav Anuj Kasar**: Head of Department (HOD) & Associate Professor in Civil Engineering (CE) (CE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Ashish K. Singhal**: Head of Department (HOD) & Associate Professor in Electrical Engineering (EE) (EE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Ashish Kumar Shrivastava**: Associate Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Ashish Mishra**: Associate Professor in Management Studies / MBA (MBA) at SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA).
+- **Dr. Ashish Sinha**: Associate Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Ashutosh Singh Raghuwanshi**: Associate Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Bhavana Gupta**: Associate Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Brajraj Singh Chauhan**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Darsha Panwar**: Associate Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Deepa Gianchandani**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Farhan Beg**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Garima Mathur**: Associate Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Jyotika James**: Associate Professor in Management Studies / MBA (MBA) at SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA).
+- **Dr. Komal Tahiliani**: Associate Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Kshitij Yugbodh**: Head of Department (HOD) & Associate Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Madhu Shrivastava**: Associate Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Manish Dubey**: Associate Professor in Civil Engineering (CE) (CE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Manish Yadav**: Associate Professor in Electrical Engineering (EE) (EE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Megha Jain**: Professor in Civil Engineering (CE) (CE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Munira Bano**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Mythily Mahalingam**: Associate Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Narender Kumar**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Neelesh Shrivastava**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Neha Jain**: Head of Department (HOD) & Professor in Management Studies / MBA (MBA) at SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA).
+- **Dr. Nikhlesh Pathik**: Head of Department (HOD) & Associate Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Nipun Agrawal**: Associate Professor in Management Studies / MBA (MBA) at SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA).
+- **Dr. Palak Jain**: Associate Professor in Management Studies / MBA (MBA) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Pramod Kumar Patel**: Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Pranjali Bisht**: Head of Department (HOD) & Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Pranoti Kavimandan**: Associate Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Preeti Khare**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Priyanka Bhatele**: Head of Department (HOD) & Associate Professor in Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Rashmi Sharma**: Associate Professor in Electrical Engineering (EE) (EE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Ravishanker V. Choudri**: Head of Department (HOD) & Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Rohit Singh Patel**: Associate Professor in Civil Engineering (CE) (CE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Ruchin Kacker**: Associate Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Sachin Kalraiya**: Associate Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Sanjay Chhalotre**: Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Sanjay Kumar Singh**: Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Sarika Jain**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Saurabh Mandloi**: Associate Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Sfurti A. Verma**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Sheetal Gupta**: Associate Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Shiv Kumar Singh**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Shweta Singh**: Associate Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Sudeshna Ghosh**: Head of Department (HOD) & Associate Professor in Electrical & Electronics Engineering (EX / EEE) (EX) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Sujata Gupta**: Associate Professor in Electrical Engineering (EE) (EE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Sumit Kumar Dekate**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Sunil Yagnik**: Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Swajit Singh Goud**: Head of Department (HOD) & Associate Professor in Civil Engineering (CE) (CE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Tina Sachdeva**: Associate Professor in Management Studies / MBA (MBA) at SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA).
+- **Dr. Vandana Rai**: Associate Professor in Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Vasima Khan**: Head of Department (HOD) & Associate Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Vasudev Thakre**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Dr. Vibha Shrivastava**: Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Vivek Gautam**: Associate Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Dr. Yogesh Shrivastava**: Associate Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Abdullah Dar**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Abhishek Ahirwar**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Abhishek Dubey**: Assistant Professor in Computer Science & Engineering - Internet of Things (CSE-IOT / IoT) (CSE-IOT) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Abhuday Tripathi**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Adarsh Sharma**: Assistant Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Ajit Kumar Shrivastava**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Akhilesh Sharma**: Assistant Professor in Civil Engineering (CE) (CE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Amit Dubey**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Amit Swami**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Ankit Chourasia**: Assistant Professor in Electrical & Electronics Engineering (EX / EEE) (EX) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Ankit Diwan**: Associate Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SIPTec Gandhi Nagar Campus (GN) (SIPTec).
+- **Mr. Ankur Saxena**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Anoop Tiwari**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Anshul Sarawagi**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Anurag Chaturvedi**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Arvind Kumar Jain**: Head of Department (HOD) & Assistant Professor in Computer Science & Engineering - Internet of Things (CSE-IOT / IoT) (CSE-IOT) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Ashish Dixit**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Ashish Kumar Patel**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Ashish Parkhe**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Bablu Mansuri**: Assistant Professor in Civil Engineering (CE) (CE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Bhoopendra Singh**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Bittu Raj**: Assistant Professor in Computer Science & Engineering - Internet of Things (CSE-IOT / IoT) (CSE-IOT) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Brij Mohan Sharma**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. C.K. Pardhi**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Devendra Mehra**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Dharmendra Narayan Jha**: Assistant Professor in Computer Science & Engineering - Internet of Things (CSE-IOT / IoT) (CSE-IOT) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Dharmendra Sharma**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Dheeaj Namdev**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Gajendra Gayakwad**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Gufran Ahmed**: Assistant Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Hariom Solanki**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Harvinder Singh Saluja**: Head of Department (HOD) & Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Himanshu Yadav**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Iqbal Hafeez Khan**: Assistant Professor in Civil Engineering (CE) (CE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Jai Mungi**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Kalka Verma**: Assistant Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Kaushal Kishore Sharma**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Kaushal Nayak**: Assistant Professor in Electrical & Electronics Engineering (EX / EEE) (EX) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Kuldeep Chourasia**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Mayank Kurchaniya**: Assistant Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Md. Abdullah**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Mohit Sahu**: Assistant Professor in Civil Engineering (CE) (CE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Mousam Sharma**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Mr. Arihant Jain**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Musharraf Ansari**: Assistant Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SIPTec-RB (SIPTec-RB).
+- **Mr. Narendra Ahirwar**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Nargish Gupta**: Head of Department (HOD) & Assistant Professor & HOD in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Nirbhay Singh**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Nishikant Singh**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Nitin Jain**: Assistant Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Nitin Kumar Sahu**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Nitin Malviya**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. P. Ram Naresh**: Assistant Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Pankaj Patidar**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Parikkshit Malviya**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Pawan Kumar Yadav**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Poornima Jeriya**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Pramod Gour**: Assistant Professor in Civil Engineering (CE) (CE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Prasant Kumar**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Priyanshu Prakash**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Pushkar Dwivedi**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Pushpendra Singh**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Pushpraj Singh**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Rahul Sen**: Assistant Professor in Civil Engineering (CE) (CE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Rahul Shrivastava**: Head of Department (HOD) & Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Rajeev Thakur**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Rameez Ali**: Assistant Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Ritesh Dhiman**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Rohit Bansal**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Sachin Malviya**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Sachin Singh Jat**: Assistant Professor in Civil Engineering (CE) (CE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Sajid Khan**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Samrat Ghosh**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Sandeep Sahu**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Sandip Kumar Singh**: Teaching Associate in Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Sanjeev Gupta**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Shiva Goyal**: Lab Assistant in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Shubham Shaligram Bunde**: Assistant Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Siddharth Singh Parihar**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Subinoy Roy**: Assistant Professor in Electrical Engineering (EE) (EE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Sunil Kumar Raghuwanshi**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Sunny Prajapati**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Suraj Kumar Sahu**: Assistant Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Vineet Kumar Gupta**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Mr. Yogesh Kumar Sharma**: Assistant Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Mr. Zahoor Ahmed**: Assistant Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SIPTec-RB (SIPTec-RB).
+- **Ms. Abha Pal**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Akshada Kulkarni**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Alisha Hashmi**: Assistant Professor in Management Studies / MBA (MBA) at SISTec MBA Gandhi Nagar Campus (GN) (SISTec-MBA).
+- **Ms. Anita Tandan**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Ankita Verma**: Assistant Professor in Civil Engineering (CE) (CE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Anupriya Shrivastava**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Anuradha Mangal**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Avni Vaidya**: Assistant Professor in Bachelor of Business Administration (BBA) (BBA) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Bhavana Verma**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Bhavna Soni**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Deepika Mishra**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Deepika Rajput**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Deepti Jain**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Deepti Malviya**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Disha Mohane**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Divyansha Jeengar**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Diyanshi Matani**: Assistant Professor in Management Studies / MBA (MBA) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. KLSD Shireesha**: Assistant Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Khushbu Agarwal**: Head of Department (HOD) & Assistant Professor in Bachelor of Business Administration (BBA) (BBA) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Kirti Sahu**: Assistant Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Madhuri Walia**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Mayuri Chourey**: Assistant Professor in Mechanical Engineering (ME) (ME) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Mayuri Soni**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Meha Shrivastava**: Assistant Professor in Electronics & Communication Engineering (ECE) (ECE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Muskan Samaiya**: Assistant Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SIPTec-RB (SIPTec-RB).
+- **Ms. Namrata Talegaonkar**: Assistant Professor in Electrical Engineering (EE) (EE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Neha Shukla**: Assistant Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SIPTec-RB (SIPTec-RB).
+- **Ms. Nidhi Ojha**: Head of Department (HOD) & Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Nileshwari Yadav**: Assistant Professor in Management Studies / MBA (MBA) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Poonam Rai**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Pratima Gangwar**: Assistant Professor in Electrical & Electronics Engineering (EX / EEE) (EX) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Priyanka Chouhan**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Priyanka Saxena**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Machine Learning (CSE-AIML / AI & ML) (CSE-AIML) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Purvansha Jadam**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Ruchi Jain**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Rushali Somnani**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Sadaf Hussaini**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Shadma Khan**: Assistant Professor in Electrical & Electronics Engineering (EX / EEE) (EX) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Shivangi Thakur**: Assistant Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Shivani Saxena**: Assistant Professor in CSE-CS (CSE-CS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Shreya Geetey**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Shumali Gupta**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Sonali Rai**: Assistant Professor in Civil Engineering (CE) (CE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Sonali Zunke**: Assistant Professor in Computer Science & Engineering - Artificial Intelligence & Data Science (CSE-AIDS / AI & DS) (CSE-AIDS) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Teena Patidar**: Assistant Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Trapti Shrivastava**: Associate Professor in Pharmacy / Pharmaceutical Sciences (SIPTec) (Pharmacy) at SIPTec Gandhi Nagar Campus (GN) (SIPTec).
+- **Ms. Vasudha Sharma**: Assistant Professor in Computer Science & Engineering (CSE) (CSE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Veena Singh**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
+- **Ms. Yasha Jha**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Yatharth Jain**: Assistant Professor in Management Studies / MBA (MBA) at SISTec Gandhi Nagar Campus (GN) (SISTec-GN).
+- **Ms. Yogita Kushwah**: Assistant Professor in First Year Engineering / Basic Sciences & Humanities (FYE) (FYE) at SISTec Ratibad Campus (RB) (SISTec-RB).
