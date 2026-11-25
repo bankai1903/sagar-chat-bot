@@ -51,7 +51,7 @@ DOMAINS = {
     "administration": {
         "name": "Administration & Contacts",
         "folder": "administration",
-        "description": "Campus addresses (Gandhi Nagar & Ratibad), contact numbers, email IDs, grievance cell, anti-ragging committee, leadership, founders, student support, faculty directory.",
-        "keywords": ["address", "contact", "contacts", "phone", "mobile", "number", "email", "helpline", "location", "where is", "reach", "campus", "principal", "director", "chairman", "leader", "leaders", "founder", "founders", "anti-ragging", "ragging", "grievance", "complaint", "ratibad", "gandhi nagar", "office", "timings", "faculty", "professor", "professors", "hod", "dr", "dr."]
+        "description": "Campus addresses (Gandhi Nagar & Ratibad), contact numbers, email IDs, grievance cell, anti-ragging committee, leadership, founders, student support, faculty directory, Sagar Group history, ventures, industries.",
+        "keywords": ["address", "contact", "contacts", "phone", "mobile", "number", "email", "helpline", "location", "where is", "reach", "campus", "principal", "director", "chairman", "leader", "leaders", "founder", "founders", "anti-ragging", "ragging", "grievance", "complaint", "ratibad", "gandhi nagar", "office", "timings", "faculty", "professor", "professors", "hod", "dr", "dr.", "sagar group", "sudhir kumar agrawal", "smpl", "sagar yarn", "sagar manufacturers", "sagar rice", "sagar nutriments", "agrawal builders", "sps", "sagar public school", "smh", "sagar hospital", "abhay sagar foundation", "svn", "sagar vidya niketan", "about us", "conglomerate", "ventures"]
     }
 }
