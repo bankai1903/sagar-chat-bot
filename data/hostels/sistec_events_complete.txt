@@ -1,0 +1,298 @@
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 1A. Events Ecosystem & Digital Platforms (SEO & Video Gallery)
+- **Official Events Hub**: https://www.sistec.ac.in/events-and-gallery
+- **Campuses**: Events are hosted across SISTec Gandhi Nagar (Opposite Raja Bhoj Airport) and SISTec Ratibad (Bhadbhada Road).
+- **Sagar Event Organizer (SEO)** (https://seo.sistec.ac.in/):
+  - SISTec's dedicated custom digital event management platform.
+  - Features centralized student registrations, automated QR-code badge check-in, real-time schedule tracking, digital certificate issuance, and live scoreboards for competitions.
+- **SISTec Video Gallery** (https://www.sistec.ac.in/video-gallery):
+  - Comprehensive media repository of 76+ video archives covering official fest aftermovies (Sagar Fiesta, Sagar Euphoria), virtual campus tours, placement success stories (Sagar Glory), and masterclass recordings.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 1B. Annual Event Calendar & Classification
+SISTec conducts over 100+ major institutional, technical, cultural, and sports events every academic year:
+1. **Techno-Cultural Fests**: Sagar Fiesta, Sagar Euphoria, Sagar Therafest, Sagarika.
+2. **National Expos & Hackathons**: NIRMAAN, SISTec Innovation Hackathon (SIH), Mini Anveshana, Future Forge, Tech Expo.
+3. **Placement & Industry Forums**: Sagar Glory, Sagar Manthan, Headstart, AI-Opener Awards.
+4. **Corporate Alliances & Workshops**: Salesforce Immersion, Google Developer Groups, UltraTech VAC, SSB Automotive Training.
+5. **Academic & Executive Symposiums**: Budget Manthan, BizTalk Marketing, Derivatives Trading.
+6. **Induction & Student Leadership**: Shubhagam, Abhinandan, Deeksharambh, SAC Investiture Ceremonies.
+7. **Cultural & National Celebrations**: Raasrang Garba, Sagar Jalsa, Diwali Kalakriti, SGI Silver Jubilee, Science Day, Yoga Day.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 2A. Flagship Annual Techno-Cultural Fest: 19th Sagar Fiesta 2026
+- **Event**: 19th Edition of Sagar Fiesta (Sagar Fiesta 2026)
+- **Official Theme**: *"Roots to Rise – Honour your Roots, Rise towards Future"*
+- **Inauguration Date**: 02 April 2026 / 03 April 2026
+- **Chief Guest**: Dr. S. C. Chaubey (Hon'ble Vice Chancellor, RGPV Bhopal)
+- **Venue**: SISTec Gandhi Nagar Campus (Main Amphitheatre & Sports Grounds)
+- **Scope & Competitive Highlights**:
+  - Central India's largest collegiate techno-cultural extravaganza with 5,000+ student footfall from 50+ institutes.
+  - **Technical Battles**: Robo Race, Robo War, Line Follower Robot, Bridge-O-Craft, and Technical Paper Presentations.
+  - **Cultural Contests**: Battle of Bands, Step-Up Western & Classical Solo/Group Dance, SISTec Kalakriti art, Rangoli.
+  - **Celebrity Pro-Nite**: Live musical concerts and DJ performances.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 2B. Regional & Specialized Fests: Sagar Euphoria, Therafest & Sagarika
+- **Sagar Euphoria 2026 - Digital Dhara (08 May 2026)**:
+  - Annual flagship techno-cultural festival of SISTec Ratibad campus.
+  - Featured vibrant theatrical skits, acoustic rock performances, digital art galleries, LAN gaming championships (BGMI, Valorant), and cultural fashion showcases.
+- **Sagar Therafest 2.0 - Vintage Vogue (14 February 2026)**:
+  - Specialized therapeutics and pharmacotherapy fest organized by SIPTec (Sagar Institute of Pharmacy and Technology).
+  - Theme: *"From Sepia Tones to Spotlight Zone"* — blending retro vintage aesthetics with cutting-edge drug discovery, model pharmacy demonstrations, and patient counseling simulations.
+- **SAGARIKA 2026 – Code The Change (10 March 2026)**:
+  - Inter-collegiate competitive coding and algorithms championship organized by the Training & Placement Cell.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 3A. National Tech Skill Expo: NIRMAAN 2026 (14th Edition)
+- **Event**: NIRMAAN 2026 (14th Edition of the National Level Tech Skill Expo)
+- **Date**: 19 November 2026
+- **Organized By**: Department of Mechanical Engineering, SISTec Gandhi Nagar, in association with Institution's Innovation Council (IIC).
+- **Official Theme**: *"Sustainable Engineering"*
+- **Highlights & Impact**:
+  - Two-day national working engineering hardware model competition and project exhibition.
+  - Over 100+ working project displays, IoT systems, agricultural automation, electric vehicle components, robotics, and societal prototypes.
+  - Included dynamic startup pitching sessions and jury evaluations by distinguished industry leaders from Eicher, UltraTech, and BHEL.
+  - Recognizes young engineering innovators and facilitates patent drafting and incubation for top projects.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 3B. Engineering Expos: Mini Anveshana, Tech Expo & Ignite Innovation
+- **Mini Anveshana 2026 (03 November 2026)**:
+  - Organized by Department of Mechanical Engineering at SISTec Ratibad.
+  - Science and engineering design competition where student teams prototype working mechanisms to solve real-world industrial and community challenges.
+- **Tech Expo 2026 (12 June 2026)**:
+  - State-level technical project and working model competition organized by Department of Electronics & Communication Engineering at SISTec-Ratibad.
+  - Featured automation models, embedded systems, smart home technologies, and sensor arrays.
+- **Ignite Innovation - ECE Project Expo 2026 (31 January 2026)**:
+  - Department of Electronics & Communication project expo showcasing VLSI architectures, microcontrollers, signal processing, and IoT prototypes judged by academic researchers.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 4A. National Hackathons: SISTec Innovation Hackathon (SIH 4.0 & SIH 2.0)
+- **SISTec Innovation Hackathon 4.0 (SIH 4.0 - 30 September 2026)**:
+  - Hosted at SISTec Ratibad campus under the Department of Computer Science & Engineering.
+  - 24-hour non-stop national software and hardware hackathon challenging students to solve complex industry problem statements.
+- **SISTec Innovation Hackathon 2.0 (SIH 2.0 - CSI Student Chapter SISTec-R)**:
+  - Participation: Over 70 teams comprising 350+ students from premier institutions across India (including VIT Vellore, AMITY Noida, IIIT Bhopal).
+  - Problem Statement Tracks:
+    1. HealthTech & Healthcare Diagnostics
+    2. AgriTech & Smart Farming
+    3. EduTech & Inclusive Learning
+    4. Law & Order and Cybersecurity
+    5. Smart Cities, Clean Energy & Environment
+  - Continuous mentoring by corporate architects and cash awards for winning innovations.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 4B. Innovation Challenges & Cyber Security Workshops
+- **Future Forge Ideathon 2026 (15 June 2026)**:
+  - Organized by the Department of Basic Science at SISTec Ratibad.
+  - Multi-disciplinary ideation championship where first-year and senior students pitch novel concepts in renewable energy, circular economy, and waste valorization.
+- **World Creativity & Innovation Day Celebration (21 April 2026)**:
+  - Held under the Institution's Innovation Council (IIC).
+  - Competitions: *"Junk Genius"* (hardware prototyping from scrap components) and *"Code and Craft"* (software problem-solving).
+- **Hands-On Workshop on Cyber Security and Digital Forensics (18 June 2026)**:
+  - Organized by Department of CSE (Cyber Security).
+  - Covered ethical hacking, network packet sniffing, digital evidence preservation, and vulnerability assessments using Kali Linux tools.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 5A. Placement Felicitation Mega Event: Sagar Glory 2026
+- **Event**: Sagar Glory 2026 (Annual Placement Felicitation Ceremony)
+- **Date**: 30 May 2026
+- **Chief Guest**: **Hon'ble Governor of Madhya Pradesh, Shri Mangubhai Patel**
+- **Venue**: SISTec Gandhi Nagar Main Auditorium
+- **Highlights & Milestones Celebrated**:
+  - Grand celebration felicitating students of the graduating batch who secured campus placements across 1,150+ job offers.
+  - Top achievements acknowledged: ₹22 LPA package (BNY Mellon) and tech placements in TCS, Cognizant, Infosys, Cisco, and Netlink.
+  - Governor Mangubhai Patel presented appreciation trophies and certificates to meritorious placed students and their proud parents.
+  - Commended Sagar Group's pioneering role in technical skill building, corporate readiness, and women engineering empowerment.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 5B. Corporate Readiness Programs: Sagar Manthan & AI-Opener Awards
+- **Sagar Manthan 2026 (23 February 2026)**:
+  - Certified Placement Readiness Program organized by the Centralized Training & Placement (T&P) Cell.
+  - Intensive corporate boot camp featuring quantitative aptitude training, logical reasoning drills, Group Discussion (GD) simulations, technical interview boot camps, and resume critique by corporate HR consultants.
+- **AI-Opener Awards 2026 - Revolutionizing Placements with Pod.ai (01 May 2026)**:
+  - Joint ceremony with Pod.ai honoring top-performing students and faculty coordinators.
+  - Highlighted AI-driven talent mapping, automated proctored technical evaluations, and personalized placement recommendations for SISTec engineers.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 5C. Industry-Academia Conclaves: Headstart Forum
+- **SISTec Business School Headstart (30 March 2026)**:
+  - Flagship annual Industry-Academia Forum for management and business students.
+  - High-level panel discussions with corporate HR directors, investment bankers, and startup founders on the evolving workplace, AI in marketing, and fintech disruption.
+- **SIPTec Headstart - An Industry-Academia Forum (28 February 2026)**:
+  - Organized by the Department of Pharmacy (SIPTec).
+  - Official Theme: *"Purpose & Potency: Making Medicine Matter"*.
+  - Brought together pharmaceutical executives from Lupin, Sun Pharma, Cipla, and Aristo to discuss USFDA compliance, cGMP guidelines, formulation science, and analytical QA/QC career pathways.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 6A. Corporate Alliances: Salesforce Immersion & Google Developer Groups
+- **Salesforce Student Immersion Program 2026 (25 July 2026)**:
+  - Organized by the Training & Placement Cell and Computer Science Engineering.
+  - Comprehensive hands-on immersion on the Salesforce CRM platform, Apex coding, Lightning Web Components (LWC), and Trailhead badge certifications.
+- **Google Developer Group (GDG) Sessions**:
+  - **GDG Interactive Session & Goodies Distribution (23 May 2026)**: Conducted by CSE, distributing developer swag and introducing Google open-source initiatives.
+  - **Google Expert Session by Ms. Divya Mowar (21 July 2026)**: Interactive guest masterclass focusing on cloud computing, career pathways in tech giants, and software engineering problem-solving.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 6B. Industrial Tech Workshops: UltraTech VAC & SSB Automotive Training
+- **UltraTech Workshop on Advanced Construction Materials & Solutions VAC (17 April 2026)**:
+  - Organized by Department of Civil Engineering at SISTec Ratibad in association with UltraTech Cement.
+  - Hands-on Value-Added Course (VAC) covering self-compacting concrete, green concrete, non-destructive ultrasonic testing, and modern concrete mix design.
+- **Automotive Technology Workshop for Assistant Commandants of SSB (09 June 2026)**:
+  - Specialized high-level training workshop conducted for Assistant Commandants of the **Sashastra Seema Bal (SSB)** paramilitary force.
+  - Hosted at the Eicher Centre of Excellence in Farm Machinery and Automotive Engineering.
+  - Practical training on modern diesel engine mechanics, power transmission, hydraulic diagnostics, and field repair.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 6C. Corporate Pre-Placement Talks & IT Expert Insights
+- **Tata Consultancy Services (TCS) Pre-Placement Talk (17 March 2026)**:
+  - Conducted for the 2026 passing batch, outlining recruitment pipelines, TCS Digital & Ninja tracks, technical test patterns, and enterprise expectations.
+- **AI Foundation & Application: Industry Insight by TCS Expert (24 April 2026)**:
+  - Keynote masterclass delivered by Mr. Vipin Mahajan (Senior Industry Consultant, TCS).
+  - Explored enterprise GenAI implementations, machine learning pipelines, and predictive cloud analytics.
+- **Technology Commercialization & Licensing Strategy (16 April 2026)**:
+  - Expert session by AI-DS and IIC covering patent commercialization, technology transfer protocols, and university-industry startup spin-offs.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 7A. Business & Executive Talks: Budget Manthan & Marketing Masterclasses
+- **Budget Manthan 2026 – Post-Budget Analytical Talk (04 February 2026)**:
+  - Annual economic symposium organized by SISTec Business School.
+  - Prominent economists and chartered accountants analyzed the Union Budget 2026, breaking down fiscal deficits, capital expenditure allocations, MSME incentives, and personal income tax slabs.
+- **BizTalk Series on Marketing (20 November 2026)**:
+  - Theme: *"Marketing in the Current Business Environment: From Product to Value"*.
+  - Corporate leaders discussed brand equity, digital consumer journeys, and value-based customer acquisition.
+- **The World of Derivatives: Basics to Beneficiaries (25 February 2026)**:
+  - Expert financial session by Ms. Smitha Chaudhary on equity derivatives, options Greeks, and portfolio risk hedging.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 7B. Leadership, Drama & Communication Masterclasses
+- **Drama Skills for Corporate Thrills with M. K. Raina (03 September 2026)**:
+  - Interactive theatre and personality development masterclass conducted by legendary actor, director, and theatre doyen **M. K. Raina**.
+  - Trained students in voice modulation, stage presence, body language, and non-verbal communication for high-impact corporate presentations and leadership.
+- **Secret of Effective Communication by AVM Pramod Shrivastava (05 June 2026)**:
+  - Inspiring guest lecture by **Air Vice Marshal (AVM) Pramod Shrivastava** at SISTec Ratibad on defense-grade communication, crisis decision-making, and emotional intelligence.
+- **Building a Greener Tomorrow: Sustainable Steel Production (26 February 2026)**:
+  - Mechanical engineering guest lecture on carbon-neutral metallurgy and blast furnace decarbonization.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 8A. Student Induction & Orientation Programs (Shubhagam & Abhinandan)
+- **शुभागम (Shubhagam 2026 - 19 August 2026)**:
+  - Grand centralized orientation program for new entrants of B.Tech, B.Pharm, and BBA at SISTec Gandhi Nagar.
+  - Familiarized freshers with academic schemes, credit structures, RGPV exam guidelines, SAC clubs, and Sagar Group values.
+- **अभिनंदन (Abhinandan 2026 - 17 August 2026)**:
+  - Induction ceremony for incoming batches of engineering, pharmacy, and management at SISTec Ratibad.
+  - Included campus heritage walks, lab familiarization, and mentor-mentee allocations.
+- **दीक्षारम्भ समारोह (Deeksharambh Samaroh 2026–2028 - 08 September 2026)**:
+  - Comprehensive 3-day MBA orientation program at SISTec Business School with case-study workshops and corporate ice-breaking sessions.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 8B. Student Leadership & Farewell Galas (SAC & Safarnama)
+- **Student Activity Council (SAC) Investiture Ceremonies**:
+  - **SAC Investiture Ceremony 2026–27 (27 October 2026 at Gandhi Nagar)**.
+  - **SAC Investiture Ceremony 2026 (28 October 2026 at Ratibad)**.
+  - Newly elected student leaders across Art & Cultural, Sports, Placement, and Digital & Photography committees were formally sworn in and awarded badges of office.
+- **Farewell Celebrations for the Batch of 2026**:
+  - **SAFARNAMA 2026 (11 June 2026)**: An enchanting farewell gala celebrated by SISTec Business School for MBA graduates.
+  - **Farewell 2026 (09 June 2026)**: Centralized farewell for B.Tech and B.Pharm graduating engineers, featuring memory reels, faculty blessings, and title awards.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 9A. Cultural Celebrations: Raasrang, Sagar Jalsa & Diwali Kalakriti
+- **Raasrang Garba Mahotsav 2026 & Sagar Jalsa 2026 (16 October 2026)**:
+  - Spectacular Navratri celebrations organized by the Student Activity Council (SAC).
+  - Over 500+ students, faculty members, and management joined in traditional Gujarati and Rajasthani attire for live dhol beats, Garba rounds, and Dandiya raas.
+  - Prizes awarded for Best Traditional Attire, Best Garba Performer, and Best Group Coordination.
+- **Diwali Celebrations 2026 (03 November 2026)**:
+  - Celebrated with SISTec Kalakriti art exhibition, intricate floor Rangoli designs, and campus-wide illumination with 300+ clay diyas.
+  - Emphasized traditional values, joy, and eco-friendly celebration.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 9B. Institutional Milestones: SGI Silver Jubilee & CM SPS Foundation
+- **SGI Silver Jubilee & Foundation Stone Laying Ceremony (20 February 2026)**:
+  - Milestone institutional celebration marking 25 glorious years of the Sagar Group in education and nation building.
+  - **Chief Guest**: **Hon'ble Chief Minister of Madhya Pradesh, Dr. Mohan Yadav**.
+  - Formal foundation stone laying ceremony of **Sagar Public School (SPS) Misrod**, Bhopal.
+  - Commemorated Chairman Shri Sudhir Kumar Agrawal's journey in building 5 world-class Sagar Public Schools, 6 professional SISTec engineering/pharmacy/management colleges, SMPL spinning mills, and Sagar Multispeciality Hospital, transforming Central India's education and corporate landscape.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 10A. National Observances: Science Day, Women's Day & Yoga Day
+- **National Science Day Celebrations 2026**:
+  - Celebrated on **06 March 2026** (SISTec Ratibad) and **09 March 2026** (SISTec Gandhi Nagar) by the Department of Basic Science.
+  - Honored Sir C. V. Raman's discovery of the Raman Effect with live physics demonstrations, quiz bowls, and working science models.
+- **International Women's Day 2026 (09 March & 10 March 2026)**:
+  - Gandhi Nagar & Ratibad held keynote conferences on female leadership in STEM, along with dedicated women's health checkups and cancer awareness talks by Sagar Hospital specialists.
+- **International Yoga Day 2026 (19 June & 20 June 2026)**:
+  - Theme: *"Yoga for Healthy Ageing"*.
+  - Mass Surya Namaskar and Pranayama sessions conducted at the lakeside amphitheatre and swimming pool lawns.
+
+---
+
+# SAGAR GROUP OF INSTITUTIONS (SISTec) - COMPLETE EVENTS, FESTS & GALLERIES GUIDE
+
+## 10B. Professional Body Milestones: IEEE Day & Club Reformation
+- **IEEE Day Celebration 2026 (15 October 2026)**:
+  - Celebrated by the IEEE Student Branch and Department of Electrical Engineering.
+  - Commemorated the historic gathering of engineers in 1884 with technical paper competitions, technical quizzes, and talks on future power electronics.
+- **Club Reformation Ceremony of IEEE Student Branch & CIS Chapter (24 March 2026)**:
+  - Organized by Department of Artificial Intelligence & Data Science.
+  - Reconstituted student executive boards for the IEEE Student Branch and Computational Intelligence Society (CIS), setting annual roadmaps for AI hackathons and global research publishing.
