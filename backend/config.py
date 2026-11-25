@@ -40,7 +40,7 @@ DOMAINS = {
         "name": "Hostels & Campus Facilities",
         "folder": "hostels",
         "description": "Hostel accommodation, occupancy types, mess menu & food, curfew timings, bus routes & transport, sports grounds, library, medical aid, student clubs, SAC, IEEE, CSI, SAE, fests, hackathons.",
-        "keywords": ["hostel", "hostels", "mess", "food", "dining", "bus", "buses", "transport", "room", "rooms", "curfew", "warden", "library", "sports", "gym", "gymnasium", "medical", "hospital", "doctor", "campus facility", "amenities", "wifi", "internet", "club", "clubs", "sac", "ieee", "csi", "sae", "student activity council", "fest", "fiesta", "jalsa", "garba", "hackathon", "events", "celebration", "nss", "iic", "cultural"]
+        "keywords": ["hostel", "hostels", "mess", "food", "dining", "bus", "buses", "transport", "room", "rooms", "curfew", "warden", "library", "sports", "gym", "gymnasium", "medical", "hospital", "doctor", "campus facility", "facilities", "facilities@sistec", "smart classes", "smart classrooms", "academic blocks", "swimming pool", "futsal", "cricket grounds", "basketball courts", "volleyball courts", "badminton", "canteen", "canteens", "atm", "boys hostel", "girls hostel", "hostel capacity", "mess capacity", "life @ sistec", "student life", "amenities", "wifi", "internet", "club", "clubs", "sac", "ieee", "csi", "sae", "student activity council", "fest", "fiesta", "jalsa", "garba", "hackathon", "events", "celebration", "nss", "iic", "cultural"]
     },
     "placements": {
         "name": "Training & Placements (T&P)",
