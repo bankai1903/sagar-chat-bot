@@ -1,0 +1,91 @@
+[SISTEC RECRUITERS SPEAK - VIDEO GALLERY & HEADSTART OVERVIEW]
+The 'Recruiters' Speak' section of the SISTec Video Gallery (https://www.sistec.ac.in/video-gallery) features video testimonials, industry bytes, and corporate addresses from senior executives of global multinational companies.
+- Context & Conclaves: Captured during flagship Industry-Academia Forums including SISTec Headstart 5.0 ('Flip The Script'), Headstart 3.0, and the ongoing 'Expert Bytes' corporate series.
+- Executive Roster: 14 video interviews featuring Vice Presidents, Chief Technology Officers (CTOs), Managing Directors, and Talent Acquisition Heads representing TCS, HCLTech, Capgemini, Citi Bank, Netflix, Intel, Renault Nissan, Salesforce, ABSYZ, EY, Bridgestone, and IBSL.
+- Key Focus Areas: Feedback on SISTec student technical caliber, employability training (C2C), lab infrastructure, emerging technologies (AI, Cloud, VLSI, Salesforce), and recruitment criteria.
+
+[SISTEC RECRUITERS SPEAK - HCLTECH & CAPGEMINI LEADERSHIP]
+Video feedback from leaders of global IT engineering & cloud powerhouses:
+1. Mr. Sunny Billava (Head - nexALM CoE, HCLTech):
+   - Title: 'SISTec Headstart 5.0 | Industry Insights by Sunny Billava, HCLTech'
+   - URL: https://www.youtube.com/watch?v=vjvLAVTToN0
+   - Insights: Commended SISTec's focus on Application Lifecycle Management (ALM), enterprise test automation, and collaborative industry problem solving.
+2. Mr. Hemant Koshti (Director, Marketing, HCLTech):
+   - Title: 'Headstart 2026: Learning Beyond the Classroom'
+   - URL: https://www.youtube.com/watch?v=jQzTQmqnSW4
+   - Insights: Highlighted continuous upskilling, agility, and tech marketing storytelling.
+3. Mr. Mukesh Jain (CTO, Capgemini):
+   - Title: 'Mr. Mukesh Jain (CTO, Capgemini) | SISTec Headstart 3.0'
+   - URL: https://www.youtube.com/watch?v=C9oPAKiXeWk
+   - Insights: Praised students' grasp of cloud architecture, AI workflows, and Capgemini hiring benchmarks.
+
+[SISTEC RECRUITERS SPEAK - TATA CONSULTANCY SERVICES (TCS)]
+Insights and campus hiring guidelines from Tata Consultancy Services:
+1. Mr. Gaurav Ghelani (Regional Head, Academic Interface Program, TCS):
+   - Title: 'Expert Bytes | Mr. Gaurav Ghelani | Regional Head, TCS | SISTec Headstart'
+   - URL: https://www.youtube.com/watch?v=TQ70ZhUeCXc
+   - Insights:
+     * Applauded SISTec's academic environment, student aptitude, and structured grooming through the Campus-to-Corporate (C2C) training cell.
+     * Highlighted key requirements for TCS National Qualifier Test (NQT) and Digital/Ninja hiring bands.
+     * Emphasized algorithmic problem solving, adaptability to enterprise tech stacks, and strong communication skills.
+     * Praised SISTec faculty for proactive alignment with industry 4.0 requirements and TCS academic initiatives.
+
+[SISTEC RECRUITERS SPEAK - SALESFORCE ECOSYSTEM & CRM LEADERS]
+Corporate bytes from leaders of Salesforce and enterprise CRM alliances:
+1. Jashuva P (Salesforce Lead at ABSYZ):
+   - Title: 'Salesforce & Future Tech Trends | Jashuva P at SISTec Headstart 5.0'
+   - URL: https://www.youtube.com/watch?v=pMxuM2EoX48
+   - Insights: Commended student proficiency in Salesforce Trailhead, Apex programming, Lightning Web Components (LWC), and cloud business applications.
+2. Mr. Parag Trivedi (Salesforce):
+   - Title: 'Mr. Parag Trivedi at SISTec Headstart 5.0'
+   - URL: https://www.youtube.com/watch?v=hKxa7PJsZOE
+   - Insights: Highlighted high demand for certified Salesforce developers and the value of SISTec's hands-on Trailhead ecosystem.
+3. Ms. Steffi Diana (Head HR and Business Process, ABSYZ):
+   - Title: 'Expert Bytes | Steffi Diana, Head HR & Business Process, ABSYZ'
+   - URL: https://www.youtube.com/watch?v=gCwO0RNbtXk
+   - Insights: Praised student professional grooming, cultural adaptiveness, and core behavioral readiness during campus recruitment drives.
+
+[SISTEC RECRUITERS SPEAK - BANKING, FINANCIAL TECH & BIG 4 AUDIT]
+Insights from global investment banking and audit/tax consulting leadership:
+1. Mr. Himanshu Paliwal (Assistant Vice President - AVP, Citi Bank):
+   - Title: 'Mr. Himanshu Paliwal (AVP, Citi Bank) | SISTec Headstart 3.0'
+   - URL: https://www.youtube.com/watch?v=mGPgGYjaGS0
+   - Insights: Spoke on mission-critical banking architectures, financial data analytics, cyber resilience in global banking, and high-frequency transaction security.
+2. Mr. Harmeet Singh Saluja (Assistant Manager, Ernst & Young - EY):
+   - Title: 'Expert Bytes | Mr. Harmeet Singh Saluja, EY | SISTec Headstart'
+   - URL: https://www.youtube.com/watch?v=lj4Jr-uRTS8
+   - Insights: Discussed business analytics, IT auditing frameworks, risk advisory services, and how engineering and MBA graduates succeed at Big 4 global consulting firms.
+
+[SISTEC RECRUITERS SPEAK - AUTOMOTIVE & ADVANCED MANUFACTURING]
+Industry bytes from automotive engineering and manufacturing conglomerates:
+1. Mr. Phalgun Nagendran (General Manager - GM, Renault Nissan Technology Business Centre India):
+   - Title: 'Mr. Phalgun Nagendran, GM Renault Nissan Tech | SISTec Headstart 3.0'
+   - URL: https://www.youtube.com/watch?v=6KmSZAk7Skg
+   - Insights: Highlighted the successful partnership with SISTec in establishing the Centre of Excellence in Advanced Automotive Engineering, praising student competency in EV powertrains and vehicle telemetry.
+2. Mr. Madhu Subhramani (Senior General Manager - Sr. GM, Bridgestone):
+   - Title: 'Mr. Madhu Subramani (Sr. GM, Bridgestone) | SISTec Headstart 3.0'
+   - URL: https://www.youtube.com/watch?v=7QKGehacY4Q
+   - Insights: Emphasized shop-floor discipline, total quality management (TQM), smart supply chain logistics, and production line safety standards.
+
+[SISTEC RECRUITERS SPEAK - GLOBAL BIG TECH, ENTERTAINMENT & IT SERVICES]
+Perspectives from global product technology and enterprise software CEOs:
+1. Mr. Kushendra Singh (Talent Acquisition & Search, Netflix):
+   - Title: 'Expert Bytes | Mr. Kushendra Singh, Netflix | SISTec Headstart'
+   - URL: https://www.youtube.com/watch?v=r6q70ItF5Ds
+   - Insights: Shared global perspectives on high-scale distributed systems, streaming architectures, culture of freedom and responsibility, and what global tech leaders look for in software engineers.
+2. Mr. Asim Nilose (CEO, IBSL):
+   - Title: 'Mr. Asim Nilose (CEO, IBSL) | SISTec Headstart 3.0'
+   - URL: https://www.youtube.com/watch?v=_vcgVdGbwwQ
+   - Insights: Addressed entrepreneurship, IT service excellence, software product incubation, and student problem-solving capability in real-world business scenarios.
+
+[SISTEC RECRUITERS SPEAK - SEMICONDUCTOR TECH & RECRUITMENT GUIDELINES]
+Hardware engineering insights and recruiter recommendations for students:
+1. Dr. G.S. Javed (Technical Lead, Intel):
+   - Title: 'Expert Bytes | Dr. G.S. Javed, Intel | SISTec Headstart'
+   - URL: https://www.youtube.com/watch?v=rWM0pvcjRNg
+   - Insights: Detailed semiconductor design pipelines, VLSI fabrication, silicon verification, and the vital importance of MeitY-supported EDA tools at SISTec. Also serves as an esteemed member of the SISTec Advisory Board.
+2. Unified Corporate Guidance for Aspiring Students:
+   - Build strong foundations in Data Structures, Algorithms, and System Design.
+   - Earn industry-certified credentials (Salesforce, Cisco, Red Hat, NPTEL).
+   - Leverage SISTec Campus-to-Corporate (C2C) training modules for behavioral confidence and aptitude mastery.
+   - Portal Access: Watch all recruiter videos at https://www.sistec.ac.in/video-gallery
