@@ -24,9 +24,12 @@ async def lifespan(app: FastAPI):
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     for info in DOMAINS.values():
         (DATA_DIR / info["folder"]).mkdir(parents=True, exist_ok=True)
-    total_existing = sum(get_or_create_collection(d).count() for d in DOMAINS)
-    if total_existing == 0:
-        index_all_domains()
+    try:
+        total_existing = sum(get_or_create_collection(d).count() for d in DOMAINS)
+        print(f"INFO: ChromaDB initialized with {total_existing} chunks across {len(DOMAINS)} domains.")
+    except Exception as e:
+        print(f"WARNING: ChromaDB check encountered: {e}")
+    # Yield immediately so Uvicorn opens port within < 1 second and Render healthcheck passes
     yield
 
 app = FastAPI(

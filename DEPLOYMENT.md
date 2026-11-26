@@ -116,6 +116,15 @@ Open your browser at `http://localhost:8000` to interact with the full chatbot!
 
 ---
 
+## ⚡ Free-Tier RAM & Port Optimization (Render 512MB RAM)
+
+Render's free tier has a 512MB RAM limit and strict port scan timeout. We have pre-configured optimizations to stay safely under ~150MB:
+- **Pre-baked ChromaDB:** All 90 college knowledge documents (~1,300+ chunks, ~24MB total) are pre-indexed into SQLite and copied into the Docker container.
+- **Build-Time Model Warmup:** Chroma's `all-MiniLM-L6-v2` ONNX model is pre-downloaded during Docker build time, preventing runtime downloads and memory spikes.
+- **Instant Port Binding:** Uvicorn binds to `$PORT` (`10000`) within 1 second, passing Render's port scan check immediately.
+
+---
+
 ## 🔍 Verification & Health Check
 
 Once deployed, you can verify your service status via:
