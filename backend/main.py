@@ -6,6 +6,8 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, UploadFile, File, Form, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse, JSONResponse
 from pydantic import BaseModel
 
 from backend.config import DOMAINS, DATA_DIR, GEMINI_API_KEY
@@ -176,4 +178,32 @@ def reindex_all():
     """Trigger full reindexing of all domain documents."""
     summary = index_all_domains()
     return {"status": "success", "summary": summary}
+
+# =====================================================================
+# Serve Built Frontend (All-in-One Single Container Deployment)
+# =====================================================================
+BASE_DIR = Path(__file__).resolve().parent.parent
+FRONTEND_DIST = BASE_DIR / "frontend" / "dist"
+
+if FRONTEND_DIST.exists():
+    # Mount frontend static assets at root path
+    app.mount("/", StaticFiles(directory=str(FRONTEND_DIST), html=True), name="frontend")
+
+@app.exception_handler(404)
+async def custom_404_handler(request, exc):
+    """Fallback handler to support SPA routing while preserving 404s for API."""
+    if request.url.path.startswith("/api"):
+        return JSONResponse(status_code=404, content={"detail": f"API endpoint '{request.url.path}' not found."})
+    
+    index_file = FRONTEND_DIST / "index.html"
+    if index_file.exists():
+        return FileResponse(index_file)
+    
+    return JSONResponse(status_code=404, content={"detail": "Page not found."})
+
+if __name__ == "__main__":
+    import uvicorn
+    port = int(os.getenv("PORT", 8000))
+    uvicorn.run("backend.main:app", host="0.0.0.0", port=port, reload=False)
+
 

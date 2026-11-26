@@ -1,0 +1,16 @@
+services:
+  sistec-chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sistec-rag-chatbot:latest
+    container_name: sistec_college_chatbot
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - LLM_MODEL=${LLM_MODEL:-gemini-flash-lite-latest}
+    restart: unless-stopped
+    volumes:
+      - ./chroma_db:/app/chroma_db
