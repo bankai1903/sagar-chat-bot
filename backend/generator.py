@@ -51,16 +51,26 @@ def generate_answer(
         f"Answer:"
     )
     
-    import time
-    for attempt in range(3):
+    models_to_try = [
+        LLM_MODEL,
+        "gemini-3.1-flash-lite",
+        "gemini-3.5-flash-lite",
+        "gemini-3.5-flash"
+    ]
+    seen = set()
+    models = [m for m in models_to_try if not (m in seen or seen.add(m))]
+
+    last_error = None
+    for model_name in models:
         try:
             response = client.models.generate_content(
-                model=LLM_MODEL,
+                model=model_name,
                 contents=full_prompt
             )
-            return response.text.strip()
+            if response.text and response.text.strip():
+                return response.text.strip()
         except Exception as e:
-            if ("503" in str(e) or "429" in str(e) or "UNAVAILABLE" in str(e)) and attempt < 2:
-                time.sleep(2.0 * (attempt + 1))
-                continue
-            return f"### Information from SISTec Records:\n\n{context}\n\n*(Gemini API: {e})*"
+            last_error = e
+            continue
+
+    return f"### Information from SISTec Records:\n\n{context}\n\n*(Gemini API: {last_error})*"

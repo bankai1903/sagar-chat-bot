@@ -52,17 +52,31 @@ Available Domains:
 Respond ONLY with valid JSON:
 {{"primary_domain": "key", "target_domains": ["key1"], "is_college_related": true, "confidence": 0.95, "reasoning": "text"}}
 """
-    try:
-        response = client.models.generate_content(
-            model=LLM_MODEL,
-            contents=[system_prompt, f"User Query: {query}"]
-        )
-        text = response.text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
-        return json.loads(text)
-    except Exception as e:
-        fb = keyword_route(query)
-        fb["reasoning"] += f" (LLM route fallback: {e})"
-        return fb
+    models_to_try = [
+        LLM_MODEL,
+        "gemini-3.1-flash-lite",
+        "gemini-3.5-flash-lite",
+        "gemini-3.5-flash"
+    ]
+    seen = set()
+    models = [m for m in models_to_try if not (m in seen or seen.add(m))]
+
+    last_err = None
+    for model_name in models:
+        try:
+            response = client.models.generate_content(
+                model=model_name,
+                contents=[system_prompt, f"User Query: {query}"]
+            )
+            text = response.text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+            return json.loads(text)
+        except Exception as e:
+            last_err = e
+            continue
+
+    fb = keyword_route(query)
+    fb["reasoning"] += f" (LLM route fallback: {last_err})"
+    return fb
 
 def route_query(query: str) -> Dict[str, Any]:
     """Fast keyword routing first (sub-millisecond, zero quota). LLM fallback only if ambiguous."""
