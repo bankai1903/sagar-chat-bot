@@ -270,14 +270,14 @@ export default function App() {
     <div className={`h-screen max-h-screen overflow-hidden flex flex-col font-sans transition-colors duration-200 ${
       isDarkMode 
         ? 'bg-[#141216] text-[#f5f5f5]' 
-        : 'bg-[#fdfbf9] text-[#1c1917]'
+        : 'bg-gradient-to-br from-[#fdf6f0] via-[#f9eee3] to-[#fbf0e6] text-[#1c1917]'
     }`}>
       
       {/* 1. Header Bar */}
       <header className={`flex-shrink-0 h-16 border-b px-4 sm:px-8 flex items-center justify-between z-20 transition-colors ${
         isDarkMode 
           ? 'bg-[#1c1920] border-stone-800' 
-          : 'bg-white border-amber-200/70 shadow-xs'
+          : 'bg-white/90 backdrop-blur-md border-amber-200/80 shadow-xs'
       }`}>
         {/* Left: Brand Identity */}
         <div className="flex items-center gap-3">
@@ -433,7 +433,7 @@ export default function App() {
                           className={`p-4 rounded-2xl border transition-all cursor-pointer card-3d-hover ${
                             isDarkMode
                               ? 'bg-[#1c1920] border-stone-800 hover:border-rose-500/60'
-                              : 'bg-white border-amber-200 hover:border-rose-300 hover:shadow-md'
+                              : 'bg-white border-amber-200/90 shadow-md shadow-amber-950/5 hover:border-rose-300 hover:shadow-xl'
                           }`}
                         >
                           <div className="flex items-center justify-between mb-2">
@@ -693,8 +693,8 @@ export default function App() {
                   e.preventDefault();
                   handleSendMessage();
                 }}
-                className={`flex items-center gap-2 p-1.5 rounded-2xl border shadow-sm transition-all ${
-                  isDarkMode ? 'bg-[#1c1920] border-stone-800' : 'bg-white border-amber-200 shadow-slate-100'
+                className={`flex items-center gap-2 p-1.5 rounded-2xl border transition-all ${
+                  isDarkMode ? 'bg-[#1c1920] border-stone-800 shadow-sm' : 'bg-white border-amber-200/90 shadow-md shadow-amber-950/5'
                 }`}
               >
                 <input
